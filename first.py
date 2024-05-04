@@ -6,7 +6,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import sys
 import json
-import re
 
 def main():
     if len(sys.argv) == 2:
@@ -41,11 +40,10 @@ def get_videos_links(channelId):
     videoLinks = []
 
     try:
-        pattern = r"=(.*)"
         for e in WebDriverWait(driver, 30).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div#details'))):
             title = e.find_element(By.CSS_SELECTOR,'a#video-title-link').get_attribute('title')
             vurl = e.find_element(By.CSS_SELECTOR,'a#video-title-link').get_attribute('href')
-            vidId = re.search(pattern,vurl).group(1)
+            vidId = vurl.split("v=")[1]
             videoLinks.append({
                 'video_url':vurl,
                 'title':title,
