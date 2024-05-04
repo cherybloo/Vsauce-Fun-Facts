@@ -1,0 +1,56 @@
+{
+    "name": "vsauce",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    "description": "Our World Is Awesome",
+    "permissions": [
+        "storage"
+    ],
+
+    "content_scripts": [
+        {
+        "matches": [
+            "http://www.facebook.com/*",
+            "https://www.facebook.com/*",
+            "http://web.facebook.com/*",
+            "https://web.facebook.com/*",
+            "http://twitter.com/*",
+            "https://twitter.com/*",
+            "http://x.com/*",
+            "https://x.com/*",
+            "https://www.reddit.com/",
+            "http://www.reddit.com/",
+            "https://old.reddit.com/",
+            "http://old.reddit.com/",
+            "https://news.ycombinator.com/*",
+            "http://www.linkedin.com/*",
+            "https://www.linkedin.com/*",
+            "https://www.youtube.com/*",
+            "https://www.github.com/*",
+            "https://github.com/*",
+            "http://www.instagram.com/*",
+            "https://www.instagram.com/*"
+            ],
+        "js": ["funfact.js"]
+        }
+    ],
+
+    "browser_action": {
+        "default_icon": {
+            "16": "vsauce-16.png",
+            "32": "vsauce-32.png",
+            "48": "vsauce-48.png",
+            "64": "vsauce-64.png",
+            "128": "vsauce-128.png"
+        },
+        "default_title": "vsauce"
+    },
+
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true,
+        "browser_style": false,
+        "chrome_style": false
+    }
+}
