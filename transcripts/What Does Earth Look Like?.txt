@@ -1,0 +1,413 @@
+Hey, Vsauce. Michael here.
+
+This point of light in the sky is
+
+Earth as seen from the surface of Mars.
+
+And this is Earth as seen from Saturn.
+
+Here's an image taken only 45,000 kilometres away,
+
+the famous Blue Marble. But what does
+
+Earth really look like?
+
+Well, it depends on how you define "look".
+
+The word look comes from
+the old Breton word "lagud",
+
+mean eye, the human eye.
+
+And that's part of the problem.
+Images like this are based on light
+
+humans can see. But we don't see
+
+everything.
+There's a fantastic episode of Radiolab that uses
+
+sound to illustrate just how different other creature
+
+visual spaces are from our our own.
+When we talk about the way something
+
+physically looks
+
+we are talking about the visual perception of emitted
+
+or reflected electromagnetic radiation.
+
+Specifically, visible light.
+
+Light we perceive as red has a longer wavelength
+
+than blue or violet.
+But what if I crank the wavelength
+
+even shorter? Does it stop being light?
+
+No, it just becomes light
+
+you can't see - ultraviolet, X-rays,
+
+gamma rays.
+Going the other way, you get infrared,
+
+microwaves and finally, radio waves.
+
+In principle, the spectrum of possible
+
+electromagnetic wavelengths is infinite.
+
+But even within the range of wavelengths we observe,
+
+the breadth is breathtaking. If the entire
+
+practical spectrum of wavelengths was laid out
+
+linearly from New York to Los Angeles,
+the visual portion we see
+
+would only be the size of
+
+100 nanometers. Small enough
+
+to slip through a surgical mask. Point is,
+
+when it comes to what their is to see, our
+
+eyes miss out on lot. For instance,
+
+take a look a remote control.
+Many of  these things communicate with light
+
+of wavelengths we can't see but mobile phone cameras
+
+can. Try this at home. Push a button on a
+remote control and you won't see much
+
+but use a mobile phone camera
+to detect wavelengths you can't see
+
+and have them rendered visible.
+There's a whole lot going on
+
+we miss out on. Our night sky is full of
+
+frequencies we can't see with our eyes alone
+
+but Chromoscope.net allows you to extend
+
+your vision.
+This is the Milky Way as we see it,
+
+the visible light it gives off. But slide
+
+to see how it would look if our eyes
+sensed other frequencies.
+
+Of course, we are having to represent
+these other frequencies
+
+with visible colours because even
+electromagnetic pretend time
+
+is bounded by our puny limits.
+
+As for Earth, if we only saw infrared
+frequencies it might look something
+
+like this in our minds.
+Ultraviolet and extreme
+
+ultraviolet vision would return
+unrecognizable spheres.
+
+With X-ray vision auroras around the
+poles would shine brightly
+
+and gamma ray vision would give
+Earth a bright edge
+
+from high-energy electromagnetic
+radiation hitting the atmosphere
+
+at a shallow angle.
+
+So, which view is correct? Is there an
+
+absolute true appearance of the Earth?
+
+We haven't even started yet.
+
+Look back at the Blue Marble.
+What's with the tyranny 
+
+of "north" meaning "up"? Perhaps,
+
+it's because we often equate "up" with "better"
+
+and many early map makers were from
+North of the equator.
+
+But upside-down maps are equally true,
+
+no matter how strange day may seem to us.
+Funny enough,
+
+the famous Blue Marble itself is a
+product of North equals
+
+up bias. It didn't originally look like this.
+
+The crew of Apollo 17 originally took it
+
+like this. NASA rotated it to
+
+fit our traditional idea of up after the fact.
+
+Here's a visual birth that comes from
+the US Naval Observatory's live
+
+animation of our planet.
+You can see exactly what parts are
+
+in its shadow at this very moment.
+Other shadows fall
+
+on Earth as well, like the Moon's shadow.
+
+Last week @BadAstronomer shared this
+image. The dark smudges on the left is
+
+actually
+
+the Moon's shadow during a Solar Eclipse
+
+as seen from above Earth.
+There's another problem with
+
+the Blue Marble - it's flat and the Earth
+
+is three-dimensional.
+A  globe is the best way to represent the Earth
+
+but globes are difficult to carry around
+and even when displayed in two
+
+dimensions,
+
+well, you just can't see everything at once.
+
+A flat map of the Earth is really convenient
+
+but requires projecting a globe onto something
+
+flat. And a sphere's surface cannot be
+represented on a plane
+
+without distortion.
+The West Wing famously pointed out
+
+the limitations of flat maps.
+
+There's no such thing as a perfect flat map of the entire
+
+world. Some maps are useful for some
+things and other maps for other things
+
+but it is really fun to pick on the Mercator projection,
+
+mainly because it's so popular and is
+even used by Google Maps,
+
+mainly because it's so easy to zoom in on.
+
+It preserves shape decently well but suffers
+
+when it comes to area. As I've shown before, Africa
+
+is huge. Its area is so large the
+entire contiguous United States could
+
+fit inside of it, along with all of China,
+
+India, Japan and much of Europe.
+
+But on the Mercator projection scale near the poles
+
+is pretty wonky, distorted, which means
+
+Greenland appears to be as large as Africa,
+
+even though in reality it is only 1/14th
+
+the size. There's more.
+
+Check out Alaska and Brazil on a
+Mercator projection. They appear almost
+
+the same size but in reality Brazil
+
+is nearly five times bigger than Alaska.
+
+Areas near the equator are minimized, whereas
+
+areas closer to the poles are exaggerated.
+
+To have fun with this problem, play the Google Maps
+
+Mercator puzzle. The red pieces are
+countries projected outside of their
+
+usual
+
+locations. Now, what the heck is this
+
+weird shape? Well, let's pull it away from
+the North Pole, where scale is distorted
+
+a lot
+
+and now it's Australia.
+
+You can see how the math behind map
+projections distort Earth
+
+by interacting with them on Jason Davies'
+
+brilliant site. Notice how small
+Greenland appears on the Mercator
+
+projection when pulled down to the
+
+equator and how exaggerated it becomes 
+when moved to the edge.
+
+To be fair, the Mercator projection is great for navigation.
+
+If you want something that is more fair
+when it comes to area,
+
+try the Gall–Peters. Here,
+
+landmasses are the right relative size
+
+but shape is sacrificed. Everything looks a bit
+
+too narrow.
+
+Enter the Mollweide. This projection shows
+
+equal areas and is a bit more pleasant shape-wise.
+
+If you interrupt the Mollweide around
+the oceans, relative area is preserved
+
+and the shape of land masses becomes even more
+
+accurate. When it comes to the shortest
+route between two places on the surface
+
+of the Earth, Gnomonic projections are really cool.
+
+Every straight line journey taken on
+Earth's surface is actually part of a great
+
+circle. On Mercator projections actual straight line paths
+
+look curved. But every straight line
+
+on a Gnomonic projection is also a straight line
+
+in real life - the shortest route. If you want
+
+a compromise between shape and area,
+you might try the pleasant
+
+Winkel tripel, which the
+National Geographic Society has used for maps it
+
+produces
+
+since 1998. Or a beautiful butterfly map
+
+that could be a ball until it's
+flattened, say, under a pane
+
+of glass. The Dymaxion map can unfold
+
+to show how nearly connected Earth's landmasses
+
+are. It's a great way to visualize human migration
+
+overtime. It's quite impressive how far and wide
+
+humans have traveled on earth,
+but it remains a bit of a disappointment
+
+to realize just how narrow our slice
+
+of visual perception really is.
+
+But don't feel bad.
+This brings us to the story of
+
+Julian Bayliss.
+
+Yes, hello, is this doctor Julian Bayliss?
+
+[ON THE PHONE:] Yes, speaking.
+
+Bayliss told me about how
+one day, while using Google Earth, he
+
+spotted some dark green vegetation.
+
+It looked like a rain forest.
+An expedition was scheduled
+
+and it turned out to be just that - a rain forest
+
+we had previously never seen. I asked him more.
+
+So, what have you found there?
+
+[ON THE PHONE:]
+That day we found about 12 new species
+
+just from Mabu.
+So we found about 3 snakes, 2 chameleons and
+
+about 4 butterflies, 2 new species of plants
+
+and we've only really just been into the
+forest edge. So, I read, read a paper
+
+the other day, a scientific paper.
+They estimate that there's maybe 8 million,
+
+8.5 million species in this world
+but we've only actually discovered
+
+1.5 million or between 1.5 and 2 million.
+
+So, we've actually only discovered maybe one fist of everything that's living on this
+
+planet.
+
+Wow, our eyes only see
+
+a tiny fraction of what there is to see.
+
+But within that tiny fraction there are still
+
+an enormous number of things left to find.
+So keep searching, keep looking.
+
+[ON THE PHONE:]
+And as always,
+
+thanks for watching.
+

@@ -1,0 +1,237 @@
+Hey, Vsauce.
+Michael here with some things you can do
+
+online now, guys.
+Let's start the DONGs off in the right hands
+
+with misternicehands.com.
+You can pull his finger.
+
+Wordle.net
+
+analyzes text, like on a web site,
+and generates a free
+
+word cloud with fun sizes correlating to
+the frequency with which the words
+
+are used. Pretty awesome, right?
+But is it the most
+
+awesomest thing ever dot com ?
+
+The site pits two things against each
+other and lets you vote on which of the
+
+two things
+
+is awesome.
+For instance, pilgrims versus Andrew Jackson.
+
+I'm gonna have to go with pilgrims.
+But periodic table
+
+or Orson Welles? Which is awesomer?
+Okay, it's tough, but I'm gonna have to go with
+
+Mendeleev.
+
+Now, the site tabulates everyone's answers
+and runs a list
+
+of what people currently consider to be
+the most awesome.
+
+Notice that right now, life is being beat
+
+by the Internet. 
+Got a song stuck in your head?
+
+Go to unhearit.com, a site dedicated to playing
+
+equally catchy songs,
+with the hope of removing the one
+
+that's stuck in your head.
+And if you like what you hear, check out
+
+TuneGlue. Type in a band to add them to
+the field and then expand them
+
+to see other bands related.
+Now, I also like Music-Map,
+
+where you can enter a musician's name
+and other bands orbit them at distances
+
+related to how similar their styles are.
+
+If you're tired of music recognition
+programs that don't allow you to sing
+
+your own song or
+
+hum, enter midomi.com.
+It's still not perfect,
+
+but I am terrible and Midomi still
+
+understood what I was trying to do.
+"I won't loose a baby,
+
+so why don't you kill me?"
+Amazing.
+
+Another flawless performance by Michael Stevens.
+
+ThunderShark78 introduced me to Fracuum,
+
+a series of mazes you continually shrink down
+
+into.
+The perspective is pretty cool.
+
+Now let's get mathematical with Conway's
+
+Game of Life. This one's a doozy, but
+it's really famous. Right now I'm playing
+
+it as a downloadable version for PC, Mac or Linux,
+
+known as "Golly."
+So, the game itself
+
+is simply a grid that I can fill in and whether a cell
+
+is alive or dead determines what the next
+
+generation will look like.
+What made this game so famous
+
+is that using just a few deterministic
+rules, we're able to create some quite
+
+complex
+
+things.
+Now classically, the rules are very
+
+simple. The fate of a cell depends on the
+status of its 1,
+
+2, 3, 4, 5, 6, 7, 8 neighbors.
+
+If two or three cells surround it,
+
+it's gonna be fine, it's going to
+continue to live. But if fewer than two,
+
+or if more than three exist around it,
+it will die of isolation or
+
+overcrowding.
+Now, likewise, if
+
+a dead empty cell has 3, exactly three neighbors,
+
+it will come to life.
+So the next generation of this shape
+
+looks like this.
+It's amazing how just a few
+
+simple deterministic rules can allow you to create
+
+shapes like this one, known as a glider, which
+
+across successive generations actually locomotes.
+
+Oh, and GMSlash showed me a version where the cells
+
+are mushrooms, and the longer a cell
+lives, the bigger the mushroom gets.
+
+But what's a game of life without love?
+
+Themediabuffs sent me pretentious game,
+a wonderful interactive poem that's
+
+touching, but aware of itself.
+And Connor showed me an even more tragic love,
+
+a game where you play a guy in love
+
+with a zombie.
+Get her to follow you,
+
+but keep her in a cage.
+Also cute is Night
+
+of the Loving Dead. You play a skeleton who
+must find his body parts to reunite
+
+with his true love.
+As you acquire organs, like your brain,
+
+you can begin to use new powers.
+Now, if you're not
+
+in love with a zombie and would prefer
+to prepare for their attack,
+
+TheArzonite offers you Map of the Dead,
+
+a global Google Map delineating areas
+where zombie activity will likely be
+
+highest
+
+in the event of an outbreak. It includes
+helpful landmarks, like nearby food and
+
+ammunition shops,
+
+so you can plan your strategy now.
+If this is all a bit too scary for you,
+
+relax with N3xTB0y's
+
+z0r.de, a collection of quick looping images
+
+and silly music. Shantuku discovered this neat interactive scale of the universe tool.
+
+We've covered things like this before,
+but you can never have enough.
+
+While we're out in space,
+let's get bigger plane cosmic crush,
+
+like Amonfobious'. Collide with smaller
+items to grow larger and avoid
+
+giant dangerous celestial objects.
+
+Here on YouTube, Vixolent uploaded
+a really well-made interactive
+
+game. You play within a single video and
+his use of annotations is quite
+
+ingenious.
+And TheRealMcJoni made this impressive interactive
+
+domino video.
+The tricks and layout are really neat
+
+and you get to choose a direction at the
+end of the video - let's hope it's the
+
+right one.
+
+Back to Metronomy.
+Subscribe to Vsauce for more.
+
+And as always,
+
+thanks for watching.
+

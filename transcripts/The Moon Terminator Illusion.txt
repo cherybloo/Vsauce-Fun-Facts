@@ -1,0 +1,488 @@
+Hey, Vsauce. Michael here.
+This
+
+is called the dolly zoom effect
+and the optics that make it possible
+
+are also responsible for what's called the moon
+
+terminator illusion.
+
+A terminator is the line between an illuminated
+
+and dark side.
+Light arrives
+
+perpendicular to the terminator but it
+doesn't always
+
+appear to.
+Maybe you've noticed this before. When the Moon
+
+and the Sun are up at the same time,
+and a good distance apart
+
+in the sky, the direction the Moon is being lit
+
+from won't always appear to line up
+
+with the position of the Sun.
+What's going on here?
+
+The answer lies
+
+in visual angles.
+The further away from you something is,
+
+the smaller it will appear to be.
+In psychophysical terms, its visual angle
+
+shrinks - the angle within your field of
+view that it stretches across.
+
+Now, this means that everything
+we look at is foreshortened,
+
+that is it diminishes incise towards the horizon line.
+
+A line infinitely far away.
+Things that far away
+
+are foreshortened to the point at which
+they have no height
+
+whatsoever.
+This distortion
+
+affects everything that we look at.
+But it doesn't confuse us, because
+
+our brains know about it.
+We can look at an object that is foreshortened and
+
+figure out what it probably actually looks like.
+
+For example, a door is a rectangle,
+
+but it's wrecked by foreshortening when
+
+opened.
+Closer distances appear larger. The whole shape
+
+is different, but your brain isn't
+freaked out every time a door opens,
+
+because it understands
+
+that different sensations don't necessarily mean
+
+different actual things.
+It's called subjective
+
+constancy.
+Our brains cleverly factor in previous
+
+experience and perspective clues from
+the surrounding world
+
+to calculate in real time whether changes
+
+in what we sense are because of actual changes
+
+in the things we're looking at or are
+just merely products of their positions
+
+or the surroundings.
+
+For example, I, right now on this video screen,
+
+am vulnerable to foreshortening.
+But I probably look
+
+okay to you.
+However, if we frame in really closely
+
+and remove surrounding perspective clues,
+I can be made to look
+
+weird, strange, a little scary,
+
+distended.
+I'm foreshortened without the necessary tools
+
+around me for you to mentally adjust.
+This
+
+is probably the crux of the Moon terminator
+
+illusion.
+Take a look at this.
+
+The line where that wall meets the ceiling
+
+is a straight line.
+Seriously, take a look.
+
+If you look to the left and right,
+it continues to look straight
+
+and trust me, this building was built with level straight
+
+ceilings.
+But that's not what your eye
+
+senses.
+A camera will help
+
+demonstrate this. It doesn't add in the
+post sensation processing that our
+
+brains do
+
+and we can also frame in to remove other
+clues telling us what to think.
+
+Now, sure enough, right in front of us the line is
+
+level with the screen of the camera -
+it's a straight line - but
+
+if we move our eyes across the line,
+look what happens. If I pan this way,
+
+the slope changes and now the line
+appears to be going
+
+up and to the left.
+And if I panned
+
+this way, the line appears to be moving
+up and to the right.
+
+What's going on here?
+A straight line can't have changing slope,
+
+that's what a curved line does.
+
+Just like the curve we think we see
+between the Sun
+
+and the Moon.
+But wait. If
+
+the line between the Sun and the Moon is
+curved because of foreshortening,
+
+why don't we see lines like this one as curves?
+Well,
+
+here's a clue.
+Clues.
+
+We know what rooms are supposed to look like.
+We know how they're built. We have
+
+experience with them and there are other
+things in the environment
+
+helping us. But when you look at the sky,
+there's not much to help you.
+
+In the absence of clues about distance
+and perspective, our brains assume that
+
+whatever we're looking at is
+
+equidistant from us, making the sky a sort of
+
+dome surface, like a planetarium screen.
+
+The only clue we have then is the horizon,
+but it's a red herring,
+
+because the horizon doesn't foreshorten.
+It's just a place where
+
+due to foreshortening everything becomes infinitely flat.
+
+Brian Rogers and Olga Naumenko 
+demonstrated that these things result
+
+in the terminator illusion by using a planetarium.
+
+They projected two dots onto its dome,
+mimicking our perception of the Sun
+
+and the Moon. They've then asked
+participants to place a third dot on the
+
+straight line connecting them.
+
+But just as in the Moon terminator illusion, people
+
+incorrectly placed the third dot.
+They were influenced by a desire to stay
+
+parallel to the horizon,
+
+as if it was subject to the same foreshortening rules.
+Our brains also
+
+often fail to factor in foreshortening
+when it comes to crepuscular rays,
+
+light beams streaming through gaps in clouds.
+
+They appear to converge from a common point,
+as if the Sun is only
+
+a few thousand meters above Earth, but, of
+course, in fact, the Sun is extremely
+
+far away
+
+and these lines are actually pretty much exactly parallel.
+
+It's true. They look like they converge
+for the same reason railroad tracks
+
+appear to converge.
+
+The visual angle of the distance separating them
+
+shrinks the further down you look.
+Sometimes
+
+our brains do the opposite.
+They assume
+
+and consider foreshortening even when it isn't
+
+really there, like in this illusion, where
+
+the cars seem to be different sizes but
+in actuality on the page
+
+are all the same size. Everything else in
+the image is affected by foreshortening,
+
+so our brains assume that the cars
+are too and decide that in order for them
+
+all to have the same visual angle, which they do,
+
+the more distant ones must be literally larger
+
+in real life.
+The rate at which the visual angle
+
+of something you are looking at changes as
+you move toward it, or away from it,
+
+is not constant.
+In order to cut the visual
+
+angle of an object in half, its distance from you
+
+must double.
+That means objects
+
+really really far away require a lot
+more movement to have their visual angle
+
+changed compared to nearer objects.
+
+This is called parallax and it's a major reason
+
+moving allows us to learn so much about
+
+depth.
+It's why stuff on the side of the road
+
+whizzes is by you as you drive past,
+while distant features of the landscape
+
+appear to only crawl past.
+A really distant thing, like,
+
+say, the Moon, 384,000 kilometers away
+
+appears to move so little as you do, it can seem
+
+to be following you.
+
+It's not, of course. It's just geometry.
+For the same reasons,
+
+moving a camera through space will
+affect the visual angle of nearer
+
+things,
+
+like the Vsauce mug here much more dramatically than
+
+distant things,
+like Jake Chudnow's album against the wall.
+
+It is barely changing size as we move back
+
+and forth.
+But unlike moving, zooming
+
+increases the visual angle of
+everything equally,
+
+regardless of depth.
+Notice that when zooming,
+
+the distant album grows and shrinks
+right along with the mug. Now, if you move
+
+IN while zooming OUT, or vice versa,
+
+the zoom will be most apparent when looking at distant
+
+things, while the move more apparent on near things.
+
+The result can be trippy.
+Here I've been placed where both
+
+effects cancel each other out,
+so everything around me changes
+
+instead. Another great illusion that
+takes advantage of parallax
+
+is the popular star field or hallway illusion.
+
+Cover the middle of the video
+and you'll appear to be moving
+
+much faster.
+But you if cover the edges, you'll appear to be moving
+
+much slower. All you're doing is altering
+the perspective clues your brain
+
+receives
+
+about movement.
+The nearer stuff at the edge
+
+changes position faster
+than the distance stuff way ahead.
+
+So if you cover the slow distance stuff your brain
+
+only has the faster moving stuff to
+judge speed from. But cover the faster
+
+near stuff and the slower stuff becomes the new
+
+near.
+Your brain assumes that you've slowed down.
+
+The optics and mathematics behind all of these effects
+
+were understood at least thousands of years ago.
+
+During the Renaissance, artists used that
+knowledge to produce
+
+paintings that imitated reality really
+
+well.
+I mean, the perspective is quite realistic.
+
+But... the renaissance?
+
+Why did it take so long for us get there?
+
+I mean, look at this pre-Renaissance painting.
+
+What the heck is going on here?
+The perspective is all wrong. That's not at
+
+all what such a scene would actually
+
+look like.
+Artists and viewers contemporary to works like that
+
+saw the world just like we do, they
+
+saw foreshortening - they couldn't help but
+see it. Foreshortening is right there in
+
+plain sight.
+
+No, foreshortening is
+
+plain sight.
+So, what gives?
+
+Were medieval artists all just a bunch of five year olds?
+
+No.
+
+No in the sense that the question is wrong.
+
+Realistic-looking perspective was used
+way before the Renaissance.
+
+Now, it might not have always been
+mathematically formal perspective,
+
+but foreshortening was understood.
+Western art went from this
+
+to this, not because humans all of a
+sudden became smarter,
+
+but because of a difference in desire.
+
+What to us today might look unrealistic and thus
+
+bad, was, in its time,
+
+deliberate and popular.
+The shift
+
+to imitating the world mathematically,
+as if seen through a window,
+
+was more about cultural interests and objectivity and
+
+the individual than it was about artists
+all of a sudden becoming
+
+smarter.
+Furthermore, perspective illusions shows that what we
+
+think we see isn't always what we're seeing.
+
+A child's drawing may seem crude
+
+in terms of objective mathematical imitation,
+
+but there are other things about the world and
+
+our experience of it worth imitating.
+Teasing out
+
+the less plainly obvious to show
+something personal
+
+is sometimes even harder than following
+perspective grids
+
+Picasso put it this way it: "It took me four years
+
+to learn to paint like Rafael,
+but a lifetime to learn to paint
+
+like a child."
+
+And as always,
+
+thanks for watching.
+

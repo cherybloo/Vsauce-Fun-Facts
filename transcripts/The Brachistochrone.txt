@@ -1,0 +1,1024 @@
+[Music]
+
+hey Vsauce Michael here if every single
+
+one of us held hands together in a chain
+
+of unity around Earth would there be
+
+enough of us to go all the way around
+
+the planet there are about seven and a
+
+half billion of us and that's a lot but
+
+remember that that many human bodies
+
+thrown together into one big pile would
+
+barely fill the Grand Canyon this is all
+
+of us in one place the physical bulk of
+
+all living human flesh on earth today
+
+would only make a cone about 7,000
+
+people tall and 2,000 across that's it
+
+but that's a three-dimensional shape
+
+what if we made a one-dimensional
+
+single-file line of people each with say
+
+1 meter of room and we stretched that
+
+around the planet well we would make it
+
+all the way around and still have 99.5
+
+percent of the human population left if
+
+we made a circle that included everyone
+
+the ring of people would be more than
+
+2.4 million kilometers in diameter
+
+dwarfing the orbit of our own moon now
+
+that's not just a circle that is a sir
+
+cool let's talk about circles today
+
+specifically something that they do roll
+
+but what is rolling well rolling occurs
+
+whenever something moves with respect to
+
+something else and is always in contact
+
+with that something else and the contact
+
+points have instantaneous velocities of
+
+zero that is there's no sliding in
+
+mathematics the path traced by a point
+
+on a rolling object is called a roulette
+
+French four little wheel the centre of a
+
+disk produces a roulette that's just a
+
+smooth straight line while rolling on
+
+one
+
+and this is why disks are good wheels a
+
+square on the other hand would be bumpy
+
+but square centers can make straight
+
+smooth Roulettes
+
+across the right surfaces this is the
+
+principle behind square wheels which I
+
+recently had the pleasure of enjoying at
+
+the Museum of mathematics in New York
+
+City Stan wagon wrote a fantastic and
+
+famous article about wheels which I've
+
+linked down in the description below
+
+it's a great read he also contributed a
+
+fantastic interactive tool to the
+
+Wolfram demonstration project that
+
+allows you to build a wheel and then
+
+find the corresponding road shape that
+
+allows it to roll smoothly the roulette
+
+traced by a point on a disk as it rolls
+
+on a straight line has a special name
+
+it's called a trochoidal Greek word for
+
+real TRO Coase now trochoidal prolate
+
+depending on whether the tracing point
+
+is inside or outside the circumference
+
+if the point is on the circumference the
+
+resulting curve is called a cycloid
+
+cycloids are very special and they are
+
+the star of this episode now I've been
+
+working with Adam Savage a lot lately as
+
+we gear up for brain candy live our 40
+
+city tour that I hope to see you at
+
+recently I asked Adam for some help with
+
+rillettes Adam give a favorite polygon
+
+you can't they're like your children you
+
+got a favorite eye I don't have a
+
+favorite either I do have a favorite
+
+thing that you can do with the polygon
+
+okay make a cyclic on a cyclic cyclic on
+
+is an actual actual thing it's an actual
+
+thing do have a polygon around here
+
+here this this here's a squid right
+
+right say this is a square yeah
+
+if I take one of the vertexes of this
+
+squid and I start rolling this square
+
+and you follow where that vertex oh
+
+shoot
+
+let me roll this better are you ready
+
+yeah all right the actual path
+
+it describes a curve described here yeah
+
+that curve is called a cyclic on and as
+
+you pick polygons with more and more
+
+sides you get closer and closer to what
+
+I want from you today okay a cycloid a
+
+cycloid now I I could have just done
+
+this in Photoshop and done like an
+
+animation like I normally do but you
+
+have a shop we can actually build and
+
+you can build the bit okay why did I
+
+want to build a cycloid well let me ask
+
+you this with only gravity to move you
+
+what's the fastest way to roll or slide
+
+from a point to some other point below
+
+but not directly below would it be a
+
+straight line well that would certainly
+
+be the shortest path but when you fall
+
+gravity accelerates you and falling
+
+vertically a lot right away would mean
+
+having a higher top speed during more of
+
+the journey and that can more than make
+
+up for the fact that a path like this is
+
+much longer than a straight line but of
+
+these two considerations accelerate
+
+quickly and don't have too long of a
+
+path what's the optimal combination
+
+finding the answer the path of least
+
+time is called the brick east a chrome
+
+problem and it's been around for a while
+
+Galileo thought the answer was a path
+
+that's just a piece of a circle but he
+
+was wrong there's a better one and in
+
+1697 Johann Bernoulli came up with the
+
+answer using a very clever approach to
+
+see how he solved it let's start with a
+
+similar problem you are standing in some
+
+mud and you want to run to a ball in the
+
+street as quickly as possible now a
+
+straight line would be the path of
+
+shortest distance but if you can run on
+
+pavement much faster than you can run in
+
+mud the path of shortest time would be
+
+one in which you spend less time moving
+
+slowly in mud and more time
+
+on the surface your bast on the angle
+
+you should enter the pavement at depends
+
+on how fast you move on both surfaces as
+
+it turns out when the ratio between the
+
+signs of these two angles equals the
+
+ratio between your speeds across both
+
+surfaces the resulting path will be the
+
+optimal quickest route this is called
+
+Snell's law light always obeys Snell's
+
+law when it changes speeds like when it
+
+leaves a material in which it moves more
+
+slowly like water and enters one in
+
+which it moves more quickly like air it
+
+always refract according to Snell's law
+
+in other words light always follows the
+
+route that is the fastest for it to take
+
+Bernoulli used this fact to tackle the
+
+brick ista chrome problem light changing
+
+speed is analogous to a falling object
+
+changing speed but of course a falling
+
+object doesn't just speed up once its
+
+speed is always increasing its
+
+accelerating to mimic this using light
+
+which Bernoulli knew would always show
+
+him the fastest possible route all he
+
+had to do was add more and more thinner
+
+and thinner layers in which the speed of
+
+light was faster and faster and faster
+
+and well what do you know there it is
+
+the brick East a chrome curve the path
+
+of least time roll down a track like
+
+this and you will beat anything rolling
+
+down any other path every time Bernoulli
+
+was clever enough to realize that this
+
+curve can be described in another way as
+
+a roulette specifically he noticed that
+
+it was a cycloid the path traced by a
+
+point on a circle rolling along a line a
+
+cycloid satisfies Snell's law everywhere
+
+to see why I highly recommend watching
+
+this video on the brick East a chrome
+
+problem this channel is fantastic by the
+
+way I'm a huge fan the visuals and
+
+explanations are top-notch anyway a
+
+cycloid provides the perfect balance
+
+between keeping the journey distance
+
+short and picking up speed early now I
+
+told Adam all of this
+
+and I told him that it would be really
+
+fun to have a cycloid curve we could
+
+roll things down and he said clearly we
+
+should start building we should just
+
+start building it what we need is a
+
+circle okay that's a the height that we
+
+want mm-hmm and then we're going to use
+
+that circle to trace a night cycloid
+
+curve I want to do a race right so yeah
+
+yeah look if we're gonna do like if you
+
+have point a here and point B here and
+
+you say that there's some kind of curve
+
+that's better than a straight line in
+
+terms of something traveling between
+
+those two then I want to also make a
+
+straight line from A to B yeah and maybe
+
+also a really extreme curve like that
+
+right okay got some protractors there
+
+you have a compass extension I do I have
+
+all sorts of I've never seen such thing
+
+is that it yeah that connects to that
+
+give or take I almost am I feel guilty
+
+that this is like a dream of mine coming
+
+true oh really but it's such a nerdy
+
+dream too it's not like I want this you
+
+know Red Ryder BB gun it's like I just
+
+want to curve that things roll down
+
+okay so then clearly when we're done
+
+with this this is this is my Christmas
+
+present to you
+
+I think I'm currently like working out a
+
+way to do this in my head that actually
+
+makes it fairly compact and not super
+
+not super complicated yeah take a blade
+
+and cut out like an inch around the
+
+whole thing
+
+[Music]
+
+how are you gonna do the finishing I'm
+
+going to cut this unless you would like
+
+to on the band's you can start okay
+
+[Music]
+
+okay now that's a little bit rough so
+
+we're gonna finish it on my disc sander
+
+oh wow
+
+that's close enough it's pretty good
+
+yeah so now you want to use this to draw
+
+a psych psych Lloyd yeah so you'll need
+
+a little hole that's what yeah so that
+
+the point of our drawing implement is on
+
+the rim not above it I'm doing this
+
+right inside I don't think so it is
+
+that's even better than having the rim
+
+hole because we want the line to be
+
+right on the edge okay so what we're
+
+gonna do is we're gonna create a pattern
+
+for the cycloid curve that I'm then
+
+going to transfer to acrylic to clear
+
+acrylic regular right allow us to see
+
+things really clearly yeah this allows
+
+you right roller sight because we're
+
+just doing it it's literally like that
+
+right oh yeah see this is perfect yeah
+
+pushed against here I shouldn't slip
+
+this is like a Ouija board for geometry
+
+nerds
+
+it is a Ouija board for geometry nerds
+
+okay there we go
+
+that's smooth out Ricci stack rone
+
+that's that's that's the curve that
+
+we're talking about yeah that's the
+
+beginning that's the end and this is our
+
+pattern yeah cool that's cool
+
+okay so I'm gonna end up with let's say
+
+3/4 of an inch thick but it's gonna have
+
+channels table saw it out of it mm-hmm
+
+travel its length and in those channels
+
+will sit my clear acrylic acrylic curves
+
+and it'll also have an upright
+
+that also will have the channels milled
+
+out of it on the table soft and that'll
+
+allow the curve to sit and be supported
+
+yeah a little backstop here easily at
+
+the bottom that will allow us to hear
+
+that they all hit at the same time
+
+there's a couple things going on one is
+
+is that we've got cycloid straight line
+
+and then we've got extreme curve right
+
+and are these you had mentioned bending
+
+the acrylic so we could adjust the no
+
+magically I have this is you like this
+
+the acrylic will just be a thin of
+
+acrylic just a thin sheet of it
+
+traveling on that will be and I have
+
+material for this some Delrin or acetyl
+
+rollers that look like this so from the
+
+side they'll look like this they'll look
+
+like an H ah huh in which the acrylic
+
+sits in there and the roller is
+
+self-supporting on the acrylic but rolls
+
+down
+
+ah that is tolerance love it
+
+I like those curves while Adam and I
+
+build a real-life cycloid track let's
+
+take some time to appreciate other kinds
+
+of Roulettes as mentioned before
+
+trochoidal anon straight lines but an
+
+epitome oi is made when a disk rolls
+
+around the outside of a circle roll a
+
+disk inside a circle and what you've
+
+made is a hypo trochoidal names for the
+
+curves you make when using a spirograph
+
+toy notice that the holes don't lie on
+
+the circumference of the disks though
+
+some do come close there's a special
+
+name for epic rock woods and hypo
+
+trochoidal
+
+an algis to disks rolling on straight
+
+lines they are epicycles and hypo
+
+cycloids now if two circles have the
+
+same radius a point on the rolling one
+
+will touch the stationary one exactly
+
+once always in the same spot creating a
+
+cusp this cute heart-shaped epicycle ID
+
+is also known as a cardioid if the
+
+rolling circle has half the largers
+
+radius you'll get a 2 cusped epicyclic
+
+the shape of which is called a nephrite
+
+because it apparently looks like a
+
+kidney I guess 1/3 the radius gives you
+
+three cusps 1/4 four cusps and so on as
+
+for hypo cycloids if the inner circles
+
+radius is 1/4 of the larger x' the
+
+resulting Roulette curve is called an
+
+asteroid because it looks like a star
+
+which the ancients also thought about
+
+asteroids 1/3 the radius and you've got
+
+a deltoid named after its resemblance to
+
+the Greek letter Delta 1/2 the radius
+
+and well you get a straight line this
+
+fun relationship is called a 2 C couple
+
+rotational motion turned into linear
+
+motion follow a number of points on the
+
+rolling circle and you'll get the famous
+
+illusion where every individual point
+
+moves in a straight line but the whole
+
+thing describes a rolling circle put a
+
+handle on it
+
+and you've built a trammel of Archimedes
+
+aka an ellipse a graph when used to
+
+ellipses AKA a hillbilly entertainment
+
+center
+
+when bought in Osceola Missouri anyway
+
+let's get back to Adam and eyes curve
+
+comparison build okay okay there's your
+
+finish line you ready I'm ready
+
+all right I'll count us down three two
+
+one go okay here we go
+
+3 2 1 go 1 2 3 with the asleep was
+
+second straight was last straight was
+
+last the shortest distance between two
+
+points was last slowest way to get there
+
+yeah it certainly was let's try it one
+
+more time yep because it was super close
+
+the brick ista Crone curve was by far
+
+the winner yeah what a mouthful of a
+
+name by the way barista drunk East uh
+
+Crone but Keith's brick east across not
+
+related to the brachiosaur looked at our
+
+that's I once looked up the difference
+
+between ingenious and ingenuity and they
+
+don't have them and they're not related
+
+no all right now ready I'm ready
+
+3 2 1 go
+
+yeah same results same result
+
+1 2 these are so close it's hard to tell
+
+[Music]
+
+well we're answering the main question
+
+which is that the barista chrome curve
+
+is the fastest way to get there well a
+
+brick easter chrome curve is also known
+
+as a tata chrome curve that has another
+
+property that's that we should test
+
+what's it and that is it's all you know
+
+hold up before you get to this we've
+
+established between these three curves
+
+that the cycloid made brick easter
+
+chrome curve is by far the fastest it's
+
+by far the fast okay great you get steep
+
+and unfortunately you pick up a lot of
+
+speed right away but then you've got a
+
+lot of this with little acceleration yep
+
+you go straight down and you know funny
+
+enough you what you want is that perfect
+
+balance of gravities acceleration but
+
+also moving to where you need to be and
+
+that is asked that's fascinating to me
+
+that a geometry which is the cycloid
+
+curve would yield such an efficient
+
+exploitation of the forces involved yeah
+
+exactly
+
+because if there was no acceleration if
+
+there was just one force in the
+
+beginning straight-line would probably
+
+be the fastest right okay what is the
+
+other quality of the Tata chrome curve
+
+you just said it
+
+Tata chrome means same time so as the
+
+geometry and math tells us no matter
+
+where you start an object yeah
+
+what whoops the clamp city it was my
+
+fault but also come on clamp no it
+
+sector you know how to do these tables
+
+are a pain in the ass because they have
+
+these lips on them and they actually
+
+that's like it's it's actually my fault
+
+so I'm gonna remove the straight line
+
+guy as well so we're left with a cycloid
+
+which is called a brick East a Crone
+
+curve but it also has a bizarre property
+
+where no matter where I start an object
+
+on it when I let go they always reach
+
+the bottom in the same amount of time
+
+wait a second so if I started here the
+
+amount of time it takes for this to get
+
+to the end
+
+is the same amount of time it takes for
+
+it to get to the end from here
+
+yeah and the same from right here well
+
+Wow okay so starting from here it's
+
+gonna be tough because of friction yeah
+
+now if you do this in software it's
+
+perfect but that's boring yeah this is
+
+the real world and maybe we won't start
+
+the network I mean if we do one two and
+
+three yeah are we actually I feel like
+
+we could probably we could probably get
+
+one to work from here like that there
+
+might be a lot of friction involved but
+
+look at always see we can always see
+
+we've got enough of them that's why we
+
+made three curves so we can test this
+
+property and these were all cut and
+
+sanded clamped together so they are
+
+incredibly similar I will have to tamper
+
+the edge as I did on this one yeah a
+
+little known fact that once you've torn
+
+paper off of Plexiglas it crumples into
+
+a really nice wall to be thrown long
+
+distances a Plexiglas in the first place
+
+I've never seen it happen because it
+
+doesn't really feel glued I think this
+
+is I hope that's cool because in theory
+
+and practice theory in theory theory and
+
+practice are the same thing but in
+
+practice I went to the University of
+
+Chicago where one of their sings
+
+well that sounds good in practice how is
+
+it in theory hahahaha life of the mind
+
+there so let us see if you do if I do
+
+one up here and you do one there and
+
+okay yes so this has got to be without
+
+this I think the same person should
+
+release them because then okay I'm it
+
+better so here put that one here okay
+
+all right so three different positions
+
+three this one has longer to go yep this
+
+one has the shortest path so who's gonna
+
+reach the bottom first okay here we go
+
+let's see would you wish it would say
+
+the one in might this one yeah go first
+
+ready yeah good pretty good that was
+
+awesome that was so they all ended up
+
+they lined right up alright let's do
+
+let's let's switch it up okay even I
+
+think you're gonna be the one to release
+
+them yeah otherwise it won't be easy to
+
+time here we go three two one I'd be
+
+garnish them lining up yeah they line up
+
+like they're waiting for each other I'm
+
+gonna stand further away cuz I want to
+
+see the full path okay ready yeah three
+
+two one how cool is that they totally
+
+line up to hit at about the same
+
+periodicity they went for here so given
+
+the vagaries of some extra frictions
+
+here and there there they're actually
+
+hitting this at the same sort of
+
+periodicity that they are when they
+
+start at the same point so there's that
+
+and then
+
+[Music]
+
+is this some is this the Tata chrome
+
+curved demonstration ring of your dreams
+
+it really is it is it's also the brick
+
+Easter Kron rig of my dreams and the
+
+cycloid rig of my dreams so check that I
+
+keep doing that yeah that is really cool
+
+another one yeah that was yeah exactly
+
+on point Wow
+
+raesha see in this game no matter where
+
+you start no matter who you are you're
+
+always a winner there's always a tie so
+
+this is brain candy for me Adam toasties
+
+this is something that was previously
+
+abstract and only seen in animations and
+
+in text made real now I can put these
+
+wherever I want I'm not stuck with what
+
+someone else did I can physically hold
+
+it and that's that's what makes brain
+
+candy exciting for this it is like that
+
+I love taking the theoretical and making
+
+it physical and actually honestly we've
+
+always had what seemed to me like sister
+
+enterprises yeah and it's nice to join
+
+them together yeah this is this is a
+
+little child of ours isn't it maybe
+
+maybe one of us wasn't so good at
+
+sanding and maybe the other of us kind
+
+of saved the day but it's real now yeah
+
+and it's alive and I think it's loving
+
+its life that was fun it was really fun
+
+true Adam thank you so much for your
+
+help
+
+working with you is always amazing I
+
+hope to see all of you out there
+
+watching at brain candy live it's going
+
+to be incredible and in your daily lives
+
+may you always find the Tata chrome the
+
+solution that brings you and others
+
+together even if you started in
+
+different places
+
+and as always thanks for watching
+
+[Music]
+

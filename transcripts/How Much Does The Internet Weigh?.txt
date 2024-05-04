@@ -1,0 +1,159 @@
+Hey, Vsauce.
+Michael here.
+
+And this strawberry weights about 50 grams, which
+according to Russell Seitz also happens to
+
+be the weight of the entire Internet.
+What does that mean?
+
+I mean, the Internet is a gigantic place and
+how do you measure information?
+
+Well, let's start a little bit smaller with
+a Kindle.
+
+Right now, I'm reading Gadsby, which is a
+great novel that makes complete sense, except
+
+it was written without ever using the letter
+"e," which is awesome.
+
+But when I put Gadsby on my Kindle, did my
+Kindle gain weight?
+
+Well, theoretically, yes it did.
+Information is stored on flash drives like
+
+this and on my Kindle in binary.
+And that binary physically exists because
+
+electrons charge floating gate transistors.
+And the thing about electrons is that they
+
+have mass.
+In fact, a professor at Berkeley estimated
+
+that when a Kindle is completely full of books,
+its weight increases by about 10 to the negative
+
+18th grams.
+That number is mind blowingly miniscule.
+
+In fact, he says that when you fully charge
+a Kindle's battery, it gains 100 million times
+
+more mass than it does when you fill it with
+books.
+
+But even then the number is impossible to
+measure.
+
+The most specific scales we've ever created
+only measure to about 10 to the negative 9th
+
+grams.
+So let's get bigger.
+
+Russell Seitz came up with his measurement
+because the Internet is composed of networks
+
+of servers and they're about 75 to 100 million
+servers operating to make the Internet work.
+
+Combined, that many servers equal about 40
+billion Watts of electricity and we know that
+
+an Amp is about 10 to the 18th electrons per
+second.
+
+And since we know the weight of an electron
+we can calculate that the entire Internet
+
+is really just about 50 grams of electrons
+in motion.
+
+Now that number only includes servers.
+And Seitz says that if you wanna include the
+
+chips in personal computers as well, the number's
+about 3 times larger.
+
+But there's a weight of the Internet that
+impresses me a little bit more.
+
+It's a calculation not of the energy it takes
+to serve the Internet, but the energy contained
+
+in the actual information.
+The videos, the pictures, the e-mails.
+
+How much do they all collectively weigh when
+stored?
+
+Well, here's the thing.
+It takes about 8 billion electrons to store
+
+one e-mail.
+8 billion sounds like a lot, but electrons
+
+are tiny and so one e-mail only weighs about
+two ten-thousandths of a quadrillionth of
+
+an ounce.
+But the Internet contains lots of e-mails
+
+and it contains lots of video and images and
+celebrity rumours, so how much does it weigh
+
+altogether?
+Well, the first question we have to ask is
+
+how big is the Internet and that's difficult
+to calculate, but Eric Schmidt, then-CEO of
+
+Google, once estimated that the entire Internet
+contains about 5 million Terabytes of information,
+
+of which, he said, Google has only indexed
+0.004%.
+
+Okay, so not counting the energy it takes
+to deliver the Internet, the information itself
+
+on the Internet is about 5 million Terabytes.
+Now, we know how many electrons it takes to
+
+form a single byte and we know the mass of
+an electron and so with a little bit of math
+
+you can figure out that the entire Internet,
+everything on it, collectively only weighs
+
+0.2 millionths of an ounce.
+Think of it this way: every single video on
+
+YouTube, every single video across the entire
+web, every single image, every single website,
+
+every e-mail you've sent, every love
+letter you've written, every photo of your
+
+grandkids you've received is collectively
+held within an amount of mass about the size
+
+of the smallest possible grain of sand.
+If you follow @tweetsauce on Twitter you can
+
+learn even more.
+I'm gonna share some more facts there that I didn't
+
+include in this video around electricity in
+general.
+
+Like us on Facebook to show that you're classy.
+
+And as always,
+
+thanks for watching.
+

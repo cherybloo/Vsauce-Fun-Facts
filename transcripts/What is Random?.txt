@@ -1,0 +1,420 @@
+Hey, Vsauce. Michael here and Derek.
+
+Generate(!)
+
+78? That's so random. Or is it?
+
+What does it mean to be random?
+
+Can anything really be random? 
+What's the most random thing ever?
+
+Today let's stop being random and become 'ransmart'.
+
+If something is unpredictable,
+
+and contains no recognisable patterns, we
+call it random.
+
+So let's begin our hunt for the most random thing with a coin toss.
+
+The Australian 50 cent coin is one of the largest coins
+
+currently in circulation.
+
+Coin flips and rolling dice are not
+intrinsically random,
+
+they are only random because of our
+
+ignorance. If we could know every initial condition
+
+the exact forces and properties that play
+for a particular flip or roll,
+
+we could theoretically calculate the result before it
+
+even happened. And, sure enough, researchers
+have built coin flipping robots
+
+that can precisely control a flip to get
+the result they want
+
+100 percent of the time.
+
+So here is our question. Is there anything you couldn't predict
+
+even if you knew everything? A process determined
+
+by nothing? And how can you be sure they're
+
+aren't any patterns in what you're
+looking at? Maybe you just haven't looked
+
+for the right pattern yet.
+
+Or maybe you have already seen true
+randomness
+
+but didn't know it because you didn't
+look for long enough.
+
+As if protected by a sort of camouflage,
+
+a random process can, and will,
+occasionally produce patterns.
+
+YouTube URLs are pretty much
+
+random. A unique one is made for every
+uploaded video, but sometimes,
+
+like the proverbial monkeys typing away
+on typewriters,
+
+YouTube generates a URL that contains, by chance, a word.
+
+The official music video for 50 Cent's
+
+'In Da Club' contains a synonym for bottom.
+
+This video was assigned 'hello',
+
+there are some 'sexies' and a sauce. If you
+want to find out if a particular word
+
+has been randomly assigned to a video
+yet, you can search for it
+
+by using this string in Google.
+
+The point is, randomness is difficult to identify.
+It is easier to be certain that something
+
+is not random than that it is. But despite this elusiveness something interesting
+
+is going on right now. Increasingly, we,
+
+especially young people, are calling
+clearly predictable
+
+things random.
+
+Like randomly running into your best friend at a popular restaurant.
+
+Or hilariously bizarre combinations of things that we call
+
+totally random because they are
+seemingly unrelated,
+
+even though, of course, they were chosen
+not in random but in a very determined way
+
+because they are all unrelated.
+
+Those guys that showed up at the party last night you didn't know,
+
+they weren't randos in a mathematical sense.
+
+They knew about the party, we're in
+the mood to go to a party and we're in the area.
+
+Pretty predictable, actually.
+
+This non-statistical use of the word random annoys
+
+some people but it's not that far off
+from the original meaning
+
+of the word. In the 1300s, random
+
+meant running or at great speed.
+
+Later, it would be used to describe
+things that have no definite purpose.
+
+It wasn't until the 1800s that random
+took on a particular mathematical definition.
+
+Then in the 1970s, MIT's student paper
+
+popularised the use of the word random
+to simply mean strange.
+
+Of course, just because
+something is strange doesn't mean it has
+
+no discoverable cause. Why have we started
+calling so many predictable things
+
+random? Well, many theories revolve around
+
+the amount up information and new people
+we are confronted with
+
+at an increasing rate; now more than ever
+before.
+
+Perhaps it's just easier, almost a bit of a relief
+
+to call things random, so that we can move on
+
+to synthesise other information.
+
+Take a look at this die.
+
+Now, as you can see, it rolls a five most of the time
+
+but not all the time. Over time
+
+a sequence of its results will contain
+less randomness.
+
+But it is still random. Any face is
+possible and I have no guarantee beforehand
+
+of knowing which face will show up. The
+outcomes I'm selecting from make the
+
+resulting sequence less full of
+
+randomness but the process is still random.
+
+Even though a die and a coin are
+extremely sensitive to their initial conditions,
+
+and, over the course of normal use, are
+quite
+
+unpredictable, they do over time
+
+exhibit certain biases. Biases that make them
+
+a bit more predictable and a little less random
+
+than you might think. First of all, dice. Even
+precision dice are only quality
+
+controlled within a few micrometers.
+
+You can check this out yourself. Make
+
+two stacks of ten or more similar dice.
+
+Now, if you orient each die every which way,
+you should pretty much get two equally sized stacks
+
+But, if you arrange each stack
+
+along a shared axis, so that every die
+faces the same way,
+
+any regular imperfections caused by the
+manufacturing process may become visible.
+
+But what about coins?
+
+Well, some fantastic research has been
+done on what happens when they spin
+
+and flip. For instance, it has been found that US
+nickel is just the right diameter and
+
+thickness to wind up landing
+
+not heads up or tails up when flipped,
+but on its
+
+side, about once every six thousand
+times it's flipped.
+
+But what about the fairness of flipping
+a coin? Well, if you flip a coin like
+
+this, for statistical and physical reasons
+the side facing up
+
+before the flip begins, doesn't actually have
+a fifty percent chance of being the result.
+
+Instead, as researchers at Stanford have
+found, it actually has
+
+a fifty one percent chance. In this case it was the other side though.
+
+Still pretty random.
+
+If you want a coin flip to be as fair as possible,
+
+you should just catch it in your hand. Don't
+allow it to hit the ground, bounce, tumble
+
+and spin. That's because researchers have
+found that when a coin spins
+
+larger biases come into play. The shape of its edge,
+
+its centre of gravity. The heavier side tends to go down
+
+quite often. In the case of some coins as often as
+
+eighty percent of the time. It's been
+found that a one euro coin
+
+will spin, and land heads up, more often than not,
+
+and a US penny will land tails up
+
+more often than not when spun. But like I said
+
+earlier, theoretically if we knew
+everything about the initial conditions
+
+of a coin flip or a die roll, we could
+
+calculate beforehand their outcome.
+
+Why don't we do that more often?
+
+Well, it's extremely difficult.
+
+Insane amounts of precision would be required because the smallest
+
+difference between two initial
+conditions can be magnified over time
+
+leading to chaotic, extremely difficult
+to predict, results.
+
+Random.org, the service Derek and I used
+
+at the beginning of this video to generate a
+random number, uses
+
+atmospheric noise. It's extremely hard to predict,
+
+but technically still a deterministic system.
+
+All that noise came from somewhere and
+if we could just find out those initial
+
+conditions we could,
+
+theoretically, predict their outcomes.
+
+If we want a system more random
+
+than that we will need to find one that
+is determined by nothing
+
+and for that let's look closer. Quantumly close.
+
+Quantum mechanics may have our answer.
+
+It describes the properties of quantumly
+sized things
+
+as probabilities;
+
+just chances. Not because we don't know enough
+yet to be certain,
+
+or predict, but because, well, the idea is
+
+there's nothing there to predict.
+
+There is no beforehand we could know.
+
+Whether or not a particular individual
+radioactive atom will decay or not,
+
+or whatever the spin of an electron is,
+
+is only knowable once we look. They're
+determined by a deep-seated
+
+randomness woven into the universe itself.
+
+Einstein couldn't believe this.
+He refused to accept, as he said,
+
+that "God played dice with the universe."
+
+But... experiments
+
+with entangled particles have shown
+
+violations of Bell inequalities.
+
+Entangled particles are particles that
+exhibit similar properties
+
+even when separated by large distances.
+
+Now, if they agreed on those shared
+properties to have, or are somehow
+
+determined beforehand to have them, their behaviors
+
+should satisfy Bell's famous inequalities.
+But experiments have found
+
+that instead the likelihood of what a
+machine will see when measuring one particle
+
+determines how the other machine will
+measure the other particle.
+
+It is here, when we look that the chance is
+determined. Explanations for this
+
+are even weirder but what the results
+suggest is that
+
+the chance of seeing particular quantum qualities
+
+don't pre-exist.
+
+They happen when you look.
+
+So, if you are ever feeling boring or
+
+predictable, just remember that you are
+made out of octillions
+
+of quantum probabilities. Dice that don't
+tumble in any
+
+analysable way we could ever predict.
+
+They are the most random thing.
+
+God may play dice with the universe, but they are
+
+the best dice in the universe.
+
+And as always,
+
+thanks for watching.
+
+But what does it all mean?
+
+Well, true randomness doesn't mean anything.
+I mean, for us to have meaning we need
+
+structure, predictability and that is what I'm
+exploring over on my channel, Veritasium.
+
+Wow, okay. So
+
+let's go over there and take a look at what is
+
+not random. Veritasium, let's go.
+
+I'll see you guys over there. 
+It's going to be awesome, come with us.
+
+And as always,
+
+thanks for watching.
+

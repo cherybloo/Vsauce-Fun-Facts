@@ -1,0 +1,2212 @@
+[sneezes] Excuse me.
+
+You know,
+if I had been driving,
+
+that would've been
+pretty dangerous.
+
+Every time you sneeze,
+
+your eyes close
+for about one second,
+
+which means if you sneeze
+while driving at, say,
+
+70 miles per hour times 5,280
+divided by 60 divided by 60,
+
+you will travel about 103 feet
+with your eyes closed.
+
+But don't worry.
+
+This is a self-driving car.
+
+It uses sensors and software
+to drive itself
+
+to keep me
+and other people safe.
+
+I hope.
+
+[tires screech]
+
+Impressive.
+But let me ask you a question.
+
+What if an autonomous vehicle
+had to make a choice
+
+between hitting two people
+right in front of it
+
+or swerving to avoid them
+
+and hit one person
+on a sidewalk?
+
+What should
+it be programmed to do?
+
+[tires screech, car crashes]
+
+What would you do?
+
+Now polls and surveys
+have been put together
+
+asking people what they think 
+they would do,
+
+but no researchers
+have ever put people
+
+in that actual
+traumatic experience.
+
+Would we learn more about
+human nature if we did that?
+
+Would it even be ethical to put
+people in that sort of position?
+
+I'm about to find out.
+
+[theme music playing]
+
+In 1967, British philosopher
+Philippa Foot
+
+created a precursor to our
+self-driving car conundrum.
+
+The famous scenario
+she came up with
+
+is known as
+"the trolley problem."
+
+Imagine there's a runaway train
+hurtling down a train track.
+
+Directly ahead of the train,
+
+there are five people
+on the track.
+
+Now, imagine that you are
+too far away
+
+to help those five people,
+but right next to you,
+
+there's a lever that can divert
+the train onto another track.
+
+If you divert the train,
+the five people will be saved.
+
+But here's the catch.
+
+There's another person
+on the second track.
+
+Now you're faced with a dilemma.
+
+You can either do nothing
+
+and the train
+will kill five people,
+
+or you can pull the lever
+and save their lives,
+
+but be directly responsible
+for one person's death.
+
+What would you do?
+
+When surveyed, most people say
+that they'd pull the lever
+
+and sacrifice one person
+to save five.
+
+It's for the greater good.
+
+But how we say we'd act
+may not match
+
+how we'd actually act if
+the scenario really happened
+
+with real emotions
+and real lives at stake.
+
+Any difference between the two
+would reveal who we are
+
+compared to who we want to be,
+but a comparison
+
+could only be made by doing
+what has never been done before:
+
+making the trolley problem real.
+
+[Michael] Suppose we conducted
+ an experiment
+
+ in a realistic railroad
+ switching station
+
+ with test subjects
+ watching trains on monitors.
+
+ The trains and the people
+ on the tracks
+
+ would be staged
+ and prerecorded,
+
+ but the subjects would think
+ it was all real.
+
+ They would believe that
+ they could control a lever
+
+ that switches the tracks,
+
+ and they'd have the option
+ to divert the train or not.
+
+ They'd be totally convinced
+ that they have to choose
+
+ between five lives or one.
+
+But wait,
+there's a greater-good dilemma
+
+about doing an experiment
+on the greater good.
+
+By forcing people
+to truly believe
+
+they might kill someone,
+are we risking
+
+serious psychological damage
+to them?
+
+Yes, it might be beneficial to
+all of us to see what happens,
+
+but would those benefits be
+worth potential trauma to a few?
+
+To actually conduct
+a real-life trolley problem,
+
+I needed to make sure
+it would be ethical.
+
+ So I sat down
+ with behavioral neuroscientist
+
+ Professor Aaron Blaisdell.
+
+What you know about
+the trolley problem
+
+and what previous studies
+have found?
+
+Most people say
+they would pull the switch.
+
+Sure, it's one life versus five.
+The math works out.
+
+But what I want to know
+is that if we actually
+put them in front
+
+of a switch, watching a train
+barreling towards people,
+
+would they actually pull it
+in that moment?
+
+I bet a lot of them
+would freeze
+in that moment.
+
+When you're afraid,
+
+I think that shuts down
+a lot of action.
+
+-I'd like to find out.
+-Okay.
+
+What potential harms could come
+to someone in that position?
+
+Most people
+would probably be fine,
+
+but there is
+a small potential for harm
+
+in the sense of somebody
+being guilt-ridden
+
+over their decision,
+obsessive thoughts about,
+
+"I'm the person
+who would push that button
+
+and cause the train to go
+and kill somebody."
+
+Or they might think,
+"I'm the person
+who would freeze
+
+and I wouldn't be able
+to help those five people,"
+
+and that could be traumatic.
+
+Have we ever tested
+the trolley problem
+
+on human subjects for real?
+
+To my knowledge,
+we have not.
+
+Would you want to see
+the trolley problem
+
+enacted in real life?
+
+You know, I would.
+
+That would be
+very informative about
+how people really react.
+
+-If I were tell you
+we're going to run this...
+-Okay.
+
+...would you feel comfortable
+
+with that responsibility
+on your shoulders?
+
+No. I couldn't do it.
+
+For me
+to be involved in that,
+
+it would have to be on
+the shoulders of many people,
+
+including an ethics board.
+
+I couldn't just
+go through with that.
+
+[Michael]
+ Dr. Blaisdell's reliance
+
+ on an ethics board made sense.
+
+ Most universities
+ have ethics review boards
+
+ to answer
+ one crucial question:
+
+When is it okay to risk
+psychological harm
+
+in the name of science?
+
+[Narrator]
+ It is May 1962.
+
+ An experiment is being
+ conducted at Yale University.
+
+[Michael] Ethics review boards
+ were developed as a result
+
+ of some controversial
+ psychological experiments
+
+ in the middle
+ of the last century.
+
+One theory is that people
+learn things correctly
+
+whenever they get punished
+for making a mistake.
+
+ -[buzzer]
+ -Incorrect.
+
+You'll now get a shock
+of 105 volts.
+
+[man grunts]
+
+[Michael]
+ Dr. Stanley Milgram
+
+ tested
+ how far subjects would go
+
+ in obeying authority,
+ even if they believed
+
+ they were physically
+ hurting someone.
+
+330 volts.
+
+[man screams]
+
+ No one was being electrocuted,
+ and the screams
+
+ of the shock victim were fake,
+ but the trauma
+
+ that the participants suffered
+ was very real.
+
+[man] You have no right
+to hold me here!
+Let me out!
+
+ This sparked controversy
+
+ within
+ the scientific community.
+
+ Many questioned
+ Milgram's methodology,
+
+ but unlike a research school,
+ Mind Field doesn't answer
+
+ to a university's
+ ethics committee.
+
+ That said,
+ I wanted to get the thoughts
+
+ of an institutional
+ review board,
+
+ so I tracked one down
+ and proposed my idea
+
+ for doing the trolley problem
+ in real life.
+
+Do you think I could reach
+a point where you would
+
+feel comfortable
+approving this study?
+
+I hate to be the bearer
+of bad tidings, Michael.
+
+Probably not.
+
+I'm not ready to say no
+quite yet.
+
+I would love
+to see your study pass,
+
+and I actually think
+the ways to make it pass
+
+is we should probably
+be screening out for people
+
+who might have posttraumatic
+stress disorder,
+
+you know, any kind of,
+like, clinical problem
+
+that could make them
+more vulnerable
+
+to a type of event like this
+with the addition of something
+
+like a trauma counselor on-site.
+
+I actually think
+that under those circumstances,
+
+-it might pass.
+-Can you present
+
+a compelling case as to
+the social good of this study?
+
+-I agree.
+-If you could find a way
+
+to say, "Look,
+this is why it's important.
+
+It's not just basic
+theoretical research.
+
+This has direct implications
+for mass transit,
+
+direct implications
+for self-driving cars.
+
+It's a risk-benefit,
+
+but the benefits
+are potentially tremendous."
+
+Right, and so my hope
+is that the good
+this experiment does
+
+is in revealing
+the difference
+between instinct
+
+and philosophical reflection,
+
+and I think that there
+could be an enormous benefit
+
+in learning the difference
+so that we can train people
+
+to act in the way
+that they wish they would.
+
+-[David] Yeah.
+-[Natasha] That's interesting.
+
+-That's a compelling argument.
+-[Natasha] Yeah.
+
+I came into this meeting
+expecting a lot of resistance,
+
+but, instead, I'm actually
+leaving invigorated,
+
+like, excited to take
+their concerns,
+
+implement them into the study,
+
+and make it not just
+more acceptable,
+
+which I thought
+was the purpose here,
+
+but to actually make it
+more beneficial,
+
+more fascinating,
+and penetrate deeper
+
+and have more applications
+in society.
+
+So I decided we were ready
+to move forward,
+
+to turn one
+of the most notorious
+
+hypothetical ethical dilemmas
+into a reality.
+
+[train horn blowing]
+
+ We traveled
+ to an abandoned railroad line
+
+ and hired a freight train.
+
+ Our subjects needed to be shown
+ how switch points work.
+
+ So the "Mind Field"
+ production team
+
+ shot a video of a train
+ going down two tracks.
+
+ Then we dressed six actors
+ like railroad workers.
+
+ Since we didn't want them
+ to be at actual risks of harm,
+
+ we took steps to make sure
+ they were safe.
+
+You're all going to be
+workers on the track.
+
+We will not have
+the train moving
+
+while you are on the tracks.
+
+[Michael] We filmed
+ our actors on the tracks,
+
+ wearing ear protection
+ and looking distracted
+
+ to explain
+ why they couldn't hear
+
+ a train coming toward them.
+
+ Then in editing,
+ we employed visual effects
+
+ to create the illusion
+ of the train approaching.
+
+ We then combined
+ the shots together.
+
+ During the experiment,
+ we would play the video
+
+ for our subjects,
+ who would believe
+
+ the action was happening live
+
+ and transmitted
+ from remote cameras.
+
+ Our next step
+ was to find an expert
+
+ who would be willing to guide
+ me through the process
+
+ of selecting our subjects,
+
+ in order to minimize
+ psychological harm.
+
+So what should I be
+worried about?
+
+The worst would probably be
+posttraumatic stress disorder,
+
+and that's when
+they're going to be
+re-experiencing the trauma.
+
+They'll keep thinking
+about it over and over,
+
+and so to limit risk, you'd
+want to screen out people
+
+prone to
+a traumatic reaction,
+
+and then afterwards,
+do the debrief.
+
+That's the key
+to limit harm
+from happening.
+
+How are they feeling
+at this moment?
+
+What's going on with them?
+
+You can start to ease them
+into the reality
+
+of what is
+instead of what they
+thought it was.
+
+Would you be willing to help us
+conduct this experiment?
+
+Oh, uh...
+
+yes, I mean,
+I think I would.
+
+I think this is
+a really fascinating
+
+and valuable experiment,
+because people can have
+
+very uncomfortable lessons that
+they then start to learn from.
+
+If I can make sure
+that we get people
+who may be appropriate
+
+to do such a thing,
+I would be honored.
+
+[woman] I'm calling regarding
+a study we're doing
+
+for high-speed railway.
+
+I wanted to know if you
+might be interested
+
+in participating next week.
+
+[Michael]
+ To disguise the true nature
+ of our experiment,
+
+ we placed an online ad
+ recruiting people
+
+ for a fake focus group
+ to offer feedback
+
+ on California's
+ new high-speed rail.
+
+Today I'm just going to ask you
+to fill out a couple forms
+
+to make sure that there's
+a range of personality types
+
+in our group
+and for TSA security purposes.
+
+[Michael]
+ These psychological surveys,
+
+ used frequently by employers,
+
+ look to uncover signs
+ of depression, anxiety,
+
+ and other conditions
+ that might make someone
+
+ unsuitable to participate
+ in this experiment.
+
+Thank you very much.
+Have a great day.
+
+Thank you.
+
+ Back in Dr. Cason's office,
+
+ we reviewed the potential
+ subjects' responses.
+
+This particular person,
+I was concerned about this.
+
+Some high suicidal thinking,
+high acting out.
+
+Those kinds
+of factors might not be
+good in an experiment
+
+where you want
+to try to prevent
+
+-some of the trauma
+from happening.
+-Right.
+
+These people, though,
+
+and there's
+a large group of them,
+
+they are more resilient.
+
+So I would be more comfortable
+with these people,
+
+because their ability
+to bounce back
+
+in difficult situations
+might make them
+
+less susceptible
+to a trauma.
+
+[Michael] Finally, after
+ consulting two psychologists
+
+ and a university ethics board,
+
+ it was time to put our plan
+ into action.
+
+[Michael] This is where we're
+going to physically create
+
+the trolley problem
+in real life,
+
+not with a trolley,
+but with a train.
+
+Our subjects will sign in
+at this booth
+
+for our phony focus test,
+
+which will never
+actually take place.
+
+It's going to be
+a hot day for them.
+
+So we'll offer them,
+while they wait
+
+for the actual test to begin,
+the chance to sit inside
+
+this nice air-conditioned
+remote switching station.
+
+Inside, they'll meet a kindly
+train-switch operator,
+
+supposedly an employee
+
+of the California
+Railroad Authority.
+
+The California Railroad
+Authority is real.
+
+Real fake.
+
+ We invented this nonexistent
+ government organization
+
+ to convince our subjects
+ that everything here is real,
+
+ including these monitors
+ showing supposedly live shots
+
+of actual trains
+from different tracks
+
+all around the California area.
+
+[horn blows]
+
+While the participant
+is waiting inside this room,
+
+ they'll learn how the operator
+ switches the tracks
+
+ using a lever to remotely
+ switch a train
+
+ from one track to another.
+
+ They'll see it happen.
+
+We're actually controlling
+the video
+
+on these screens from
+a different hidden control room.
+
+ At a given time,
+ the switch operator
+
+ will leave the subject alone
+ in the switching station.
+
+And at that point,
+a crisis will occur.
+
+-[brakes hiss]
+-[horn blows]
+
+A train will be barreling
+down the tracks,
+
+ and workers will have made
+ their way out to both tracks,
+
+ five on one, one worker
+ on his phone on the other.
+
+No one is around for them
+to alert
+
+who has any kind of control
+or authority.
+
+ Switching the train is up
+ to the subject alone.
+
+ They'll feel like what they do
+ has real-world consequences.
+
+-[train horn blows]
+-Will five people die...
+
+or will one?
+
+[horn blows]
+
+Our first participant
+is almost here,
+
+so it's time for me
+to get ready.
+
+Dr. Cason,
+how are you feeling?
+
+-Good.
+-My hypothesis
+
+is that we're going see
+people immediately,
+
+when they hear
+that first warning,
+
+leave the station and not want
+to get back inside.
+
+The other option
+would be, of course,
+the freeze action,
+
+where
+they don't do anything,
+
+'cause they don't know
+what to do.
+
+In that case,
+we want to know
+their thought process.
+
+It'll be interesting
+to see. This has never
+been done before.
+
+All right, well, here we go.
+
+[warning bells clanging]
+
+[Michael]
+ Our first subject is Elsa.
+
+[woman] Do you wanna stand
+ over here in the shade?
+
+Hi, I'm Elsa,
+nice to meet you.
+
+Nice to meet you, Elsa.
+
+[Michael]
+ Everyone she meets is an actor,
+
+ and all of our cameras
+ are hidden
+
+ so she has no idea
+ that she's being watched.
+
+Oh, yeah,
+thank you so much,
+
+and then my phone
+if I can.
+
+Thank you.
+
+[Michael] Our subjects were
+ told that the technology
+
+ they're about to see
+ is proprietary.
+
+ This gave us an excuse
+ to collect their phones
+
+ so they couldn't call for help
+ during the imminent crisis.
+
+-Thank you so much
+for coming out today.
+-Thank you.
+
+What we're doing here is,
+the California Railroad
+Authority,
+
+ they're developing
+ high-speed trains.
+
+And so we want the public
+to come in and give us
+
+some feedback on how
+comfortable they are,
+the decor, you know.
+
+-Oh, wow.
+-All that kind of stuff.
+
+-[cell phone chirps]
+-Um, oh, shoot.
+
+They're running a little
+behind from the last one.
+
+-That's okay.
+-So it's just gonna be, like,
+another 15, maybe 20 minutes.
+
+Yeah, that's fine, yeah.
+No problem.
+
+Um... you know what?
+I've got an idea.
+
+Okay.
+
+Michael:
+ Now Elsa believes
+
+ she has to wait
+ for 20 minutes.
+
+-[knock on door]
+-Yeah?
+
+ Our actress pretends
+ to ask permission
+
+ for her to wait inside
+ the switching station.
+
+So, actually,
+this isn't part of it.
+
+This is a remote
+train-switching station,
+
+but since it's gonna be
+a little bit,
+
+and it's
+nice and cool and
+air-conditioned in there,
+
+ I just talked to Eddie,
+ and he said
+
+it would be totally great
+for you to come in...
+
+-Oh, yeah, okay.
+-...and just check it out...
+
+-Okay, cool.
+-...and see what they
+do in there.
+
+Eddie, this is Elsa.
+
+-How are you, Elsa?
+-I'm good, how are you?
+
+Good, come on in,
+have a seat.
+
+So what brings you out this way?
+
+Um, the focus group.
+[laughs]
+
+Focus group.
+
+Yes, the high-speed railroad.
+The luxury railroad.
+
+ Okay. So what we got here is
+ a remote switching station.
+
+These are all live feeds.
+
+What's happening is there's
+a lot of construction going on.
+
+We're going to have to put
+all new ballast through here,
+
+new ribbon rail
+right here on these.
+
+[Michael] In case you're
+ wondering, we hired an actor
+
+ who actually spent 20 years
+ working on railroads.
+
+ Can you imagine if we had
+ an actor who didn't know
+
+a lot about trains?
+
+ [Greg]
+ He offers something
+ called face validity
+
+ in that you can look him,
+ and you think,
+
+"Ah, this guy's real."
+
+My job here is to
+take care of all the switching
+
+right here on these
+two tracks right now.
+
+And so there needs to be someone
+in here all the time.
+
+Now, the other thing
+about this--
+
+[female voice]
+ Attention, train approaching.
+
+This is probably
+a work unit that's coming.
+
+-Uh-huh.
+-We're gonna divert it
+to track two.
+
+Okay, so a train's coming.
+
+Now's a chance for her
+to learn how the switch works.
+
+Ah, very good.
+
+In fact, why don't you be
+the one to do that?
+
+Just go ahead
+and throw it yourself.
+
+-Pull it down.
+-Right now?
+
+Yeah, go ahead. Good.
+
+It's going much faster
+than you think.
+
+All right, it's gonna
+make the transition
+to track number two.
+
+Well, I tell you what.
+You're now a switchman.
+
+[both laugh]
+
+Okay, well,
+now that the trailing car
+
+is clear of the switch points,
+
+go ahead and switch it back
+to track one.
+
+-Okay.
+-That was kind of scary.
+
+I was like, oh, my gosh,
+I have to turn it.
+
+Well, just you wait.
+
+The good thing is we've got it
+back on line one,
+
+and that means
+that the next train
+that comes through
+
+will go through on track one.
+
+[Michael]
+ Elsa now understands exactly
+
+ where the trains will go,
+
+ switch one to the left,
+ switch two to the right.
+
+ It was time to force her to
+ make a very difficult decision.
+
+-[cell phone rings]
+-Hang on.
+
+-Oh, I gotta take this.
+-Oh, yeah, sure, no problem.
+
+Do me a favor.
+
+-Wait right here.
+-Okay.
+
+Someone has to be here
+at all times.
+
+Okay, no problem.
+
+I'm just gonna go out
+and take care of this.
+
+-Okay, no problem. Okay.
+-Be back in a sec.
+
+ [Greg]
+ Look at her eyes
+
+ 'cause she's concerned
+ immediately,
+
+a little worried,
+like, "What?"
+
+[Michael] We gave Elsa
+ a couple of minutes
+
+ to acclimate
+ to her surroundings, and then,
+
+ we started the playback
+ of our staged footage.
+
+ [Michael] All right,
+ here come the workers.
+
+[female voice]
+ Attention, object on track.
+
+Yep, she just noticed them.
+
+ Attention, object on track.
+
+ Attention, object on track.
+
+ Attention, object on track.
+
+ [Greg]
+ She's looking
+ in her purse to find...
+
+-[Michael] No phone?
+ -...no phone.
+
+ Attention, object on track.
+
+ Attention, object on track.
+
+ [Michael]
+ I think the warning
+ does a lot.
+
+If you're in that station,
+you're supposed to do something.
+
+ Attention, object on track.
+
+ Okay, here comes the train.
+
+[train horn blows]
+
+ Attention, train approaching.
+
+Here's the "train approaching"
+warning.
+
+ Attention, object on track.
+
+ [Greg]
+ I don't think at this--
+ oh, there she goes.
+
+ Attention, train approaching.
+
+There's a train approaching.
+
+[woman] What?
+
+I wanted to let him know that
+there's a train approaching.
+
+-Oh, my God, okay.
+-Can you tell him?
+
+Yeah, I will go look for him
+right now.
+
+[Michael]
+ But the switch operator
+ won't be coming back.
+
+ The full weight of this crisis
+ is all on Elsa.
+
+[female voice]
+ Attention, train approaching.
+
+-Whoa, whoa, whoa.
+ -Attention, object on track.
+
+ -Attention, train approaching.
+ -[Greg] I can't believe this.
+
+ Attention, object on track.
+
+ Attention, train approaching.
+
+ Attention, object on track.
+
+ Attention, train approaching.
+
+ Attention, object on track.
+
+ End of test.
+ Everyone is safe.
+
+ End of test.
+ Everyone is safe.
+
+-Okay.
+-[Michael] We didn't want
+
+ the participants to think
+ that anyone actually got hurt.
+
+ So we showed them this
+ "everyone is safe" card
+
+ before the train would have
+ actually hit anyone.
+
+-Elsa.
+-I'm Michael.
+
+-Hi,
+-And this is Greg.
+
+-This was all an experiment.
+-Okay.
+
+Can we come on in?
+
+We want to ask you
+a few questions.
+
+Yeah, sure.
+Did I do something wrong?
+
+-Not at all.
+-How are you feeling right now?
+
+[chuckles]
+Um... just scared.
+
+-Go ahead and take a seat.
+-[Greg] Scared?
+
+-Yes.
+-So no one was in any danger.
+
+This is a psychological
+experiment that we're conducting
+
+on how people behave
+when decisions need to be made.
+
+-Oh, okay.
+-Walk me through how you felt.
+
+I felt the pressure.
+I'm like, "Oh, my gosh,
+
+these people are gonna die."
+
+I had to make a very quick
+and sound decision, like,
+
+immediately, right now,
+right this second.
+
+ Their lives were in my hands.
+
+ I need to change it
+ to track two.
+
+[Michael] What was motivating
+ your decision to switch?
+
+So I can save more lives.
+
+I didn't know if I was
+making the right decision.
+
+I mean,
+a life is a life, right?
+
+[Michael] So when confronted
+ with two terrible choices,
+
+ at least one person
+ was capable of taking
+
+ deliberate action to sacrifice
+ one in order to save five.
+
+ But we wanted to see
+ if Elsa's reaction was typical.
+
+-Need my phone?
+-Yes, please.
+
+Would you be interested
+in high-speed transportation?
+
+-Oh, yeah, anything
+that cuts through--
+-[cell phone rings]
+
+Shoot, sorry. I just got a text.
+I'm so sorry.
+
+Why don't you have
+a look in there
+
+and see the trains running?
+
+Oh, it's
+so much nicer in here
+than it is out there.
+
+When I first started out, I used
+to have to stand out in the sun.
+
+-What?
+-Do you know when
+the next train's coming?
+
+-There's one coming
+right there.
+-He has a great eye.
+
+[female voice]
+ Attention, train approaching.
+
+[Michael] As with Elsa,
+ every subject received a lesson
+
+ in how to switch the tracks.
+
+Why don't you go ahead
+and switch them?
+
+-Right here?
+-Yeah.
+
+Go ahead.
+How does that feel?
+
+I was, like, exhilarated.
+I was, like-- I got nervous.
+
+-[cell phone rings]
+-One second.
+
+Let me check this.
+Hang on one sec. Ah.
+
+Someone has to be in here
+the whole time.
+
+-I got it, yep, I'm here.
+-Okay.
+
+-Hello?
+-[laughing]
+
+Breaker, one-nine,
+roger, copy that.
+
+He's actually
+tapping into the power
+of being in that position.
+
+[female voice]
+ Attention, object on track.
+
+[Michael]
+Here comes the test.
+
+ Attention, object on track.
+
+ Attention, train approaching.
+
+[Greg]
+ She's not moving.
+
+ -Attention, train approaching.
+ -Just watch his eyebrows.
+
+[Michael] Oh, yeah.
+
+ Eyes are going
+ back and forth.
+
+ Train approaching.
+
+ -Oh, she's worried.
+ -Yeah.
+
+ Train approaching.
+
+I don't know what I would do
+in this kind of scenario.
+
+ Train approaching.
+
+This is sort of that
+frozen pose that we see.
+
+ Paralysis in the face of danger
+ is such a common reaction.
+
+ Attention, object on track.
+
+ Attention, train approaching.
+
+ Object on track.
+
+[Michael] Even with the train
+ seconds away,
+
+ some are still looking
+ for others to take control.
+
+I'll go try
+and find him. Okay.
+
+ -[sings softly]
+ -She's singing.
+
+This is self-soothing
+there, yeah.
+
+[female voice]
+ Object on track. Attention.
+
+ -She's not moving.
+ -Oh, my gosh, wow.
+
+ -Okay,
+ -Is she gonna switch it?
+
+ Train approaching.
+ Attention, object on track.
+
+ Attention.
+
+ End of test.
+ Everyone is safe.
+
+-What?
+-All right, let's go.
+
+[Michael] Not one of these
+ participants pulled the lever.
+
+ Time to find out why.
+
+[Michael] Hello, J.R.
+
+Oh, my gosh!
+How you guys doing?
+
+-My name's Michael.
+-J.R.
+
+Everything that just happened
+was an experiment.
+
+[laughs]
+
+This was an experiment.
+
+-Oh, my gosh.
+-Okay.
+
+What were you feeling
+when you were watching that?
+
+Terrified! I-- I just--
+
+I was feeling
+a little anxious
+when I saw
+
+the train coming,
+like, "Oh, my God!"
+
+-Your heart is beating fast?
+-Yeah, a little bit, yeah.
+
+Tell me what was going
+through your mind when you heard
+
+that first warning
+that a train was approaching?
+
+I thought
+about switching it,
+
+but then
+actually acting on it
+was a different thing.
+
+I kind of suspended
+my responsibility.
+
+Like, I didn't
+know what to do,
+so I was just like,
+
+"Oh, I better not
+touch it you know,
+because I don't know
+
+if I'll
+screw something up."
+
+I would assume
+that there would be--
+
+out of those five guys,
+someone would've looked back.
+
+They were gonna get
+out of the way,
+
+of the train was already
+planning to stop.
+
+I think they probably built
+those trains
+
+with some type of sensor
+or something like that.
+
+[Michael] "The train
+ probably had sensors."
+
+ "The workers would've noticed."
+
+ "I didn't want to touch
+ the equipment."
+
+ These are all forms
+ of attribution,
+
+ when an individual assumes
+ that others
+
+ are either responsible
+ for taking action
+
+ or have already done so.
+
+-Both tracks
+had people on them.
+-Right!
+
+And I just didn't know who
+should live and who should die.
+
+Do I switch it,
+do I not switch it?
+
+I mean, either way,
+someone's gonna get
+really badly hurt.
+
+I didn't want that power.
+
+It was quite--
+quite the test, I would say.
+
+[Michael]
+ It is quite the test.
+
+ At this point,
+ one subject
+
+ had switched the tracks,
+ and five others had not.
+
+ But we weren't done yet.
+ Meet Cory.
+
+-Here, have a seat.
+-Much obliged, thank you.
+
+This is cool.
+
+This whole module
+will interconnect
+
+with the entire nation
+if we wanted it to.
+
+But right now, we're looking
+at just track one on the left,
+
+track two through there.
+
+-Nice.
+-These are many,
+many miles away.
+
+-Yeah,
+-But they're all live feeds.
+
+Surveying the scene.
+Eagle's point of view.
+
+-[cell phone rings]
+-Yeah. Let me see what this is.
+
+-Okay, I'll be right back.
+-Okay, got it.
+
+ [Greg]
+ He's remaining engaged.
+
+ [Michael]
+ Here come the workers.
+
+Oh, no.
+
+[female voice]
+ Attention, object on track.
+
+Uh, yeah.
+
+So he realizes there's
+a potential problem.
+
+ I think
+ he's gonna go out.
+
+ Attention, train approaching.
+
+Um, there's a train coming?
+Um...
+
+[Greg] Okay.
+
+ Attention, object on track.
+
+Uh, yeah.
+
+ Attention, train approaching.
+
+Okay, he realizes there's
+no one there, it's urgent.
+
+Okay,
+so this needs to go to...
+
+ Attention, object on track.
+
+ [Greg] Okay, he's
+ rehearsing what to do.
+
+ -Attention, train approaching.
+ -Oh. Track two.
+
+Do they not know?
+
+ Attention, train approaching.
+
+I know.
+They should see this.
+
+ Object on track.
+ Attention, train approaching.
+
+ -Attention, object on track.
+ -[train horn blows]
+
+ -Attention, object on track.
+ -Oh, my God.
+
+ -End of test.
+ -Okay, good.
+
+ Everyone is safe.
+
+-Hello?
+-Hi, Cory, my name's Michael.
+
+There was just a--
+almost an accident
+seemingly.
+
+-Cory, everything that just
+happened was an experiment.
+-Okay.
+
+-No one was in danger.
+-For sure.
+
+These were just loops
+of video taken before.
+
+This is a psychology experiment
+looking at how people behave...
+
+-Okay. Okay, yeah.
+-...in various circumstances.
+
+So tell me
+how you were feeling.
+
+-Mainly a bunch of terror.
+-[Greg] Terror.
+
+And responsibility,
+because I was at the helm.
+
+And just horrified
+about making a decision
+
+between, like,
+five people compared to one.
+
+It was very scary,
+to say the least.
+
+-It was scary, right.
+-Yeah. Oh, yeah.
+
+What was going through
+your mind
+
+as the train's coming
+down the track?
+
+It was mainly to warn them.
+
+There are--
+just to reiterate--
+
+What's coming up?
+What's coming up right now?
+
+You don't want to have
+to choose between people.
+
+Right.
+
+And that was really tough.
+
+Either like six families
+or one family?
+
+It was, like... up to me,
+it felt like. Yeah.
+
+It was interesting to me that
+you had such presence of mind.
+
+[Michael] Yeah, look for help
+ and make a decision.
+
+The one that everyone,
+if you ask them in a survey,
+
+says that they would like
+to be brave enough to make.
+
+Yes, so that was impressive,
+Cory, it really was.
+
+Thank you.
+
+You know, I think it would
+be good to have you meet
+
+-some of the people who
+participated so you can see.
+-Awesome.
+
+Yeah, let's go do that,
+just follow us on out
+
+-and meet the actors.
+-Awesome.
+
+[Michael] Cory showed us
+ just how important
+
+ the debrief was
+ in this situation.
+
+ Meeting the actors,
+ which all of our subjects did,
+
+ reinforced that this
+ was not a reality.
+
+So, Greg, trolley problem.
+
+-Mm-hmm.
+-I went into this thinking
+
+we're going to tease out
+some general truths
+about human nature.
+
+However,
+what we've really seen
+
+is that you learn
+a lot about the individual.
+
+-Right.
+-Everyone had some explanation
+for their behavior.
+
+-Yes.
+-Each one was different.
+
+Yes, each one person told
+themselves a story
+
+about what was happening
+according to the facts
+
+and their analysis
+of the surroundings
+
+and what was going on
+at the moment,
+
+but it's also based
+on their own background
+and experience.
+
+Totally, there were people
+who were just frozen,
+
+ realizing something was wrong
+ and they weren't prepared.
+
+ [Greg] J.R. was
+ a great example of that.
+
+He evaluated everything,
+but at some point just said,
+
+"You know,
+I don't know what to do."
+
+Other people
+were ready to say,
+"You know what?
+
+ This isn't on me.
+ It's on the technology.
+
+ I'm sure it's being taken care
+ of by others."
+
+ Whereas someone like Cory,
+
+ -someone like Elsa said...
+ -[switch clicks]
+
+ -..."No, I have
+  to take control."
+ -[click]
+
+They still had some of
+those same thoughts,
+
+but I think what happened
+is they realized
+
+that if they did not
+do something,
+
+more people would be hurt.
+
+Neither of them
+really wanted 
+to do something.
+
+They both felt compelled
+to do something,
+
+'cause they
+had to save lives.
+
+ So was it worth doing
+ the trolley experiment?
+
+ I think it was
+ definitely worth it.
+
+ Some of these participants,
+ if not all of them,
+
+ learned something
+ about human behavior.
+
+ Although it was
+ a difficult experience,
+
+ Elsa learned what
+ inner strength she had,
+
+ and I think we had saw that
+ with Cory as well.
+
+Every single one of
+our participants felt like
+
+-they just contributed
+to something.
+-Right.
+
+And they feel the value
+of what just happened.
+
+-Yeah.
+-It's not just us.
+
+Wow.
+
+We've since followed up
+with our subjects,
+
+and all of them are doing well.
+
+I'm glad we minimized risk
+
+by prescreening
+vulnerable individuals,
+
+debriefing the participants,
+and providing on-site counseling
+
+because doing so
+gave me confidence
+
+that we could explore this facet
+of human psychology ethically.
+
+We learned that there's
+a stark difference
+
+between what people
+think they would do
+
+and what they actually do
+when faced
+
+with a difficult moral dilemma.
+
+Instead of saving five lives,
+
+most of our participants
+did nothing,
+
+but is it wrong to freeze?
+
+Should people feel bad
+for being unable to act?
+
+Well, here's the thing.
+
+Freezing in the face of a threat
+is a behavior
+
+that can be found
+all over the animal kingdom,
+
+but we are the only animals
+that can study how we act,
+
+pontificate
+on how we ought to act,
+
+and program machines
+to do only that.
+
+To make progress
+in our study of the mind,
+
+we have to affect the mind,
+
+and that's not something
+that we should take lightly.
+
+Understanding who we are
+by taking ourselves
+
+to the limit comes with a risk,
+and as we've learned,
+
+that risk
+must always be balanced
+
+against the greater good.
+
+And as always,
+thanks for watching.
+
+ This season,
+ on Mind Field...
+
+You're going
+to be a lab rat
+in a maze.
+
+ Nobody's ever
+ done this before.
+
+It's quite pioneering work,
+really.
+
+As far as I'm concerned,
+you're already a co-author
+
+ on our scientific paper.
+
+- Ready?
+- Ready.
+
+I'm here on the Amazon,
+where I will drink
+
+ an ancients psychedelic drug--
+ ayahuasca.
+
+Don't worry,
+this is a self-driving car.
+
+ We'll connect through Bluetooth
+ to this living robot.
+
+Okay, and then
+to the left.
+
+-Whoa.
+-Whoa-ho-ho!
+
+I didn't realize
+that you were a real person.
+
+I'm gonna tear you apart
+if you don't give us
+some answers.
+
+I am going to be taking
+a lie-detection test.
+
+-[buzz]
+-[crackling]
+
+You know, Chinese water torture
+isn't even Chinese.
+
+ Will five people die,
+ or will one?
+
+ This is a big first for us.
+
+We're actually getting
+to do this for real.
+
+Welcome to Mind Field.
+
+Thanks for watching!
+
+[theme music playing]
+

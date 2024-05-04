@@ -1,0 +1,367 @@
+Hey, Vsauce. Michael here.
+
+I am at the White House, in America's capital,
+
+Washington, D.C. America makes a lot of
+feature films every year - 
+
+Hollywood. But they don't make the most
+feature films every year. Nigeria makes more.
+
+But the country that makes the most
+films every single year is
+
+India. Every two years, the country
+
+of India fills up enough film with unique
+feature films
+
+that stretch all the way from this city,
+Mumbai, to where I live,
+
+in London. That's double what Hollywood
+produces in two years.
+
+That is a lot of movies, but is
+
+real-life a movie? I've discussed the frame
+rate of the human eye before but how
+
+does the resolution
+
+of the human eye compare to a camera or screen?
+
+VHS, LaserDisc, DVD,
+
+Blu-ray, IMAX. Numbers like these are
+pixel dimensions. When multiplied
+
+they tell us the total number of picture
+elements an image is made up of.
+
+A figure often used to describe digital
+cameras. It might sound like
+
+more is better, but to be sure numbers
+like 1920 by 1080
+
+are not resolutions per se.
+More pixels is only part
+
+of the equation. Resolution is about distinguishing
+
+fine details and that depends on a lot of other factors.
+
+For instance, the amount of light, the
+size of the sensors,
+
+what the millions of pixels are actually
+encoding and
+
+how close the subject is. I mean, up close
+
+Salvador Dali's painting of his wife
+looking at the Mediterranean can be
+
+resolved into boxes. But from a far,
+
+well, it's Abraham Lincoln. For crying out
+loud, on a small enough screen
+
+from far enough away, low and high,
+so-called resolutions on screens, aren't
+
+even resolved differently
+
+from one another by your eye.
+
+How different nearby pixels are from one
+another also matters. This is called
+
+spatial resolution.
+
+For instance, if I go out-of-focus
+
+the number of pixels in the video frame
+stays the same but you can't resolve as much
+
+detail. Now, with all this in mind we can still
+
+compare human vision to a digital image,
+by asking a better question.
+
+Assuming everything else is optimal, how
+many pixels would you need to make an
+
+image on a screen large enough to fill
+your entire field of view
+
+look like real life, without any
+detectable
+
+pixelation? Now we are getting somewhere.
+
+Kind of. The analogy is still crudy
+
+because a camera snaps an entire frame
+at once, whereas
+
+our eyes move around. The brain amalgamates
+
+their constant stream of information
+into what we call vision -
+
+sight. In fact, the image created by the
+eyeball alone during a single glance
+
+would hardly even be acceptable on a
+broken TV screen. We think
+
+our eyes create images like this picture
+Guy took of me with a camera.
+
+But for one thing, unlike a camera,
+you've got some stuff
+
+in the way. For instance, you are always
+
+looking at your own nose, and maybe even
+glasses,
+
+if you have them. Luckily, our brains
+process those stimuli out because they
+
+don't matter
+
+and they don't change. But thinking those are
+the only difference
+
+is a pitfall, literally,
+
+latinly. The fovea gets its name from the Latin for
+
+'pitfall'. The fovea is the pit on your
+retina that receives light from the
+
+central two degrees
+
+of your field of view, about the area
+covered by both your thumbs
+
+when held at arms length away. Optimal
+colour vision and 20/20 acuity are
+
+only possible within that little area.
+When it comes to these limitations XKCD[.com]
+
+has a brilliant illustration.
+
+It points out other problems, like blind spots - literal blank spaces
+
+in our vision where the optic nerve meets
+up with the retina
+
+and no visual information is received. If you bought
+
+a camera that did this, you would return it.
+
+You can find your own blind spot by closing
+
+your right eye, fixating your left eye
+on a point in front of you,
+
+extending your left thumb and then moving it
+
+left-of-center slightly slowly carefully
+until
+
+it's not there anymore. Crazy(!)
+But, of course,
+
+we don't see the world horribly, like
+this, because our eyes are constantly moving,
+
+dragging foveal resolution wherever we need it.
+
+And our brains' complex visual system fills in details,
+
+merges images from both eyes and makes a
+lot of gueses. What we actually see
+
+is a processed image.
+Not computer-generated imagery, but,
+
+well, meat-generated imagery.
+The neon color spreading illusion
+
+is a great way to demonstrate this
+difference. There is no
+
+blue circle in this picture. The white here
+
+is the same as the white here. A camera
+
+isn't fooled, a screen isn't fooled, only
+
+you and the fleeting gumbo of
+ingredients you call perception
+
+is fooled. Our vision
+
+is not analogous to a camera. But our
+reformulated question can still be
+
+answered because human anatomy allows us
+to resolve, to differentiate certain
+
+angular distances. Famously, Roger N .Clark
+
+used a figure of 0.59 arcminutes
+as the resolution of the human eye to calculate,
+
+based on the size of our total field of
+view,
+
+how many of these distinct elements
+could fit inside of it.
+
+The result was an approximation of
+exactly what we want to know:
+
+how many individual picture elements -
+pixels - our vision can appreciate.
+
+His answer? 576 megapixels.
+
+That many pixels, packed
+inside a screen large enough to fill
+
+your entire field of view, regardless of proximity,
+
+would be close enough to be undetectable
+by the average
+
+human eye. But we should factor in the fovea,
+
+because Clark's calculation assumes
+optimal acuity everywhere, it allows the
+
+eye to move around.
+
+But a single glance is more analogous to
+a camera snap, and, as it turns out,
+
+only about 7 megapixels,
+packed into the two degrees of
+
+optimal acuity the fovea covers during a fixed stare,
+
+are needed to be rendered undetectable.
+It's been roughly estimated that the
+
+rest of your field of view would only need about
+
+1 megapixel more information. Now that might
+sound low but keep in mind that there
+
+are plenty of modern technologies that
+already use pixel densities
+
+better than we can differentiate.
+As Bad Astronomer deftly showed,
+
+Apple's Retina Displays truly do
+contain pixels at a density
+
+average eyesight can't differentiate from typical
+
+reading distances. But the fact that
+there are screen sizes and pixel
+
+densities that can fool the human eye
+
+is not a sign that we see in
+
+any kind of megapixelly way. Human vision just
+
+isn't that digital. I mean, sure, like a
+camera sensor we only have a finite
+
+and discrete number of cells in our retina.
+
+But the brain adjusts our initial
+sensations into a final perception
+
+that is a wishy-washy top-down processed blob
+
+of experience. It's not made of pixels
+
+and furthermore, unlike a camera, it's not
+saved in memory with veracity like a
+
+digital camera file.
+
+Absolutely no evidence has ever been
+found for the existence of a truly
+
+photographic memory. And what's even
+cooler is that not only do we not
+
+visually resolve the real world, like a movie camera,
+
+we also don't narratively resolve
+conflict and drama in our lives
+
+like most movie scripts. The point of
+all of this, what I'm getting at,
+
+is an idea. An idea that initially drew me to this question.
+
+We play roles in the movie of life,
+
+but it's a special kind of movie.
+Cinematic victories and struggles are often
+
+discrete, resolved, like pixels, with
+unbelievably perfect beginnings and endings,
+
+whereas the real world is all about ear resolution.
+
+I like how Jack Angstreich put it in 'Cinemania'.
+
+In a movie, a character can make a
+decision and then walk away from the camera
+
+across the street and have the credits
+roll, freezing life in a perfect happily ever after.
+
+But in the real world, after you cross
+the street,
+
+you have to go home. The world goes on.
+
+Life doesn't appear in any particular pixel resolution
+
+or narrative resolution. Things are
+
+continuous. The world was running before
+you came around and it will continue running
+
+after you are gone. Your life is a plot
+only in so far as it begins
+
+and ends and occurs in medias res.
+
+Damerish opens illustration for
+Charles McGrath's endings
+
+without endings says it perfectly. In life, there rarely is
+
+the end. There is only
+
+the and.
+
+And as always,
+
+thanks for watching.
+

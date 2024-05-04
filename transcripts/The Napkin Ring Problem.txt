@@ -1,0 +1,258 @@
+Hey, Vsauce! Michael here! If you core a sphere; that is, remove a cylinder from it, you'll be left with a shape
+
+called a Napkin ring because, well, it looks like a napkin ring!
+
+It's a bizarre shape because if two Napkin rings have the same height, well
+
+they'll have the same volume regardless of the size of the spheres they came from! (Cool)
+
+This means that if you cut equally tall napkin rings from an orange and from the Earth,
+
+well, one could be held in your hand. The other would have the circumference of our entire planet,
+
+but both would have the same volume...
+
+I mentioned this counterintuitive fact while making a Kendama with Adam Savage. Check that video out if you haven't, or better yet,
+
+just come see us. We're bringing brain candy live to 24 new cities this fall. It's going to be busy, but right now
+
+We're talking about balls and coring them!
+
+I have here TWO napkin rings from very differently sized spheres; one is from a tiny ball,
+
+just a little tomato that I've cored, so it's got a little hole in it right there.
+
+The other Napkin ring is made from an orange,
+
+but both Napkin rings have the same height. The tomato has a smaller
+
+circumference than the orange which means less volume, but its ring is thicker which means more volume. Both of those effects
+
+exactly cancel out. So these two napkin rings have identical volumes they take up the same amount of space
+
+By the way orange oil is flammable
+
+To see why the napkin ring problem is true,
+
+let's discuss Cavalieri's principle. It states that for any two solids like these two cylinders I've built here
+
+sandwiched between parallel planes if any other parallel plane
+
+Intersects both in regions of equal area no matter where it's taken from
+
+Well then the solids have the same volume. That's clearly true here these cylinders are built out of stacks of VSauce stickers
+
+100 in each Stack so their volumes are the same
+
+if I
+
+Skew one of them like this it shape will change, but it's volume hasn't it's still contained the same amount of stuff
+
+I haven't added or subtracted stickers
+
+And Cavalieri's principle ensures that they still have the same volume because any cross-section taken from down here up here in the middle anywhere
+
+Will always give us a region of the same area as the other because those regions are always equal area circles.
+
+Now let's Apply Cavalieri's principle to Napkin Rings
+
+We can see that two napkin Rings with similar Heights have
+
+identical volumes by showing that when cut by a plane the area of one's cross section
+
+Always equals the area of the others now to do this
+
+Notice that the area of the spheres cross section minus the area of the cylinders cross section gives us the area of the Napkin rings
+
+Cross section. Depending on where we slice the Napkin ring the cross sections will have different areas
+
+But they will always be the same as each other. Let's calculate the areas of these blue rings
+
+first of all let's call the height of the Napkin ring h and the radius of the sphere they're cut from
+
+capital R
+
+Alright, perfect now a cross section of a sphere like this and a cross section of a cylinder like this are both circles
+
+So their areas can be determined by using Pi times the radius squared
+
+So if we want to find the area of the spheres cross section and subtract the area of the cylinders cross section
+
+(I'll draw a picture of a cylinder here), all we need to do is take Pi
+
+multiply it by the radius of the sphere cross section
+
+Square that and then subtract Pi times the radius of the cylinder Squared, but what are their Radii?
+
+Well, if this is the center of the sphere we can draw a line straight up to the corner of the cylinder down the side
+
+of the cylinder and then connect to form a right triangle
+
+The Pythagorean Theorem will really help us here it tells us that the length of one side squared plus the length of the other side
+
+squared equals the length of the hypotenuse squared
+
+Now this distance right here this side of the triangle what we want
+
+It's the radius of the cylinder, so we'll call this the little r radius of the cylinder (beautiful little picture there)
+
+so the radius of
+
+the cylinder
+
+squared plus
+
+this side length, which is just half the height of the cylinder, so the height of the cylinder divided by 2
+
+squared
+
+Equals the hypotenuse squared the hypotenuse happens to be the radius of the sphere itself which is capital R
+
+Perfect now let's solve for the radius of the cylinder. Which is what we want
+
+We'll just subtract h over 2 squared from both sides that'll give us the radius of the cylinder
+
+squared
+
+equaling the radius of the sphere squared minus
+
+Half the height of the cylinder squared
+
+We can take the square root of both sides so that we wind up with the radius of the cylinder
+
+equaling the square root of the radius of the sphere
+
+minus 1/2 the height of the cylinder squared
+
+Perfect ok now let's take a look at the area of a cross-section of the sphere now for this
+
+let's draw a straight line from the center out to the edge of
+
+the sphere's
+
+Cross-section, and we'll go straight down and connect back up, hey look! Another right triangle
+
+let's call this height y
+
+And notice that this distance now the side of the triangle down here is actually the radius
+
+ 
+
+of the circle
+
+Cross-section up here. They're both equal so we even want to solve for this the radius of the circle that is the spheres cross-section
+
+Okay
+
+so we know that the radius of
+
+The sphere's Cross-Section squared plus this distance squared (which is y)
+
+Equals the hypotenuse squared well, what do you know the hypotenuse is the radius of the sphere again (capital R)
+
+Ok let's subtract y squared from both sides the radius of the spheres cross-section squared
+
+equals the radius of the sphere squared minus
+
+Y squared will take the square root of both sides and end up
+
+learning that the radius of the sphere's cross-section equals the square root of
+
+The radius of the sphere squared minus y squared. Y is the height that this
+
+Cross-section is taken from above the equator the higher up we take these cross sections of the sphere the smaller their radii will be
+
+Whereas the cylinders radius is always the same no matter where we cut from
+
+Anyway, let's take these two Radii and plug them into our formula
+
+Okay, the area of the cross section of the sphere is what we want first
+
+Okay, that's just the square root of R squared minus y squared
+
+Not too bad now the radius of the cylinder is the square root of R squared minus
+
+Half the height of the cylinder squared now what you might notice is that we're taking the square root of something and then squaring it
+
+These actually cancel each other out
+
+perfect! Much more simple looking
+
+But now let's distribute Pi to the terms inside the parentheses so pi times R squared gives us Pi R
+
+Squared Pi times negative y squared gives us negative pi y squared
+
+Then a negative Pi times R
+
+squared is negative pi R squared negative Pi times negative h over 2 squared is positive Pi
+
+h over 2
+
+Squared. Great, now we can keep simplifying but what you might notice is that we have a pi r squared and a
+
+minus Pi R squared, well, that equals 0 so these
+
+Completely cancel each other out, but what we're left with are
+
+Terms containing no mention of the spheres Radius whether the radius is large or small
+
+Doesn't matter all you need to know to find the area of the cross section of a napkin ring
+
+is the height of the Napkin Ring
+
+Y, of course, is bounded by the height of a napkin ring these blue areas have the same area as each other and this will
+
+Be true no matter where we cut the cross section across the napkin ring meaning by Cavalieri's principle that both Napkin Rings have the same
+
+Volume
+
+Yay :3
+
+(with teeth)
+
+But what is this mean for you for life in the universe?
+
+Well as we know if you like it you should put a ring on it
+
+but if you like It,
+
+don't know it's finger width and only want to offer it a predetermined amount of material
+
+you should put a napkin ring on it.
+
+And as always
+
+Thanks for watching :D
+
+On August 21st
+
+2017 there will be a total solar eclipse the shadow of the Moon will race across the Contiguous United States
+
+It's going to be incredible and a little bit scary
+
+I'm sure I will be viewing it from Oregon with my friends at Atlas, Obscura. I can't wait, but keep your eyes
+
+Safe if you want to view the eclipse you have to have special eye protection
+
+the curiosity Box comes with such glasses these block
+
+99.999% of visible light that's what it takes to be able to look right at the sun as actually what I love about these glasses
+
+There's no eclipse going on. You can still just look at the sun
+
+Notice that it's a ball. Maybe imagine what kind of Napkin ring
+
+You'd like to make it into. The current
+
+Curiosity box is my favorite. The one that you'll get if you subscribe right now comes with all kinds of cool stuff that comes with
+
+A poster showing that all the planets and pluto can fit between the earth and the moon it also comes with science gadgets like these
+
+levitating magnetic rings
+
+pretty cool also a portion of all proceeds go to alzheimer's research, so it's good for your brain and
+
+Everyone else's brain check it out. I hope to see you at Brain Candy live and as always
+
+Thanks for watching
+

@@ -1,0 +1,344 @@
+Happy New Year, Vsauce! Michael here.
+And in honor of 2013
+
+let's discuss 13 things.
+
+To begin, where to spend all that cash
+you picked up over the holidays?
+
+Now, plenty of website sell cool stuff.
+United Nuclear sells
+
+Aerogel, radioactive isotopes, jet engine schematic
+
+and even marbles doped with uranium.
+Maths Gear sells these cool non transitive
+
+dice I actually bought
+
+yesterday, as does Grand Illusions.
+But they also carry for explosive magic
+
+tricks,
+
+optical illusion masks and a poster of
+
+this image.
+What makes that
+
+image so special?
+Well, it's an example
+
+of the land effect.
+Even though it appears to contain
+
+a bunch of different colors -
+oranges and yellows and greens,
+
+the entire image is actually made out of nothing
+
+but red. Seriously. I've linked the image
+down in the descriptions, so you can grab
+
+it and investigated using
+
+your favorite image editor.
+The yellows are actually
+
+light reds or pinks.
+And the green is just dull grey
+
+red.
+What's going on is called
+
+color constancy.
+Your visual system, your eyes and brain
+
+calculate the average illumination
+conditions of a scene
+
+and then subtract those conditions,
+so that colors remain relatively constant.
+
+This is why a blue object looks blue,
+whether you're viewing it
+
+under the midday Sun or a dark red
+sunset or fluorescent light or
+
+incandescent light.
+
+It's a very brilliant system, but it can fool
+
+us. Special images, like this one, appear
+to be illuminated with a lot of red
+
+light,
+
+so your brain actually subtracts the red
+and makes assumptions.
+
+There are plenty of other examples of
+the land effect and other ways our visual
+
+system lies to us.
+
+But you know what else is a lie?
+
+Raindrops.
+Well, at least
+
+that depiction of raindrops.
+Raindrops are not shaped like
+
+teardrops.
+Surface tension means that  small drops are spherical,
+
+but when they combine the air and get
+bigger, the pressure of the air below
+
+them as they fall causes the bottom to
+
+flatten, which means that raindrops are
+shaped less like
+
+teardrops and more like hamburger buns.
+
+But how many raindrops have fallen
+
+on land ever?
+It's a fun question
+
+and there are plenty of resources
+discussing how many raindrops fall
+
+during a typical storm,
+
+but throughout all of history?
+Let's go to mathforum.org for this one.
+
+Doctor Ian calculated,
+
+quite roughly but amusingly, that given
+the percentage of earth
+
+usually covered in land and the amount of rain that
+
+typically falls on earth and the volume of a raindrop,
+
+the total number of raindrops that have fallen on land,
+
+ever since earth began, is about 16 times
+
+10 to the 28.
+So, earth
+
+has had a lot of raindrops.
+
+But you know what earth doesn't have a
+lot of? Nice big, old chunks of Moon rock.
+
+Material from the Moon is incredibly rare.
+
+We can only get pieces of the Moon in two ways.
+By
+
+visiting it or by finding chunks of the
+Moon that were blown off
+
+a long time ago and eventually fell to Earth.
+
+Interestingly, you can buy paintings
+
+containing traces of Moon dust made
+
+by an astronaut.
+I discussed this with my friends over at emotistyle,
+
+video link in the description.
+But the point is, you will not be owning
+
+a big old Moon rock anytime soon.
+Interestingly,
+
+a surprising number of the rocks we
+brought back from the Moon
+
+have been stolen or just plain
+
+lost.
+For instance, in 2002
+
+interns Thad Roberts and Tiffany Fowler stole
+
+101 grams of lunar material
+
+from the Johnson Space Center.
+They celebrated by throwing the rocks onto a
+
+bed,
+
+and I guess the best way to explain what
+happened next would just be to point out
+
+that the book based on this true story
+
+is called "Sex on the Moon."
+Or, from a different angle,
+
+fun.
+This was built using the Side View maker.
+
+Type in a word or name and it will
+construct the word using
+
+dots, which from another angle say
+something else. For instance, Vsauce
+
+can be vacuum.
+If you prefer dots that represent people,
+
+Brandon Martin-Anderson's got just what
+you need. The entire 2010 US Census
+
+on a map with a dot for every single
+
+person.
+The data is specific down to the size of an individual
+
+block.
+It's really fun to play around with, as is
+
+the searchable Calvin and Hobbes.
+I shared this on @tweetsauce a few weeks ago.
+
+Type in a word and you can find every
+single Calvin and Hobbes comic strip
+
+that used that word. Words or phrases
+that help you remember something are
+
+called
+
+mnemonics.
+For instance, if you wanna remember the exact
+
+speed of light in meters per second in a
+vacuum, just count the number of letters
+
+and each word of this sentence.
+"We
+
+guarantee certainty, clearly referring to
+this light mnemonic."
+
+Or if you're like me, your biggest
+struggle is spelling the word
+
+diarrhoea.
+Well, don't worry. Just remember
+
+diarrhoea is a really runny heap
+
+of endless amounts.
+We've all seen illusions like this before.
+
+Four circles with corners cut out of them.
+We perceive
+
+an actual square resting on top of
+circles, even though no square
+
+is there.
+Now interestingly, if you take this shape
+
+and put it on top of text, the letters within the
+
+fake square appear bigger than the rest of the letters.
+
+This is because our brain assumes the letters are closer to us
+
+than the rest of the text. After all,
+the letters are on top of a square
+
+that's on top of circles on top of text.
+
+Speaking of size, let's take a look at the scale
+
+of our solar system.
+OMGspace.net
+
+is a website containing images of the
+Sun and the planets
+
+to scale.
+Not just in size, but also
+
+distance. If you scroll long enough,
+you will eventually get to Mercury
+
+and then Venus and then Earth and so on.
+Or, just click a planet's name
+
+and have the site take you there right away.
+If that sort of thing makes you
+
+feel
+
+small and insignificant, rush on over and grab yourself
+
+emergency compliment dot com.
+
+The site will keep complimenting you
+until you feel better,
+
+but if practicing patience is more your thing, check out
+
+chickenonaraft.com.
+Geo sketch is a really fun way to draw.
+
+You have this strange folding mechanism that
+
+draws.
+You can individually control the rate of rotation for each
+
+joint to see how it affects the image.
+But if you'd rather combine rotation
+
+with our solar system,
+
+check out gravity.
+Click and drag to place
+
+objects of varying size in the space and watch how
+
+they interact.
+So there you go
+
+that was about 13 things.
+
+I guess. I don't really know.
+But there's more.
+
+I created a playlist of videos that you should totally see.
+
+I host the playlist and you can start it by
+clicking the link at the top of this
+
+video's description
+
+or this annotation.
+I call it a lean back,
+
+because you start the playlist and
+just lean back and let YouTube
+
+do the work.
+So, what are you waiting for? Go ahead and click
+
+and I will see you over there.
+
+And as always,
+
+thanks for watching.
+

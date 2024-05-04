@@ -1,0 +1,405 @@
+Hey, Vsauce. Michael here.
+
+Mimas is one of Saturn's cutest moons.
+
+Its entire surface area is about the
+same as
+
+Spain but its giant crater makes it look like the
+
+Death Star. And when NASA made a temperature map
+
+of Mimas, they found that the warmest
+regions, shown here in yellow,
+
+resemble Pac-Man eating the crater
+
+like a dot. I learned about Mimas whilst
+
+surfing the world wide web like a true internaut.
+
+But the Web and the
+
+Internet are different things. The World
+Wide Web
+
+and the Internet have names that are
+similar shapes but they
+
+catch different things. And, as we will see,
+
+surfing the world wide web is radical
+
+but it's also apropos. Metaphorically speaking
+
+the web is pretty wet.
+
+Before the web existed, and before the Internet existed,
+
+there were computers but they were big
+
+and lonely. They couldn't really talk to one another.
+
+I mean, sure, you could connect similar
+pieces of hardware that spoke similar
+
+protocols but that was just
+
+a network. To connect disparate global machines
+
+you would need a network of networks.
+
+And in the 1960s a bunch of
+brilliant minds collaborated on just
+
+such a thing. Now, at the time, the phone
+companies weren't very interested
+
+and because no single institution could
+foot the entire responsibility
+
+and computing power needed for dedicated lines... Well,
+
+more innovative and efficient methods were used.
+
+A system spanning many nations is international.
+
+So, a system spanning many networks
+
+is an Internetwork. It wouldn't be until 1974,
+
+in this very document, that the word Internetwork
+
+would be officially shortened to what we
+use today - Internet.
+
+On October 29th, 1969,
+
+exactly 100 days after we first
+
+landed on a distant rock across space,
+
+we first landed a letter on a
+
+distant screen across the Internet.
+Leonard Kleinrock and a team at UCLA
+
+decided to send the word
+
+'login' to a different model of computer at Stanford.
+
+They sent the 'L' and it arrived. They sent the 'O'
+
+and it arrived. And then the system crashed.
+
+But still, the first message sent over an Internet
+
+was a big deal. On a list of
+technological achievements it would rank
+
+quite high, even though it was literally
+
+lo... Fast-forward
+
+two decades. CERN is working on a lot of
+different projects with different people
+
+and technologies
+
+to figure out who or what is doing what...
+
+You can just look it up on the Internet.
+But the way information was organized on the internet
+
+was illogical. Based on hierarchies, 
+
+linearly, it was lame. And this annoyed a guy
+
+named Tim Berners-Lee. You see,  you could follow a
+tree for a really long time
+
+only to reach a person or technology
+involved in some other project
+
+and for information on that you have to
+go back to the beginning and start all
+
+over again.
+
+So, in March of 1989, Tim Berners-Lee
+
+wrote a powerful paper simply titled
+"Information management:
+
+A Proposal." He argued that notes with links,
+
+like references, between them is far more
+useful than a
+
+fixed hierarchical system. Instead of trees,
+
+Berners-Lee was proposing a web.
+
+Webbed systems that connect documents
+in nonlinear ways already existed.
+
+They were called hypertext.
+But Tim Berners-Lee
+
+officiated the marriage of hypertext
+webs and the Internet
+
+to produce a web that was worldwide.
+It was the vast connected logical and
+
+useful partnership needed to make the
+Internet the most quickly adopted
+
+form of communication in our species' history.
+
+The Internet connects participants,
+
+the web connects information.
+Specifically
+
+hypertext documents accessed via the Internet.
+
+You can see the computer Tim Berners-Lee
+created the world wide web with
+
+in the London Science Museum.
+Twenty-five years ago
+
+if you had unplugged this computer you
+would have literally shut down
+
+the entire web. The first website
+
+was info.cern.ch. Today it
+provides a simulator that allows you to
+
+view the web
+
+as it appeared as a baby. We've come
+
+a long way since this.
+If you really want your mind blown,
+
+check out Onesecond[.designly.com] on the web.
+You can see how many
+
+Facebook likes, Tweets and even e-mails
+are sent every second
+
+and how many have been sent since you
+first opened the page.
+
+Isaac Asimov once said that Earth should
+have been named
+
+ocean because the sea is its dominant
+
+feature. Our oceans are vast
+
+and dangerous and deep and mysterious.
+So, it's no mystery that when people needed
+
+a metaphor to describe the Internet
+
+and the seemingly endless and often uncharted
+
+web of hypertext it delivered, they ran for the sea.
+
+We surf the web, navigating
+
+streams of data. There are pirates and
+floods and phishing.
+
+Even blogs and vlogs have their
+linguistic origins
+
+in logs - records originally kept by
+captains at sea.
+
+Like liquid water, the web is a phenomenal solvent.
+
+It makes material widely accessible and available.
+
+It has been estimated that every web
+page is an average
+
+of only 19 clicks away from every
+
+other web page. Like our oceans,
+
+the web is really just one global
+
+sea. And like our oceans, the web
+
+is an ecosystem we need to be careful to protect.
+
+It is flexible and flowing, and as we are finding out,
+
+the web, like liquid water, is something
+you can see yourself in.
+
+In the 1990s, Douglas Rushkoff coined the term
+
+screenagers to describe a generation
+that for the first time ever was growing
+
+up to think that images
+
+on screens weren't just something to passively stare at,
+
+but, instead, were something to be manipulated.
+
+Well, today it's even more extreme.
+
+The tools and connectivity, provided by
+the Web, allow us to think
+
+of images on screens not just as things to manipulate
+
+but as things to project our own identities onto.
+
+Not everyone who does this is a
+professional storyteller
+
+or acclaimed poet or coherent.
+
+But, content aside, hyperlinked webs of
+human expression are incredibly rich enviroments
+
+and they exercise the brain, more so than books?
+
+Well, for the sake of argument,
+
+let's read from "Everything Bad is Good for You,"
+
+a book by Steven Johnson. Now, in this passage
+
+he imagines a world in which books were invented
+
+after video games and the World Wide Web.
+
+Kids everywhere are starting to read
+these new fangled
+
+books and teachers and parents are
+concerned. He imagines
+
+they might say something like this:
+
+"Perhaps the most dangerous property of these books
+
+is the fact that they follow a fixed linear path.
+
+You can't control their narratives in
+any fashion. You simply sit back
+
+and have the story dictated to you.
+
+For those of us raised on interactive
+narratives, this property may seem
+
+astonishing. Why would anyone want to
+embark on an adventure
+
+utterly choreographed by another
+person?
+
+But today's generation embarks on such
+adventures
+
+millions of times a day. Reading is not an
+
+active participatory process, it's a submissive one.
+
+The book readers of the younger
+generation are learning
+
+to follow the plot instead of learning to lead."
+
+Interesting. But you might be thinking, come on,
+
+Michael, you can't set content aside that easily.
+
+What about all the dumb and superficial
+stuff the web propagates?
+
+I mean, surely a lot of it is just completely
+useless. We're humans, after all, we should
+
+be valuing reason. Maybe.
+
+But is that really what makes us special?
+As Unamuno said,
+
+"more often I have seen a cat reason
+
+than laugh or weep. Perhaps it weeps or laughs
+
+inwardly. But then perhaps, also inwardly,
+a crab resolves equations
+
+of the second degree." What if cheap
+laughs and sappy poems and gossip and
+
+whining and drama and selfies really are
+
+the most human thing the web has allowed us to do?
+
+That's deep. But not as deep as the Deep Web,
+
+the hidden web. The part of the web invisible
+
+to search engines. Now, most of this stuff
+is innocuous content hidden behind pay
+
+walls or password protection
+
+or dynamically created web pages. But we haven't
+
+even indexed this stuff.
+And it's not 1% of the web,
+
+it's not 10%. It's 80%
+
+of the entire World Wide Web.
+
+The web is a deep ocean
+
+and we are frantically making waves in it.
+For instance, take a look at real time
+
+emoji usage on Twitter and say a few
+words of encouragement to be
+
+least popular emoji.
+We are also exploring the web
+
+frantically. It's an entirely new
+frontier. Every single day
+
+Google receives 500 million search queries
+
+it has never been asked before.
+
+Where will all of this exploration lead?
+
+Who knows? But to go back to our metaphor,
+the very same suits we built to explore
+
+the depths of the ocean
+
+inspired and enabled the suits we would later use
+
+to go beyond Earth. So, keep exploring,
+
+keep surfing.
+
+And as always,
+
+thanks for watching.
+

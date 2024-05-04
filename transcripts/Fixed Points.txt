@@ -1,0 +1,636 @@
+hey Vsauce Michael here there is an art
+
+museum on the moon
+
+supposedly we can't be sure until we go
+
+back and check but as the story goes in
+
+1969 Fred wall Tower from Bell
+
+Laboratories and sculptor Forrest Myers
+
+convinced an engineer working on the
+
+Apollo 12 lunar lander to hide a
+
+itsy-bitsy roughly 2 by 1 centimeter
+
+ceramic tile within the gold blankets
+
+wrapped around parts of the spacecraft
+
+that would be left on the moon and
+
+etched onto that ship or artworks by
+
+famous artists according to everyone
+
+involved the plan worked and when the
+
+Apollo 12 team left the moon the wafer
+
+was still there now two days later Myers
+
+told the New York Times what they had
+
+done and this image of the wafer was
+
+published it contains a rauschenberg
+
+straight line a Oldenburg drawing of
+
+Mickey Mouse pretty cool and the story
+
+is likely to be true if confirmed that
+
+would make this wafer the first and
+
+currently only art museum on the moon
+
+but the thumb is covering something in
+
+fact it's covering Andy Warhol's
+
+submission
+
+why well according to Warhol all he did
+
+was innocently etch his initials on the
+
+chip he stylized them like this
+
+he drew a somewhat funny W for Warhol
+
+and then put a line right across here to
+
+make this bit look like an a that's it
+
+it's just his initials here's an
+
+unobscured view of a replica that's on
+
+the moon right now I however am on earth
+
+right now in North America and this is a
+
+map of North America which is cool
+
+because if you are in the place you have
+
+a map of well mathematically there will
+
+always be some point on your map that is
+
+directly above the place in the real
+
+world it represents always it doesn't
+
+matter how you hold the map it can be
+
+rotated flipped even twisted folded or
+
+crumbled it is guaranteed by brower's
+
+fixed point theorem a fixed point is
+
+anything that goes nowhere
+
+after a transformation Brouwer's theorem
+
+tells us that it is impossible to
+
+completely mix up a set of points if
+
+they are bounded without holes and
+
+transformed continuously with no cutting
+
+or gluing without bounds every point can
+
+be mapped somewhere new around holes
+
+every point can be mapped somewhere new
+
+and if you cut or glue every point can
+
+be mapped somewhere new but otherwise
+
+mixing will always fail somewhere a
+
+transformation is continuous if as the
+
+distance between any two points reaches
+
+zero in the before state it also
+
+approaches zero in the after State
+
+each square of this checkerboard is
+
+filled with point like pixels of a
+
+unique color as we transform it
+
+let's have pixels still within the
+
+square they began in glow okay as you
+
+can see no matter how you resize or
+
+manipulate the checkerboard it will
+
+always glow somewhere you cannot get
+
+every pixel to be simultaneously outside
+
+of its original square unless you cut or
+
+move the whole shape outside of the
+
+space that used to fill here's a
+
+question do you think you can completely
+
+mix up coffee in a mug by stirring well
+
+of course you can not stirring coffee is
+
+a continuous transformation of the
+
+coffee and everything stays within the
+
+same space so brower's fixed-point
+
+theorem applies no matter how well you
+
+try to stir there will always be after
+
+the liquid has settled at least one
+
+point that you stirred right back to
+
+where it was before a fixed point to be
+
+sure coffee isn't made out of points
+
+it's made out of molecules but they're
+
+quite tiny and very numerous so within a
+
+degree of error it'll pretty much hold
+
+fixed points
+
+don't just frustrate your ability to
+
+fully mix things they can also suck you
+
+toward them they can be attractive like
+
+the number nine try this think of a
+
+number with more than one digit and then
+
+add up its digits now subtract that sum
+
+from the original number to get a new
+
+number if you do this over and over and
+
+over again until you're left with a
+
+single-digit number you will always end
+
+up with nine
+
+every time also notice that any number
+
+with two or more digits minus the sum of
+
+its digits becomes divisible by nine
+
+right away what's going on here well
+
+there's nothing mystical about nine misc
+
+in general instead it's just a
+
+consequence of how we write numbers
+
+numbers can be written in all sorts of
+
+ways but the most common base ten
+
+positional notation makes the nine trick
+
+work
+
+in this system a number like twenty five
+
+doesn't mean two and five
+
+it means ten twos and one five that's
+
+twenty-five so subtracting out just the
+
+positional digits of a number removes
+
+one member from each group the digit you
+
+have one of completely disappears the
+
+digit you have ten of goes down to nine
+
+copies the digit you have 100 of goes
+
+down to 99 copies and so on so the whole
+
+thing becomes a multiple of nine
+
+attractive fixed points also play a
+
+starring role in a famous method for
+
+calculating square roots it's called the
+
+babylonian method the number you want to
+
+find the square root of is called the
+
+radicand and it's square root is some
+
+number that is equal to the radicand
+
+divided by itself okay now step one of
+
+this method is guess if your guess is
+
+lower than the actual answer the
+
+radicand divided by your guests will be
+
+larger than the answer and vice-versa
+
+the true answer will always be somewhere
+
+in between those two values so after you
+
+guess take both values and find their
+
+average it'll be a point in between and
+
+now use this value as your guests and
+
+keep going
+
+you will converge towards the true
+
+square root at a pretty nice speed the
+
+number of correct digits in your
+
+approximation will roughly double after
+
+every iteration
+
+that's pretty cool but let's talk about
+
+infinity specifically Aleph numbers they
+
+describe sizes of well ordered
+
+infinities the smallest is aleph-null
+
+equal to the quantity of integers that
+
+there are but there are literally larger
+
+infinities than that in order of
+
+increasing size they are Aleph 1 a love
+
+- Aleph 3 and so on each one is infinite
+
+but refers to a greater number of things
+
+than the infinity before if you tried to
+
+pair up aleph-null things with Aleph 1
+
+things you'd literally run out of
+
+aleph-null things first even though it's
+
+endless you can hear more about Aleph
+
+numbers in this video of mine but here's
+
+the thing there happens to be an Aleph
+
+fixed point notice that the subscript of
+
+each Aleph is equal to the number of
+
+infinities less than it there are none
+
+less than Aleph null one less than Aleph
+
+1 2 less than a love 2 and so on each
+
+next Aleph number is monstrously bigger
+
+than the last but only adds one to the
+
+growing list of Olives clearly these
+
+rates are so different they'll never
+
+meet up but they do take a look at this
+
+number Aleph Aleph Aleph alfalfa a load
+
+rule and so on an endless cascade of
+
+Olives
+
+how many infinities are smaller than
+
+this number well look at its subscript
+
+it's well it's an endless cascade of a
+
+lafe's just like the number itself this
+
+is an Aleph fixed point and infinity so
+
+large it is equal to the number of
+
+infinities smaller than itself
+
+that's cool but probably my favorite
+
+fixed point related thing is the force
+
+of Coulomb theorem
+
+it states that at any given moment there
+
+must be at least one pair of points on
+
+Earth's surface that are diametrically
+
+opposite one another but nonetheless
+
+have the same temperature and
+
+atmospheric pressure diametrically
+
+opposite points on a sphere are called
+
+Antipodes and as I've discussed before
+
+if you place a piece of bread on the
+
+ground somewhere on earth and another
+
+one on that points antipode well you've
+
+made yourself an earth sandwich there
+
+are sites that help you locate such
+
+opposite points on land but at this
+
+moment in history you'll notice that
+
+most points on land are antipodal to
+
+water which makes sense the Earth's
+
+surface is mainly covered with water but
+
+even though we know that we don't always
+
+appreciate just how gigantic the Pacific
+
+Ocean is maybe because maps tend to cut
+
+right along at dividing its power but
+
+take a look at this this is the Atlantic
+
+Ocean all right this is the Pacific
+
+Ocean it's really more of a water
+
+hemisphere the Pacific Ocean is so large
+
+in fact it contains its own Antipodes
+
+meaning there are places in the Pacific
+
+Ocean where you could float and know
+
+that even if you dug a hole straight
+
+down through the center of the earth and
+
+emerged on the other side you would
+
+still be in the Pacific Ocean ok anyway
+
+back to borsa Coulomb to see how it
+
+works let's imagine two thermometers on
+
+opposite sides of the earth a and B the
+
+temperatures they record will probably
+
+be different but if we swap their
+
+locations always keeping them at all
+
+times on opposite sides of the planet
+
+their temperature readings will just
+
+flip in order to swap well the readings
+
+are going to have to cross at least once
+
+no matter how we swap these always and
+
+typical thermometers a crisscross will
+
+have to
+
+happen at least one somewhere moreover
+
+these fixed points aren't just peppered
+
+around the globe willy-nilly
+
+a continuous unbroken band of them must
+
+separate A's region from bees why well
+
+because if there wasn't such a wall that
+
+would mean there'd be a way to swap them
+
+without their readings having to ever
+
+meet which we know can't happen okay
+
+next let's pick a pair of antipodal
+
+points on this band and measure
+
+atmospheric pressure at both if they're
+
+the same hey that's pretty good
+
+our job is done but if they're not we
+
+can just swap the barometers along the
+
+band like with temperature the pressures
+
+they measure swap so somewhere they will
+
+have to have the same value even though
+
+weather is chaotic and always changing
+
+and even though the other side of the
+
+world is very very far away there must
+
+always be at least two places on
+
+opposite ends of the earth where the
+
+temperature and the pressure are the
+
+same this is true by the way for any two
+
+variables that vary continuously across
+
+Earth's surface for is often called a
+
+cosmic number why well because try this
+
+name any number in English really any at
+
+all positive negative rational complex
+
+uninteresting surreal infinite doesn't
+
+matter now count the number of letters
+
+in its name this gives you a new number
+
+count the number of letters in its name
+
+and keep going eventually every time
+
+every single time you will wind up at
+
+four where you will be stuck looping
+
+forever side note if doing something
+
+over and over again doesn't produce a
+
+different result than just doing it once
+
+the procedure is called ident
+
+meaning same power taking the absolute
+
+value of a number is an ID impotent Act
+
+doing it once or doing it a million
+
+times gives the same result
+
+pushing an elevator call button is
+
+identity' new on spill come to you
+
+pushing it again and again and again and
+
+again
+
+doesn't make it arrive faster or
+
+differently anyway we get stuck at four
+
+because it's the only number in the
+
+English language spelled with the same
+
+number of letters as the quantity it
+
+represents about four years ago
+
+reddit user protocol seven showed that
+
+there are no other endless loops except
+
+for and that while negative 15 and
+
+negative 17 both contain their absolute
+
+value worth of letters which makes them
+
+special to be sure they obviously aren't
+
+spelled with a negative number of
+
+letters for is for JUnit there's no
+
+escape a path to it is forced Oh Fork
+
+it's even on my forearm well I look
+
+forward to seeing you again soon
+
+and as always thanks for watching
+
+[Music]
+
+I have some exciting news if you are a
+
+parent with young children or if you are
+
+a young child yourself I have a video
+
+over on sesame studios that you should
+
+check out sesame studios is from the
+
+creators of Sesame Street and it's a
+
+great new channel full of really awesome
+
+videos for young people so go check that
+
+channel out subscribe if your kids use a
+
+different account subscribe through that
+
+account or whatever you have to do to
+
+get stuff from sesame studios it's great
+
+Kevin and Jake already have videos over
+
+there go watch mine check that out and
+
+as always thanks for watching
+
+[Music]
+

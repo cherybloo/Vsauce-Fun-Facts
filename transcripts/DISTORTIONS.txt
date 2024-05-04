@@ -1,0 +1,390 @@
+Hey, Vsauce. Michael here. I am
+
+distorted. The pixels you are watching have been
+
+time displaced. They've been mapped onto a gradient
+
+and the darker the region they're mapped to,
+the further behind
+
+they lag. The effect is really fun but it's certainly
+
+not realistic. Or is it?
+
+Many, many popular digital cameras suffer
+from lag induced distortion,
+
+like what you just saw, though much,
+
+much more subtle. Usually completely
+
+unnoticeable. It's called a rolling shutter.
+
+Instead of snapping a full exposure at once
+
+they quickly scan strips of each frame. It's
+
+usually undetectable. But when the
+subject changes faster than the camera
+
+scans,
+
+you get the famous geloey wobbly rolling 
+shutter effect. Really fast
+
+things, like vibrating guitar strings and
+airplane propellers,
+
+are famous victims, but people can be too.
+Luke Mandel submitted this photo
+
+to Boing Boing[.net]. His camera scans left to
+right and, in this instance,
+
+managed to capture a blink, eyes closed
+
+when the scan began and then open in the
+reflection scanned a fraction
+
+of a second later.
+But the rolling shutter effect
+
+is not just a neat curiosity. It represents
+
+a fundamental and inescapable distortion that
+
+affects everything we see. Rolling shutter
+
+or not. First things first, let's talk about distortions.
+
+A hallucination is a distortion of reality
+
+when there is no apparent stimulus. If you are merely
+
+misinterpreting an actual stimulus, that is an illusion.
+
+But some distortions occur before our sense organs
+
+and minds get in the way. They are called
+
+optical phenomena. They are not the
+result of sensation or perception gone wrong.
+
+Instead, optical phenomena are distortions
+caused by the mere properties of light
+
+and matter
+
+in and of themselves. If you look up at the sky
+
+and see a giant vivid drinking gourd,
+
+you are hallucinating. But if you see a flat
+
+two-dimensional connect-the-dots
+Big Dipper, you are seeing
+
+an illusion. It's an illusion because those dots merely
+
+appear to be on the same plane, like
+holes poked in the dark roof of the sky.
+
+In reality, those dots are stars
+
+lightyears apart from one another in three dimensions.
+
+As Celestron's brilliant free real-time
+3D visualization of space
+
+shows, from different perspectives, besides our own,
+
+they look a lot less like a dipper or plough.
+
+In fact, all constellations and asterisms
+
+are geocentric illusions. From a wider perspective
+
+their outlines point inward,
+
+to the single lowly point in space
+
+that gave them their names. But you can't blame us.
+
+I mean, Earth is the only perspective any
+human has ever had.
+
+And even Voyager 1,
+the most distant man-made object,
+
+is still not even close to being far
+enough away for the constellations to look
+
+even remotely different than they do here on Earth.
+
+It's also not our fault, our eyes' and brains'
+
+fault, that distant, distant stars weren't included
+
+in our early cosmic connect-the-dot game.
+
+Sure, our eyesight could be better,
+
+but optical phenomena are also to blame.
+
+If it weren't for red shifting and the
+inverse square law and light extinction,
+
+distant things could be seen in all their glory.
+
+The night sky would look phenomenal. Many structures
+
+up there are huge. They're just
+
+too dim for their hugeness to be appreciated.
+
+When we see Hubble Telescope images of
+distant objects, like the Helix Nebula,
+
+it's easy to think that, without a telescope to zoom in,
+
+the object must just be a tiny point in the sky.
+
+But in reality, even though the Helix Nebula is
+
+700 light years away, it's
+
+3 lightyears across. If we could make the Helix Nebula
+
+less dim, if our eyes could take a
+
+really long exposure of it,
+we would see the Helix Nebula
+
+as it really is - nearly 70% the apparent diameter
+
+of our Moon. This is a serious picture.
+That is how large
+
+the Helix Nebula would appear in the
+night sky from Earth
+
+if it just wasn't so dim. Our Moon is
+
+tiny in the sky, by the way. It's easy to
+think of the moon as this huge
+
+baseball-sized thing up there in the sky,
+but that's an illusion.
+
+Try this the next time you see the
+Moon. Grab a sheet of notebook paper
+
+and you will notice that the angular
+diameter of the Moon
+
+is the same size as a hole punched in a
+sheet of notebook paper held
+
+in arms-length away. Seriously, try it
+sometime. It shows just how
+
+cute and tiny our little moon is.
+The Orion Nebula
+
+would appear even larger, if we saw all of its light.
+
+And the Andromeda Galaxy? Just
+
+a smudge in the sky to our eyes. But if our
+eyes were better at collecting
+
+dim light, we would see Andromeda's true extent
+
+in our sky. Of course, our
+
+night sky doesn't look like that. Distant objects
+
+are dimmer, that's a bummer. But light still
+wins when it comes to speed.
+
+Light travels at the fastest speed.
+In fact, in a vacuum, light travels
+
+300,000 kilometres a second.
+
+That's fast.
+
+But not really. I mean, not compared to how far apart
+
+things are in the universe. Sydney, Australia
+
+is 1/14th of a light second away from London.
+
+But the Andromeda Galaxy is
+
+2,500,000 light years away from London.
+
+To put that in perspective let's take a
+light speed journey from London
+
+to Sydney. It would look like this... Ready?
+
+Three, two, one, go!
+
+Nice! Alright, alright. Here's the Andromeda Galaxy.
+
+Okay, now, relativistic effects aside,
+let's take a look at what it would look
+
+like to travel toward the Andromeda Galaxy
+
+at the speed of light. Are you ready? Alright.
+
+Three, two, one, go!
+
+Yeah. I mean, seriously, it's
+
+pretty lame. Even at the speed of light,
+
+the fastest speed possible, a year from now
+
+we won't even be a millionth of the way there.
+
+That's how far away
+
+Andromeda is. It's almost sad
+
+in a way. But this brings us back to
+the rolling shutter effect.
+
+The Andromeda Galaxy is huge. It's more
+than a hundred thousand light years across
+
+and our view of it is tilted.
+
+Which means that, on the plane we view it in,
+light from the back
+
+represents what Andromeda looked like
+thousands and thousands of years before
+
+what light from the front represents.
+
+Changes in its appearance reach us 
+sooner from the front
+
+than from the back. Andromeda is rotating,
+spinning at hundreds of kilometers per
+
+second in some places.
+
+Now, a lag between light coming from near
+
+and far points on a spinning object, results
+
+in a skewed image. The rolling shutter
+effect on a cosmic scale
+
+applied to, say, a chessboard, seeing the front
+
+ahead of the back is pretty trippy and dramatic.
+
+So, does that mean we see
+
+wobbly, funhouse mirror, rolling
+shutter effect versions of Andromeda
+
+and other distant galaxies? Well, technically
+
+yeah, but the distortion is negligible. It may as well be
+
+ignored. Why? Well,
+
+the speeds used in these visualizations are not
+
+to scale. On average, yes, matter within galaxies
+
+orbits the galactic center at hundreds
+of kilometers per second
+
+but galaxies are so huge it takes them
+
+hundreds of millions of years to complete just one
+
+rotation. In other words, the lag between light
+
+reaching you from near and far points on a galaxy,
+
+is nothing compared to how much time it takes
+
+matter in the galaxy to travel that same distance.
+
+In the case of Andromeda, if you insisted
+
+on seeing Andromeda as it really is,
+
+that is, corrected for any lag caused by
+the fact that the speed of light is
+
+finite, the most extreme points on the Galaxy
+
+would only need to be adjusted by about a 10,000th of
+
+the width of any image. In this case, less than a pixel.
+
+So, it's not a big deal. But it's not a nothing deal.
+
+It's real. In fact, everything we look at is,
+
+in some way, distorted by the fact that the speed of light
+
+is finite. Your own feet are about
+
+5 to 6 light nano seconds away from your
+eyes, which means when you look at your feet
+
+you are seeing where they were 5 to 6
+
+nano seconds ago. 5 to 6 nanoseconds in the past.
+
+Of course, a delay that brief is pretty
+much undetectable
+
+but it is calculate-able. If it makes you feel
+
+a little sad to know that even with the sharpest mind
+
+or the best instruments, appearances still depend on
+
+where you are. That optical phenomena insure
+
+appearances are always relative(?) Don't feel bad.
+
+We call the people closest to us our relatives.
+
+We're really just a family, a big family
+
+of reference frames that,
+like a family, don't always agree
+
+but do have plenty of cool things to look at.
+
+I'd like to thank my editor, Guy, for help with the
+
+rolling shutter effect in this video.
+
+And I'd like to thank you, because, as always
+
+thanks for watching.
+
+Oh, here's something cool.
+
+I will be at YouTube Fan Fest with HP
+
+in India very very soon. Check the
+description for more info. If you can
+
+make it,
+
+I hope to see you there.
+

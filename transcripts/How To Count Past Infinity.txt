@@ -1,0 +1,1188 @@
+hey vsauce michael here what is the
+
+biggest
+
+number you can think of a google
+
+a google plex a
+
+millimillion olplex well
+
+in reality the biggest number is
+
+40. covering more than 12 000 square
+
+meters of earth
+
+this 40 made out of strategically
+
+planted
+
+trees in russia is larger than the
+
+battalion markers on signal hill
+
+in calgary the six found on the foven
+
+badges in
+
+england even the mile of pie
+
+brady unrolled on numberphile
+
+40 is the biggest number
+
+on earth in terms of surface area but in
+
+terms of amount of things
+
+which is normally what we mean by a
+
+number being big
+
+40 probably isn't the biggest
+
+for example there's 41.
+
+yeah well and then there's 42 and 43
+
+a billion a trillion you know no matter
+
+how big of a number you can think of
+
+you could always go higher so there is
+
+no
+
+biggest last number
+
+except infinity no
+
+infinity is not a number instead it's a
+
+kind of number
+
+you need infinite numbers to talk about
+
+and compare
+
+amounts that are unending but some
+
+unending amounts
+
+some infinities are literally bigger
+
+than others let's visit some of them
+
+and count past them first things first
+
+when a number refers to how many things
+
+there are
+
+it is called a cardinal number for
+
+example
+
+4 bananas 12 flags
+
+20 dots 20 is the
+
+cardinality of this set of dots
+
+now two sets have the same cardinality
+
+when they contain the same number of
+
+things we can demonstrate this equality
+
+by pairing
+
+each member of one set one to one with
+
+each member of the other
+
+same cardinality pretty simple we use
+
+the natural numbers that is 0 1 2 3 4 5
+
+and so on as cardinals whenever we talk
+
+about
+
+how many things there are but how many
+
+natural numbers are there it can't be
+
+some number in the naturals because
+
+there'd always be one plus that number
+
+after it
+
+instead there's a unique name for this
+
+amount
+
+aleph null aleph is the first letter
+
+of the hebrew alphabet and aleph null is
+
+the first
+
+smallest infinity it's how many natural
+
+numbers there are
+
+it's also how many even numbers there
+
+are how many odd numbers there are
+
+it's also how many rational numbers that
+
+is fractions
+
+there are that may sound surprising
+
+since
+
+fractions appear more numerous on the
+
+number line but as cantor showed
+
+there's a way to arrange every single
+
+possible rational
+
+such that the naturals can be put into a
+
+one-to-one correspondence with them
+
+they have the same cardinality
+
+point is aleph null is a big
+
+amount bigger than any finite amount
+
+a google a googleplex a googleplex
+
+factorial to the power of a googleplex
+
+to a googleplex
+
+squared times gram's number
+
+aleph null is bigger
+
+but we can count past it how
+
+well let's use our old friend the
+
+supertask
+
+if we draw a bunch of lines and make
+
+each next line
+
+a fraction of the size and a fraction of
+
+the distance from
+
+each last line well we can fit an
+
+unending number of lines
+
+into a finite space the number of lines
+
+here
+
+is equal to the number of natural
+
+numbers that there are
+
+the two can be matched one to one
+
+there's always a next
+
+natural but there's also always a next
+
+line
+
+both sets have the cardinality out of
+
+null
+
+but what happens when i do this
+
+now how many lines are there aleph null
+
+plus one no unending amounts
+
+aren't like finite amounts there are
+
+still only aleph null lines here because
+
+i can match the naturals one to one just
+
+like before
+
+i just start here and then continue from
+
+the beginning
+
+clearly the amount of lines hasn't
+
+changed
+
+i can even add two more lines three more
+
+four more i always end up with only
+
+aleph null things i can even add another
+
+infinite aleph null of lines
+
+and still not change the quantity every
+
+even number can pair with these and
+
+every odd number
+
+with these there is still a line for
+
+every natural
+
+another cool way to see that these lines
+
+don't add to the total
+
+is to show that you can make this same
+
+sequence without drawing
+
+new lines at all just take every other
+
+line and
+
+move them all together to the end it's
+
+the same thing
+
+but hold on a second this and this
+
+may have the same number of things in
+
+them but clearly there's
+
+something different about them right i
+
+mean if it's not how many things they're
+
+made of
+
+what is it well let's go back to having
+
+just one line
+
+after an aleph null sized collection
+
+what if instead of matching the naturals
+
+one to one we insist on numbering each
+
+line
+
+according to the order it was drawn in
+
+so we have to start here
+
+and number left to right now
+
+what number does this line get in the
+
+realm of the infinite
+
+labeling things in order is
+
+pretty different than counting them you
+
+see this line doesn't contribute to the
+
+total
+
+but in order to label it according to
+
+the order it appeared in
+
+well we need a set of labels of numbers
+
+that extends past the naturals
+
+we need ordinal numbers the first
+
+trans-finite ordinal is omega
+
+the lowercase greek letter omega this
+
+isn't a joke or a trick
+
+it's literally just the next label
+
+you'll need after using up the infinite
+
+collection of every single county number
+
+first
+
+if you got omegath place in a race
+
+that would mean that an infinite number
+
+of people finished the race
+
+and then you did after
+
+omega comes omega plus one which
+
+doesn't really look like a number but it
+
+is just like two or twelve or
+
+eight hundred then comes omega plus two
+
+omega plus three ordinal numbers
+
+label things in order ordinals aren't
+
+about how many things there are
+
+instead they tell us how those things
+
+are arranged
+
+their order type the order type of a set
+
+is just the first ordinal number not
+
+needed to label everything in the set
+
+in order so for finite numbers
+
+cardinality and order type are the same
+
+the order type of all the naturals is
+
+omega
+
+the order type of this sequence is omega
+
+plus one
+
+and now it's omega plus two no matter
+
+how
+
+long an arrangement becomes as long as
+
+it's well ordered
+
+as long as every part of it contains a
+
+beginning element
+
+the whole thing describes a new
+
+ordinal number always
+
+this will be very important later on
+
+it should be noted at this point that if
+
+you are ever playing a game of
+
+who can name the biggest number and you
+
+are considering
+
+saying omega plus one you should be
+
+careful
+
+your opponents might require the number
+
+you name to be a
+
+cardinal that refers to an amount these
+
+numbers
+
+refer to the same amount of stuff just
+
+arranged
+
+differently omega plus one isn't
+
+bigger than omega it just comes
+
+after omega but aleph null
+
+isn't the end why
+
+well because it can be shown that there
+
+are infinities
+
+bigger than aleph null that literally
+
+contain
+
+more things one of the best ways to do
+
+this is with cantor's
+
+diagonal argument in my episode on the
+
+bonnatarsky paradox
+
+i used it to show that the number of
+
+real numbers
+
+is larger than the number of natural
+
+numbers
+
+but for the purposes of this video let's
+
+focus on another thing
+
+bigger than alec nol the power set
+
+of aleph null the power set of a set
+
+is the set of all the different subsets
+
+you can make from
+
+for example from the set of one and two
+
+i can make a set of nothing or
+
+one or two four
+
+one and two the power set of one two
+
+three
+
+is the empty set one and
+
+two and three and one and two
+
+and one and three and two and three and
+
+one two three as you can see
+
+a power set contains many more members
+
+than the original set
+
+two to the power of however many members
+
+the original set had
+
+to be exact so what's the
+
+power set of all the naturals
+
+well let's see imagine a list of every
+
+natural number cool now the subset of
+
+all say
+
+even numbers would look like this yes
+
+no yes no yes no and so on the subset of
+
+all
+
+odd numbers would look like this
+
+here's the subset of just 3 7 and 12.
+
+and how about every number except 5
+
+or no number except five
+
+obviously this list of subsets is going
+
+to be
+
+well infinite but imagine matching them
+
+all
+
+one-to-one with a natural
+
+if even then there's a way to keep
+
+producing
+
+new subsets that are clearly not listed
+
+anywhere here we will know that we've
+
+got a
+
+set with more members than there are
+
+natural numbers
+
+a bigger infinity than aleph null
+
+the way to do this is to start up here
+
+in the first
+
+subset and just do the opposite of what
+
+we see
+
+0 is a member of this one so our
+
+new set will not contain zero next
+
+move diagonally down to one's membership
+
+in the second subset
+
+one is a member of it so it will not be
+
+in our new one
+
+two is not in the third subset so it
+
+will be in
+
+hours and so on
+
+[Music]
+
+as you can see we are describing a
+
+subset that will be
+
+by definition different in at least one
+
+way
+
+from every single other subset on this
+
+aleph null
+
+sized list even if we put this new
+
+subset back in
+
+diagonalization can still be done the
+
+power set
+
+of the naturals will always resist a
+
+one-to-one correspondence
+
+with the naturals it's an infinity
+
+bigger than aleph null repeated
+
+applications of power set
+
+will produce sets that can't be put into
+
+one-to-one correspondence with the last
+
+so it's a great way to quickly produce
+
+bigger and bigger infinities
+
+the point is there are more cardinals
+
+after
+
+aleph null let's try to reach them
+
+now remember that after omega ordinals
+
+split and these numbers are no longer
+
+cardinals
+
+they don't refer to a greater amount
+
+than the last cardinal we reached
+
+but maybe they can take us to one
+
+wait what are we doing
+
+aleph null omega
+
+come on we've been using these numbers
+
+like
+
+there's no problem but if at any point
+
+down here
+
+you can always add one always
+
+can we really talk about it this endless
+
+process as a totality and then follow it
+
+with something
+
+of course we can this is math
+
+not science the things we assume to be
+
+true in math
+
+are called axioms and an axiom we come
+
+up with
+
+isn't more likely to be true if it
+
+better explains or predicts
+
+what we observe instead it's true
+
+because we say it is its consequences
+
+just become what we observe we are not
+
+fitting our theories to some physical
+
+universe
+
+whose behavior and underlying laws would
+
+be the same
+
+whether we were here or not we are
+
+creating
+
+this universe ourselves
+
+if the axioms we declare to be true lead
+
+us to contradictions
+
+or paradoxes we can go back and tweak
+
+them
+
+or just abandon them all together or we
+
+can just refuse to allow ourselves to do
+
+the things that cause the paradoxes
+
+that's it what's fascinating though is
+
+that in making sure the axioms we accept
+
+don't lead to problems we've made math
+
+into something that is as the saying
+
+goes
+
+unreasonably effective in the natural
+
+sciences
+
+so to what extent we're inventing all of
+
+this
+
+or discovering it it's hard to say
+
+all we have to do to get omega
+
+is say let there be omega
+
+and it will be good that's what ernest
+
+zermelo did in 1908 when he included the
+
+axiom of infinity in his list of
+
+axioms for doing stuff in math the axiom
+
+of infinity is simply the declaration
+
+that one infinite set
+
+exists the set of all
+
+natural numbers if you refuse to accept
+
+it
+
+that's fine that makes you a finitist
+
+one who believes only
+
+finite things exist but if you accept it
+
+as most mathematicians do you can go
+
+pretty far past these
+
+and through these eventually we get to
+
+omega plus omega except
+
+we've reached another ceiling going
+
+all the way out to omega plus omega
+
+would be to create another
+
+infinite set and the axiom of infinity
+
+only guarantees that this one exists
+
+are we going to have to add a new axiom
+
+every time we describe aleph null more
+
+numbers no the axiom of replacement can
+
+help us here
+
+this assumption states that if you take
+
+a set like say the set of all natural
+
+numbers
+
+and replace each element with something
+
+else
+
+like say bananas what you're left with
+
+is also a set that sounds simple but
+
+it's incredibly useful
+
+try this take every ordinal up to omega
+
+and then instead of bananas put omega
+
+plus
+
+in front of each now we've reached omega
+
+plus omega
+
+or omega times two using replacement
+
+we can make jumps of any size we want so
+
+long as we only use numbers we've
+
+already
+
+achieved we can replace every ordinal up
+
+to omega
+
+with omega times it to reach omega times
+
+omega
+
+omega squared we're cooking now
+
+the axiom of replacement allows us to
+
+construct
+
+new ordinals without end eventually
+
+we get to omega to the omega to the
+
+omega to the omega to the omega
+
+and we run out of standard mathematical
+
+notation
+
+no problem this is just called epsilon
+
+not
+
+and we continue from here but now
+
+think about all of these ordinals
+
+all the different ways to arrange alec
+
+null things
+
+well these are well ordered so they have
+
+an order type some ordinal that comes
+
+after all of them in this case
+
+that ordinal is called omega 1.
+
+now because by definition omega 1 comes
+
+after
+
+every single order type of aleph null
+
+things
+
+it must describe an arrangement of
+
+literally
+
+more stuff than the last aleph i mean if
+
+it didn't
+
+it would be somewhere in here but it's
+
+not
+
+the cardinal number describing the
+
+amount of things
+
+used to make an arrangement with order
+
+type omega one
+
+is aleph one it's not known where the
+
+power set of the naturals
+
+falls on this line it can't be between
+
+these cardinals
+
+because well there aren't cardinals
+
+between them it could be equal to aleph
+
+one
+
+that belief is called the continuum
+
+hypothesis but it could also be larger
+
+we just don't know the continuum
+
+hypothesis by
+
+the way is probably the greatest
+
+unanswered question in this entire
+
+subject
+
+and today in this video
+
+i will not be solving it but i will be
+
+going higher and higher to bigger
+
+and bigger infinities now using the
+
+replacement axiom we can take any
+
+ordinal we've already reached
+
+like say omega and jump from
+
+aleph to aleph all the way out to al of
+
+omega
+
+or heck why not use a bigger ordinal
+
+like omega squared
+
+to construct alef omega squared alef
+
+omega omega omega omega omega omega
+
+our notation only allows me to add
+
+countably many
+
+omegas here but replacement doesn't care
+
+about whether or not i have a way to
+
+write the numbers it reaches
+
+wherever i land will be a place of even
+
+bigger numbers
+
+allowing me to make even bigger and more
+
+numerous jumps
+
+than before the whole thing is a wildly
+
+accelerating
+
+feedback loop of ambiguity we can keep
+
+going like this
+
+reaching bigger and bigger infinities
+
+from below
+
+replacement and repeated power sets
+
+which may or may not line up with the
+
+aleps
+
+can keep our climb going forever
+
+so clearly there's nothing beyond them
+
+right not so fast that's what we said
+
+about getting past the finite
+
+to omega why not accept as an axiom
+
+that there exists some next number so
+
+big
+
+no amount of replacement or power
+
+setting on anything smaller
+
+could ever get you there such a number
+
+is called
+
+an inaccessible cardinal because you
+
+can't
+
+reach it from below now interestingly
+
+within the numbers we've already reached
+
+a shadow
+
+of such a number can be found aleph null
+
+you can't reach this number from below
+
+either
+
+all numbers less than it are finite
+
+and a finite number of finite numbers
+
+can't be added multiplied exponentiated
+
+replaced with finite jumps a finite
+
+number of times or even
+
+power set a finite number of times to
+
+give you anything
+
+but another finite amount
+
+sure the power set of a millimillion to
+
+a googleplex to a googleplex to a
+
+googleplex
+
+is really big but it's still just finite
+
+not even close to aleph null
+
+the first smallest infinity
+
+for this reason aleph null is often
+
+considered an inaccessible number
+
+some authors don't do this though saying
+
+an inaccessible must also be uncountable
+
+which okay makes sense i mean we've
+
+already accessed
+
+alec null but remember the only way we
+
+could
+
+is by straight up declaring its
+
+existence axiomatically
+
+we will have to do the same for
+
+inaccessible cardinals
+
+it's really hard to get across just how
+
+unfathomable the size of an inaccessible
+
+cardinal is
+
+i'll just leave it at this the
+
+conceptual jump
+
+from nothing to the first infinity
+
+is like the jump from the first infinity
+
+to an inaccessible set theorists have
+
+described numbers
+
+bigger than inaccessibles each one
+
+requiring a new
+
+large cardinal axiom asserting its
+
+existence
+
+expanding the height of our universe of
+
+numbers
+
+will there ever come a point where we
+
+devise an axiom implying the existence
+
+of so many things
+
+that it implies contradictory things
+
+will we someday answer the continuum
+
+hypothesis
+
+maybe not but there are promising
+
+directions
+
+and until then the amazing fact remains
+
+that many of these infinities perhaps
+
+all of them are so big it's
+
+not exactly clear whether they even
+
+truly exist
+
+or could be shown to in the physical
+
+universe
+
+if they do if one day physics finds a
+
+use for them
+
+that's great but if not
+
+that's great too that would mean that we
+
+have
+
+with this brain a tiny thing
+
+a septillion times smaller than the tiny
+
+planet it lives on
+
+discovered something true outside of the
+
+physical realm
+
+something that applies to the real world
+
+but is also strong enough to go
+
+further past what even the universe
+
+itself can contain
+
+or show us or be
+
+and as always thanks for watching
+
+[Music]
+
+oh
+
+[Music]
+
+[Music]
+
+another interesting fact about
+
+transfinite ordinals
+
+is that arithmetic with them is a little
+
+bit different
+
+normally two plus one is the same as one
+
+plus
+
+two but omega plus one is not the same
+
+as one plus omega one plus omega
+
+is actually just omega think about them
+
+as order types
+
+one thing placed before omega just
+
+uses up all the naturals and leaves us
+
+with order type omega
+
+one thing placed after omega requires
+
+every natural number and then omega
+
+leaving us with omega plus one as the
+
+order type
+

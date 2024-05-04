@@ -1,0 +1,394 @@
+Hey, Vsauce.
+
+Michael here. And my tea is quite hot,
+but it's not the hottest thing in the
+
+universe.
+
+So what is?
+I mean, we know that there is an absolute zero,
+
+but is there an absolute hot?
+A point at which something is so hot
+
+it can't get any hotter.
+Well to find out, let's begin
+
+with the human body.
+Your internal temperature
+
+is not constant.
+37 degrees, 98.6.
+
+Sure. But those are averages.
+Your body's internal temperature fluctuates
+
+by about one degree Fahrenheit -
+
+half a degree Celsius - throughout the day in a cycle.
+
+Assuming you sleep at night, at 4:30 in the morning
+
+your body reaches its coolest natural
+healthy temperature.
+
+And at 7 p.m. it reaches its highest.
+
+But a dangerous fever is not good.
+
+108 degrees Fahrenheit is almost always
+
+lethal.
+The highest recorded air temperature across
+
+all of Earth has happened four times in Death
+
+Valley, where it has reached 129
+
+degrees Fahrenheit.
+180 degrees Fahrenheit is the recommended
+
+temperature for water
+
+when brewing coffee.
+And at 210 degrees Fahrenheit,
+
+a cake is done.
+
+2,000 degrees Fahrenheit is the
+temperature of lava
+
+fresh outta the ground.
+But come on. Make your own lava
+
+like Green Science Pro. This guy uses
+Fresnel lenses to focus the sun's
+
+energy onto whatever he wants.
+This is a small piece of obsidian,
+
+volcanic glass, which he can melt into actual lava
+
+right in his backyard.
+Keep in mind that the Sun is having that effect
+
+even though it is 93 million miles away from
+
+Earth.
+Right up on the surface of the Sun is a different story.
+
+The surface clocks in at 10,000 degrees Fahrenheit,
+
+but the centre, where fusion occurs, is ridiculous.
+
+Temperatures there reach 28
+
+million degrees Fahrenheit, which is also known
+
+as 15 million Kelvin.
+The Kelvin scale
+
+has units that are the same size as a Celsius degree,
+
+but it's an absolute scale, where 0 is
+
+absolute zero. When matter reaches
+temperatures as high as those found in
+
+the centre of the Sun,
+
+an enormous amount of energy is radiated
+
+away.
+If you were to heat only the head
+
+of a pin to the temperature of the centre of the Sun,
+
+it would kill any person within 1,000 miles of it.
+
+Speaking of which, the energy emitted by an object
+
+often tells us a lot about the temperature
+
+of that object.
+Any object over absolute zero
+
+emits some form of electromagnetic radiation.
+
+You and me, we don't glow visibly, but we do emit
+
+infrared light.
+We can't see it, but infrared cameras
+
+can.
+WBT has great videos
+
+and here he is, hiding inside an opaque black
+
+trash bag.
+Now, we can't see him, but his body is
+
+infra-redly glowing through it.
+If you want something to be the right
+
+temperature to glow in the
+
+visible spectrum, you'll have to reach the Draper point,
+
+about 798 Kalvin.
+At this point almost any object
+
+will begin to glow a dead red.
+
+We can calculate the expected wavelength of radiation
+
+coming off of an object because of its
+temperature and that wavelength
+
+gets smaller and smaller the hotter and
+hotter the object gets.
+
+It goes from radio waves to microwaves
+up through infrared divisible,
+
+all the way to x-rays and gamma-rays,
+which are created in the middle
+
+of our Sun.
+At temperatures as hot as the Sun,
+
+matter exists in a fourth state.
+Not solid, not liquid, not gas,
+
+but instead, a state where the electrons
+wander away from the nuclei
+
+plasma. If you've watched my temperature
+lean back you know that you could make
+
+plasma by microwaving fire
+
+But don't do it. Besides, our Sun isn't
+even close to being the hottest thing in
+
+the universe.
+
+I mean, sure, 15 million Kelvin is pretty incredible,
+
+but the peak temperature reached during
+a thermonuclear explosion
+
+is 350 million
+
+Kelvin, which hardly counts,
+because the temperature is achieved
+
+so briefly.
+But inside the core of a star,
+
+8 times larger than our Sun,
+
+on the last day of its life,
+as it collapses in on itself,
+
+you would reach a temperature of 3
+
+billion Kelvin.
+Or if you wanna be cool,
+
+3 GigaKelvin.
+But let's get hotter.
+
+At 1 TeraKelvin, things get weird.
+
+Remember that plasma we were talking
+about that the Sun is made of?
+
+Well, at 1 TeraKelvin, the electrons
+aren't the only thing that wander away.
+
+The hedrons themselves, the protons and
+neutrons in the nucleus
+
+melt into quirks and gluons,
+
+a sort of soup.
+But how hot
+
+is a TeraKelvin?
+Frighteningly hot.
+
+There's a star named WR
+
+104, about 8,000 light years away from us.
+
+Its mass is the equivalent of 25
+
+of our Suns, and when it dies,
+
+when it collapses, its internal
+temperature will be so great
+
+that the energy emitted,
+the gamma radiation it flings out into space
+
+will be stronger than the entire amount
+of energy our Sun
+
+will ever create in its entire lifetime.
+
+Gamma ray bursts are quite narrow,
+
+so Earth is most likely safe,
+but what if it wasn't?
+
+Well, when WR 104 collapses,
+
+even though Earth is 4,702 trillion miles away,
+
+the energy it releases
+
+would still be bad news.
+Exposure for 10 seconds
+
+would mean losing a quarter of Earth's ozone layer,
+
+resulting in mass extinction, food chain depletion
+
+and starvation
+
+from 8,000 light years away.
+Closer to home,
+
+right here on earth in Switzerland,
+scientists have been able to smash
+
+protons
+
+into nuclei, resulting in temperatures much
+
+larger than 1 TeraKelvin.
+They've been able to reach the
+
+2 to 13 ExaKelvin range.
+
+But we are okay, because those temperatures last
+
+for an incredibly brief moment and only
+involve a small number
+
+of particles. Remember how we could
+calculate the wavelength of the
+
+radiation emitted by an object based on its temperature?
+
+Well, if an object were to reach a temperature
+
+of 1.41 times 10 to the 32
+
+Kelvin, the radiation it would admit would
+have a wavelength of 1.616
+
+times 10 to the -26th nano meters,
+
+which is tiny.
+
+Like so tiny, it actually has a special name.
+
+It is the Planck distance,
+which according to quantum mechanics
+
+is the shortest distance possible in our universe.
+
+Okay, well what if we added
+
+even more energy?
+Wouldn't the wavelength get smaller? It's supposed to,
+
+but yet it can't.
+This is where we've got a problem.
+
+Above 1.41 times 10 to 32 Kelvin,
+
+the Planck temperature,
+our theories don't work.
+
+The object would become hotter than
+
+temperature.
+It would be so hot
+
+that what it is would not be considered a
+
+temperature. Theoretically, there is no
+limit to the amount of energy we could
+
+keep
+
+adding into the system.
+We just don't know what would happen
+
+if it got hotter than the Planck temperature.
+Classically,
+
+you could argue that that much energy in
+one place would instantly cause a black
+
+hole to form.
+
+And a black hole formed from energy
+has a special name -
+
+a Kugelblitz.
+So basically, what I'm trying to say
+
+is when you want to tell someone you
+like that you think they are
+
+hot, so hot that not even science can
+understand it,
+
+just call them a Kugelblitz.
+Finally,
+
+here is something fun.
+The Sun
+
+is about 4.7 billion years old,
+about halfway through its life cycle
+
+and so far it has burned 100
+
+Earths worth
+
+of fuel, which sounds like a lot, but the Sun
+
+is the size of 300,000 Earths.
+
+Because of that discrepancy, you can
+have a lot of mathematical fun comparing
+
+your energy output to the Sun's.
+The Sun is way hotter than us
+
+and it puts out way more energy than us.
+Bad Astronomy had a lot of fun with this one
+
+and although it doesn't really mean
+anything, it is technically true,
+
+because of the Sun's enormous size, that one
+
+cubic centimeter of human puts out more
+
+energy than an average cubic centimetre of
+
+the Sun.
+Which should make you feel
+
+quite warm inside.
+
+И, как всегда, спасибо за смотрящий.
+[I, kak vsegda , spasibo za smotryashchiy.]
+[And as always, thanks for watching.]
+

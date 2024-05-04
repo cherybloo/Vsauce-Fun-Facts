@@ -1,0 +1,136 @@
+hello again and welcome to up all night
+
+I'm a knight I'm a horse neigh
+
+last week on the show we covered a bunch
+
+of great ways to prank news today I'm
+
+gonna do the same thing all over again
+
+because I have no imagination it's
+
+opposite day
+
+we begin today with a PC trick we're
+
+gonna remap the Internet Explorer icon
+
+first I need to find myself a screen
+
+saver so I'm gonna go down to the Start
+
+menu and go to search all files and
+
+folders I'm gonna search asterisk dot
+
+SCR and your screen savers will show up
+
+a really quick and easy way to get the
+
+target destination for these screen
+
+savers is to right-click on them and
+
+send them to the desktop as a shortcut
+
+now that I've got a shortcut for the
+
+screen saver on my desktop I can right
+
+click on the icon choose properties and
+
+then copy the target destination once
+
+I've got that on my clipboard I'm going
+
+to go up to my internet explorer icon
+
+right-click properties and paste in the
+
+screen saver target destination now
+
+anytime someone comes to this computer
+
+to open up Internet Explorer they get
+
+the screen saver they can always move
+
+the mouse to cancel the screen saver but
+
+when they try to open Internet Explorer
+
+again boom screen saver screen saver
+
+over and over and over again if you want
+
+to be really silly you can change the
+
+target destination to this code which
+
+you'll find in the description when
+
+double clicked an icon with this
+
+destination will actually restart the
+
+entire computer Oh No
+
+my saddle is my clothes we're all fans
+
+of the slow minimized but did you know
+
+that you can use terminal to freeze the
+
+slow minimize while it's happening all
+
+you have to do is open up terminal
+
+applications utilities terminal type in
+
+kill all space doc do ck with a capital
+
+D but don't press ENTER now go to any
+
+type of window that you want to mess up
+
+and hold down shift then click minimize
+
+you'll get a weird wavy pattern go back
+
+to terminal quickly and press ENTER and
+
+boom the window is frozen in a weird
+
+shape but can still be used it's
+
+completely functional that's more cool
+
+than a bag of oats and of course to
+
+return it to its normal shape all you
+
+have
+
+minimize the window and bring it back up
+
+again
+
+copy the JavaScript in this video's
+
+description and paste it into your
+
+browser's address bar press Enter and
+
+all of a sudden every image on the
+
+screen will break free and spin around
+
+like crazy oh pretty
+
+you
+
+I'm gonna be glue someday
+
+you
+

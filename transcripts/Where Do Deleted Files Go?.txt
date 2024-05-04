@@ -1,0 +1,416 @@
+Hey, Vsauce. Michael here.
+But now
+
+I'm not. I'm gone like 90% of
+the original silent films
+
+ever made.
+Six of the seven wonders of the ancient world
+
+deleted, like that text you thought twice about sending
+
+or a Snapchat photo, right?
+
+When Stalin decided that Trotsky was
+an enemy of the state,
+
+he had Trotsky removed from photos he appeared in
+
+with Lenin.
+Plenty of software tools and professional services
+
+allow you to do the same.
+Don't just
+
+forget the actual attendees of a moment in time,
+
+delete them.
+But where do things go
+
+when they're deleted?
+
+The Google Ngram Viewer allows you
+to search words and phrases
+
+in 5.2 million books published between 1500
+
+and 2008.
+It's a great way to see how
+
+the words we use have changed overtime.
+
+1979 was a significant
+
+year. According to the Ngram Viewer,
+it was the first year we begin to use the
+
+word
+
+delete more often than the word
+
+erase.
+Biological deletion
+
+still wins though. Forget is by far more
+pervasive in our communication
+
+but how does a computer forget?
+
+Moving a file to the trash is just the beginning.
+
+To protect against accidental deletion,
+when thrown in the trash
+
+a file remains on your computer in a
+temporary directory, a sort of
+
+purgatory, where it awaits a more
+ultimate deletion but can be resurrected
+
+if you wish.
+When you empty the trash
+
+you are warned that you cannot undo the action.
+
+But when you empty the trash, the physical space
+
+inhabited by the file isn't actually emptied.
+
+It's marked as empty.
+Available
+
+if and when new data needs to be stored somewhere.
+
+The file's home has become available real estate
+
+but the file itself hasn't moved out.
+Only the pointers
+
+have gone away. Pointers are another type
+of data on your drive that point to
+
+places in memory
+
+where the actual file they are referencing
+can be found.
+
+They're a bit like the table of contents,
+which means that on most
+
+operating systems deleting a file and emptying the trash
+
+is like deleting a chapter from a book
+
+by turning to the table of contents and marking
+
+the chapter as empty.
+There's nothing here, do what you want with the pages.
+
+To a computer reading the table of
+contents it looks like the space is
+
+empty but of course that doesn't change
+the fact that the contents of the
+
+chapter
+
+are still there.
+Special data recovery tools
+
+look through memory marked empty available
+
+to see what's actually there.
+If you're lucky,
+
+they can even find a file and save it, bring it back
+
+mark it not available, undeleted.
+
+But if some of the file has already been overwritten,
+
+there can be problems.
+The file can be
+
+corrupted, melded together with other
+data like some kind of digital
+
+Frankenstein's monster.
+A couple years ago
+
+a laptop that belonged to photographer
+Melanie Willhide
+
+was stolen.
+It contained many of her recent digital photos.
+
+Luckily, police were able to return the
+laptop to her. They found it in a car they
+
+pulled over,
+
+but the thief had wiped the laptop's
+hard drive clean and had been using it
+
+for his own purposes.
+
+Data recovery experts were able to find
+
+some of her files, still there,
+on the now-empty space,
+
+but the files had been slightly overwritten
+
+by things the thief had done.
+They'd been corrupted but in a
+
+really cool way.
+So cool Willhide decided to exhibit the work.
+
+She titled the show after the thief who made it possible,
+
+"To Adrian Rodriguez, with love."
+
+If you want to delete the file so completely
+
+it can't even be recovered in a cool,
+weird way, like Willhide's photos,
+
+you will need to overwrite the unwanted file
+
+completely.
+Deny the file a proper burial
+
+and rearrange its corpse with new data.
+
+One overwrite should be fine but some
+people do as many as 35.
+
+Even 35 overwrites might not be enough.
+
+Sure, the overridden data is hidden, but what about bad
+
+sectors? These are parts of a drive that
+devices can't access
+
+because of failed transistors or physical damage.
+
+An overwrite won't be able to reach them,
+meaning any data that was ever put there
+
+stays there. So, if you are the United
+States Department of Defense and you
+
+don't want to take any risks,
+
+you will also shred, physically polarize
+
+unwanted drives.
+The US, Europe, Japan
+
+often send such electronics waste to dumps
+
+in Ghana, like this one.
+This city in Ghana is known as
+
+Earth's digital dumping ground.
+
+Why Ghana?
+Well, it is cheaper to send
+
+unsalvageable electronics to Africa,
+marked as a donation,
+
+than it is to properly recycle them.
+
+But there, in these electronic dumps,
+
+the files can still be brought back to life.
+
+Organized criminals operating in Ghana
+have managed to successfully recover
+
+data
+
+from unregulated e-dumps.
+They've been able to find confidential
+
+multi-million-dollar agreements, involving
+
+the Defense Intelligence Agency, Homeland Security
+
+and the TSA.
+Shredding
+
+paper to get rid of whatever used to be
+on the paper isn't even safe
+
+either. It's not easy and it doesn't
+always work. But by scanning
+
+shreds of paper computer software can
+match the pieces together.
+
+But in the past, shredded documents 
+have been unshred
+
+by hand. In 1979 Iranian students seized
+the US Embassy in Tehran.
+
+With the help of local carpet weavers and
+years of hard work,
+
+they managed to reassemble thousands of
+pages of confidential documents
+
+shred by the CIA.
+The smaller the shredded particles
+
+are and the more of them there are,
+the more difficult the task. So,
+
+the Department of Defense requires that
+the majority of shredded particles
+
+not exceed 5 square millimetres.
+
+If you really want to delete something, destroy it,
+
+erase it, time is on your side.
+
+In about 5.4 billion years
+
+the Sun will become the ultimate shredder.
+
+A red giant large enough to swallow earth whole.
+
+Everything will be fine for billions of years.
+
+But many accepted models of the universe
+predict that in 10 to the 100
+
+years
+
+whatever intelligence is left will
+witness the universe's
+
+dark era and its final
+
+Heat Death, the end of the universe, the end of
+
+any file or photo or memory of you
+
+ever being accessed again.
+Every time something happens
+
+a little bit of energy is lost.
+For instance,
+
+friction through sound or heat.
+That energy goes out into the universe a
+
+little bit at a time, slowly
+
+more and more.
+Eventually, in a closed system,
+
+energy becomes homogeneous,
+evenly distributed, the same
+
+everywhere.
+There's no gradient maximum
+
+entropy.
+In a little glass of ice water it's pretty quotidian
+
+but given enough time our entire universe
+
+may be no different. A gradient,
+a difference in energy from one place to
+
+another is necessary for
+
+things to happen, for files to be created and read,
+
+for life to exist.
+And in 10 to the 100 years
+
+there may not be any usable energy
+
+left.
+In Isaac Asimov's short story "The Last Question"
+
+humans are concerned about this.
+As the story
+
+leapfrogs billions of years into the future,
+
+their list of solutions doesn't get any longer
+
+than none. So, if we think across a grand timescale
+
+is cosmic deletion the freezing
+
+of everything, heat death, all we have to look forward to
+
+in this universe?
+
+We went to the Moon.
+We brought
+
+flags with us that we planted on the
+Moon, representing a place
+
+on earth.
+But those American flags on the Moon
+
+are likely erased now,
+
+their symbols and colors bleached by the
+intense radiation of the Sun on the
+
+lunar surface,
+
+unfiltered by any atmosphere.
+The flags are still there, we didn't
+
+take them back with us but now day are
+
+empty. White flags.
+White flags representing our surrender
+
+to the inevitability of deletion in the universe.
+
+But we, today, are preoccupied with
+
+just the opposite.
+What really saturates our language,
+
+what we really seem to talk about is
+
+creation.
+Things happening, not
+
+loss.
+Compared to erase,
+
+forget and delete, "make" practically
+
+deletes deletion.
+
+The flags on the Moon are bleached
+
+out but is that bleak?
+Are they
+
+deleted or blank, like a fresh
+
+sheet of paper ready for new stories?
+Really, it just depends on what you
+
+make of it.
+So thanks for making things.
+
+And as always,
+
+thanks for watching.
+

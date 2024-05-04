@@ -1,0 +1,395 @@
+Hey, Vsauce. Michael here.
+Let's take a moment to recognize
+
+the heroes who count.
+Canadian
+
+Mike Smith holds the world record for
+the largest number
+
+counted to in one breath - 125.
+
+But the world record for the largest number
+
+ever counted to belongs to Jeremy Harper
+
+from Birmingham, Alabama.
+In order to set the record,
+
+Harper never left his apartment.
+He got regular sleep,
+
+but from the moment he woke up in the
+morning until the moment he went to bed
+
+at night,
+
+Harper did nothing but count.
+He streamed the entire process
+
+over the Internet and raised money for
+charity while doing it,
+
+but after three months of counting
+
+all day, every day, he finally reached the world record -
+
+1 million.
+Now, a million might not sound
+
+like a lot, but think of this way.
+One thousand
+
+seconds is about 17 minutes,
+
+but a million seconds is more than 11
+
+days.
+And a billion seconds, well,
+
+that's more than 31 years.
+There's no full video online of Harper counting all
+
+the way to a million,
+
+but you can watch John Harchick count
+all the way to 100,000, if you have
+
+74 hours to spare.
+
+John also has some other channels.
+One involves more than 300 videos
+
+of himself eating carrots.
+Another, more than 3,000 videos of himself
+
+drinking water.
+Many of John's videos
+
+literally have no views.
+They are as lonely as a video on YouTube can get.
+
+A great way to find such videos is a website made
+
+by Jon van der Kruisen.
+This website auto plays videos on YouTube that no one
+
+has yet watched.
+John and Jeremy,
+
+as well as Mike, the one breath counter
+counted like this.
+
+1, 2, 3, 4, 5, 6, 7 and so on.
+But that's not the only way to count.
+
+And it doesn't seem to be the one we're
+born with. Additive counting is the one
+
+we're all familiar with,
+
+where each next step is just one added
+
+to the last.
+But what if we multiply it by a number instead?
+
+Well, that kind of counting is logarithmic, from
+
+"arithmos" meaning number and "logos" meaning ratio,
+
+proportion.
+On this scale, similar distances
+
+are similar proportions.
+One is a third of three
+
+and three is a third of nine.
+Four is a third of 12 and so on.
+
+Our brains perceive the world around us
+on a logarithmic scale.
+
+It's believed that almost all of our
+senses are multiplicative,
+
+not additive.
+For example, how loud we perceive a sound to be.
+
+Two boomboxes playing at the same volume
+don't sound
+
+twice as loud as one.
+In order to make a sound that is perceived as being
+
+about twice as loud as one boombox,
+you actually need
+
+ten times as many, so 10.
+And to double that loudness,
+
+you would need a hundred.
+And to double that loudness,
+
+you would need a thousand.
+Having an intuitive sense
+
+of logarithmic scales built into your brain
+is probably an advantage when it comes
+
+to natural selection
+
+and survival, because often proportion
+
+matters more than absolute value.
+For example,
+
+"is there one lion hiding over there in the shadows
+
+or two?" is a very different question
+
+than "are there ninety six lions about to attack us
+
+or ninety seven?"
+Sure, in both cases I'm just talking about one extra lion,
+
+but adding one lion to one lion, doubles the threat.
+
+Adding one lion to 96, well, that's basically nothing.
+
+Logarithmic thinking and feeling may
+explain why life
+
+seems to speed-up as we get older.
+It seems like I was a child
+
+for ever.
+And in college, in my early 20's, just whizzed by.
+
+And logarithmically, that makes sense,
+because each new year that I live
+
+is the smaller fraction of all the other
+years I've already lived.
+
+When you turn 2 years old, the last year of your life is
+
+half your life.
+But when you turn 81, that last year that you've lived,
+
+well, that's just a tiny part of the
+other 80 that you know.
+
+Logarithmic thinking isn't always helpful,
+
+especially in scenarios where proportion
+doesn't logically matter
+
+but we, nonetheless, act like it does.
+
+One of my favorite examples is
+the psychophysics of price
+
+paradox.
+This is something almost all of us do.
+
+Researchers found consistently that
+people are willing to put a lot of
+
+effort into saving
+
+5 dollars of a 10 dollar purchase,
+but they won't put much effort into
+
+saving 5 five dollars
+
+of a 2,000 dollar purchase.
+
+It's 5 dollars saved either way,
+but our natural obsession with proportion
+
+leads us astray.
+Take a look at these pictures.
+
+Can you tell how many objects are in each of them?
+You probably can.
+
+It's like really easy.
+You can tell if there are
+
+zero, one, two, three or four objects in a photo
+
+without even needing to count.
+How are you doing that?
+
+Is it some sort of sixth sense?
+No.
+
+Psychologists call it "subitizing."
+We can, intuitively,
+
+at a glance, determine whether there are
+about four or fewer objects in a photo.
+
+This has been part of human culture
+for a very long time
+
+and it may be the reason so many tally
+systems from all over the world all
+
+through history
+
+wind up having to do something different
+when counting the number five.
+
+When estimating or comparing amounts above 4,
+
+the brain uses what's known as an
+approximate number system.
+
+It's a psychological ability we have.
+It's about 15 percent
+
+accurate. It two amounts are at least 15
+percent different, we can tell.
+
+So, for example, 100 objects and 115
+
+or a thousand and 1,150 or 1,200.
+
+If you wanna test the accuracy of your
+approximate number system
+
+Panamath has a pretty good test.
+We often take
+
+linear additive counting for granted,
+but it's not granted to us.
+
+We aren't born with it.
+We are, however, born with the ability to subitize
+
+and use an approximate number system.
+Children younger than the age of three
+
+can tell, without counting, that this line of 4 coins
+
+contains fewer coins than this line of 6, even
+
+if you spread the 4 coins out into a
+line that is physically bigger,
+
+longer than this line of 6.
+However, mysteriously,
+
+around the age of 3.5, children lose this ability
+
+and begin saying that this line of 6 coins
+
+contains fewer coins than this long line
+
+of just 4 coins, possibly because around this age
+
+the physical world of objects,
+physical sizes, is more salient in their minds.
+
+But then, when they begin to learn linear counting,
+
+they reverse back and begin again
+correctly saying that this line of 6
+
+contains more coins than this line of 4,
+
+around the age of 4.
+The smallest
+
+physical thing science could ever hope
+to observe is the Planck length.
+
+In order to look at anything smaller,
+you'd need to have so much
+
+energy concentrated in such a small area
+a black hole would form and you would lose
+
+whatever you were looking at.
+
+Okay, with that in mind, here's a question.
+What number
+
+is halfway in-between 1 and 9.
+
+5 seems like the obvious answer.
+
+There are four numbers on either side of 5,
+it's halfway between,
+
+right?
+Well, if you ask this question of a young child
+
+or a member of a culture that doesn't
+teach a linear additive number line,
+
+their answer will be 3.
+You see,
+
+they are exhibiting the human mind's
+natural logarithmic tendency,
+
+because 3 in that sense makes sense.
+Three
+
+is three times larger than 1,
+and 9 is three times larger than 3.
+
+Three is in the middle, proportionately.
+But what if we took that logarithmic number
+
+line
+
+and change the one to be
+the smallest thing we can observe,
+
+the Planck length, and the nine to be the
+largest thing we can observe,
+
+the observable universe.
+What would go
+
+in the middle?
+Well, as it turns out, we would.
+
+The number of Planck lengths you could
+stretch across a brain cell
+
+is equal to the number of your brain
+cells it would take to stretch
+
+all the way across the observable universe. sold
+
+So,
+
+welcome to the middle.
+
+And as always,
+
+thanks for watching.
+
+Hello again.
+
+The YouTube channel Field Day recently
+gave me an opportunity to explore
+
+Whittier, Alaska, one of the strangest places
+
+humans call home.
+To see why and to see me investigate,
+
+talk to the locals, click the link in
+this video's description or on the
+
+annotation here on this video.
+
+It was really fun, so give it a little
+
+lookie look.
+

@@ -1,0 +1,192 @@
+Hey, Vsauce. Michael here.
+In 1826 this became the very first photograph
+
+ever taken.
+And in 1992, this became the very first image
+
+ever uploaded to the web.
+But how many photographs have we all taken,
+
+altogether throughout all of history?
+Well, 1000memories investigated this very
+
+question.
+They took a look at the number of digital cameras
+
+currently in use, typical usage of a digital
+camera, as well as the amount of analog film
+
+and film-developing supplies used by the industry
+ever since the 19th century.
+
+Tabulated altogether, they estimated that
+we have taken 3.5 trillion photographs, 4
+
+billion of which were taken this year alone.
+We are snapping more photographs than ever
+
+before, because of the proliferation of easy-to-use,
+affordable digital cameras.
+
+In fact, we take 4 times more pictures per day
+than we did 10 years ago.
+
+Or think of it this way.
+Today, every 2 minutes, humanity takes more
+
+pictures than we took altogether in the entire 1800s.
+
+Of course, the 1800s were a long time ago.
+But if we take every year from the invention
+
+of photography until today, 10% of all of
+those images, a tenth of every still image
+
+recorded of our world, was taken in the last 12 months.
+
+That's a lot.
+But even crazier is the fact that a fifth
+
+of these images, 20% of them, all wind up
+in the same place - Facebook.
+
+Facebook is huge.
+But to put it in perspective, you Vsaucers
+
+are huge.
+If all of us got together in one place and
+
+claimed independence, we would become the
+152nd largest country on Earth.
+
+Right between Guinea-Bissau and 
+Trinidad and Tobago.
+
+But Facebook, with is 1 billion users, would
+be the 3rd largest country on Earth.
+
+To take a quick, dark detour, of those 1 billion
+people on Facebook, it's estimated that 30
+
+million of them are now dead.
+And in 100 years, it's estimated that half
+
+a billion of the people on Facebook will be deceased.
+
+Facebook stories offers a really neat tool,
+where you click on a country and then see
+
+what other countries most of their Facebook
+friends live in.
+
+It's fun to see what countries are most connected
+to which others, but this whole thing brings
+
+up the question of degrees of separation.
+If you were to take 2 random people on Earth,
+
+how many friend of a friend of a friend of
+a friends would you need to connect those
+
+2 people?
+Well, in the real world, it's a little difficult
+
+to figure out, because we don't know who's
+friends with who and there are a lot of people.
+
+But, luckily, mathematics has come to our rescue.
+
+Watts and Strogatz showed that you could calculate
+the average path between any 2 random people
+
+quite easily.
+In this equation, the "N" stands for the total
+
+number of people in the population.
+And "K" stands for the number of friends each
+
+person has.
+If we assume that each person has, say, 30
+
+friends and we assume that 10% of our population
+is too young to have actual friends, it turns
+
+out that you can connect any two people on
+Earth with only 6.6 connections.
+
+Theoretically.
+Of course, in the real world, we don't all
+
+have the same number of friends, we don't
+all have 30 friends and isolated groups make
+
+the average much, much higher.
+Of course, there are non-real world places,
+
+where these connections are easier to follow.
+For instance, Facebook.
+
+Last year, Facebook's data team released two
+papers, showing that amongst all Facebook
+
+users at the time, the average distance between
+any two random users was only 4.74 friends.
+
+Twitter is even tighter.
+It's been shown that any two random users
+
+of Twitter are connected by only 4.67 friends,
+though some studies have shown it to be as
+
+low as 3.5.
+Numbers like that can make impersonal crowd
+
+seem quite intimate.
+But one of my favorite things about crowds
+
+is how smart they are.
+Wisdom of the Crowds is a fascinating phenomenon,
+
+where the collective knowledge or guesses
+or estimations of a big group of people, when
+
+averaged, are better than one individual person
+working alone.
+
+A good example of this is trying to guess
+how many jellybeans are in a jar.
+
+Some people will overestimate, while others
+will underestimate, but collectively, each
+
+member cancels out the errors of the other
+and the group average estimation winds up
+
+being smarter than the sum of its parts.
+The BBC's demonstration of this is fantastic,
+
+I've linked it down in the description, it's worth watching.
+
+They had 160 people guess the number 
+of jellybeans  in a jar.
+
+The guesses ranged from a few hundred to tens
+of thousands, but the average of all 160 guesses
+
+was 4,515, only 5 beans away from the exact answer.
+
+It's amazing to think that in a large enough
+group, the errors and shortcomings of everyone
+
+else, no matter how annoying they are individually,
+actually can balance and correct our own shortcomings.
+
+It feels good, though a little bit strange
+to think that in a group, it's possible for
+
+nobody to be correct, but for everybody to be right.
+
+And as always,
+
+thanks for watching.
+

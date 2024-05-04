@@ -1,0 +1,319 @@
+Hey, Vsauce. Michael here. And bananas are fantastic. They're actually one of the most
+
+radioactive foods we regularly eat. Sometimes
+they're difficult to peel from the top. One
+
+of my favorite ways to avoid that is to simply
+hold the banana and snap it in half. Boom,
+
+now it peels itself. It's a wonderful little
+trick, except when you drop it on the ground.
+
+This is unfortunate, but if it picked it
+up quickly, would it be safe enough to eat?
+
+I mean, how quickly do the bacteria on the
+floor move onto the food? Some people call
+
+it the "5-Second Rule." Others, the "10-Second
+Rule." And still, others, the "2-Second Rule."
+
+But is there any truth to it, or is it just
+something we say to allow us to eat food off
+
+the floor?
+
+In 2003, Jillian Clarke famously investigated
+this question. She found that 50% of men use
+
+the 5-Second Rule to eat food off the ground.
+But 70% of women do. More importantly, she
+
+found that even brief contact with a contaminated
+floor will contaminate food, wet or dry.
+
+The Myth Busters found similar results.
+And a paper published in the Journal of Applied
+
+Microbiology got even more technical.
+The researchers contaminated various floor surfaces
+
+with salmonella and they found that 5 seconds
+is way too long to wait. Bacteria adhere to
+
+dropped food almost immediately, but time
+does matter. After 5 seconds, they found that
+
+the food had acquired anywhere from 150 to 8000 bacteria. But if left for a full minute,
+
+the number they found was 10 times greater.
+
+Now considering it only takes about 10 bacteria
+of certain strains of salmonella to infect
+
+you, you should probably think twice 
+before eating off the ground.
+
+Oh, and don't complacently think that you're
+safe because the floor looks clean or the
+
+food that fell on it does. Floors make great
+homes for bacteria. Also, floors come in
+
+contact with the bottoms of our shoes
+and the University of Arizona has found that 93%
+
+of our shoes are contaminated with fecal bacteria.
+
+I've linked all of these studies down in the
+description. They're great reads, very thorough.
+
+But is it true that food dropped on a dirty
+floor becomes contaminated immediately?
+
+I mean, sure, practically speaking, that makes
+a lot of sense. But instantly? Is there a
+
+limit to how quickly bacteria can move from
+one object to another? Is there an amount
+
+of time, short enough, that were I to pick
+the food up within it, there would be no way
+
+for what it touched to contaminate it.
+
+Well, we're going to need to define "touch."
+I've talked about this before on Vsauce and
+
+on Thinker and MinutePhysics has a great
+quantum perspective, but when we say "touch,"
+
+we tend to think of two objects contacting
+each other with no space in between. Unfortunately,
+
+that's not really what happens. At a subatomic
+level, atoms resist smashing together because
+
+their electrons repel. Electrons can be modeled
+as waves, waves that overlap and interact,
+
+but they never touch. There's always space
+between them. When I touch something or someone,
+
+I'm really just feeling their electrons react
+to mine at a distance. A sub-atomically small
+
+one, but a real one.
+
+So, if that's the case, how come glue can
+stick things together? How come lipstick sticks
+
+to lips? And how can bacteria on a dirty floor
+stick to food that's been dropped on it?
+
+The positive charge from the protons in an
+atom or molecule isn't always balanced perfectly
+
+in space by the negative charge from electrons.
+Sometimes, a molecule is asymmetrical and this
+
+imbalance is permanent, which gives the molecule
+a constant dipole, so it's like a tiny little
+
+magnet.
+
+But even in symmetrical molecules, electrons
+are mobile. At any one point in time they
+
+might happen to find themselves more towards
+one end of the molecule than the other, creating
+
+rapidly fluctuating dipoles,
+causing the molecule to act like a magnet.
+
+If molecules have a lot of energy, they will
+simply whiz by one another and their dipoles
+
+and those of their neighbors won't matter much.
+But if you cool them down, slow them
+
+down, the dipoles will have more of an effect,
+which is why molecules tend to stick together
+
+as they cool - going from a gas to a liquid to a solid.
+
+That's a lot of information about molecules,
+but it's incredibly important. It's the reason
+
+things can get wet. In fact, when you get
+out of the shower, you, on average, weigh
+
+about one more pound more than you did before
+you got wet. It's also the reason Capillary
+
+Action happens. If you dip a napkin in a glass
+of water, you can watch the water climb up the napkin
+
+against gravity. That's because the molecules
+of water have very strong dipoles and they're
+
+attracted to each other - cohesion - and they're
+attracted to molecules of the paper - adhesion -
+
+more strongly than gravity pulls them down.
+
+If you want to learn more about intermolecular
+forces, I've put a bunch of links down in
+
+the description. But here's my question: how
+quickly do those forces act? Can two surfaces
+
+come into contact, briefly enough, that their
+molecules don't have time to be influenced
+
+by intermolecular forces?
+
+Well, for this, we're going to need Molecular Dynamics.
+
+Molecular Dynamics is the computer simulation
+of the physical movements of atoms or molecules.
+
+For instance, this is a simulation of a single
+copper atom depositing on a copper surface.
+
+Notice that the timer up there is counting
+off hundredths of a picosecond. These simulations
+
+need to have a narrow enough time-step to
+account for the fastest molecular vibrations
+
+of the material,
+including everything from wagging to scissoring.
+
+Typically, time as brief as a quadrillionth
+of a second is taken into account. So, the
+
+5-second rule may be true. If we rename it
+the "1 Femtosecond Rule." Spend less time
+
+on the floor than that and it's unlikely
+that room temperature molecules would have
+
+time to be influenced by intermolecular forces.
+Except, oops, I think we've been thinking
+
+too small. Intermolecular forces are fun,
+but objects can become entangled with each
+
+other on a macroscopic level.
+
+Glue and make-up and other sticky stuff often
+take advantage of the tiny imperfections -
+
+ridges and nooks and crannies - on an object's
+surface. Sticky things can seep inside and
+
+hold on. Even surfaces that seem smooth to
+us, when you really get down to it, aren't
+
+smooth at all.
+
+Two sheets of paper from a phonebook may slide
+across each other quite easily, but multiply
+
+that friction by the number of pages in two
+phonebooks by interweaving the pages and
+
+you've got yourself a monster
+capable of lifting an entire car.
+
+I was recently lucky enough to see this happen
+in real life. You can check out my adventure
+
+over on Fast, Furious & Funny. It's a new
+channel. Stay tuned, because we lifted cars
+
+with more than just phonebooks.
+
+The adhesion between two objects caused by
+the shapes of their surfaces contributes to
+
+friction and is known as "mechanical adhesion."
+It plays a pretty big role in getting floor
+
+germs to sick to dropped food.
+
+In fact, if two surfaces can mechanically
+adhere, but aren't close enough to do so,
+
+we wouldn't say they were touching. And so,
+if by definition "touching" means that you
+
+can mechanically adhere to other object's surface,
+well, then maybe the 5-Second Rule shouldn't
+
+be known as the "1 Femtosecond Rule,"
+because if they're touching, it's already too late
+
+and instead the rule should be known as
+the "Don't Touch Food That's Fallen on the
+
+Floor Rule."
+
+But come to think of it, maybe we shouldn't
+be eating food that's touched anything, because
+
+bacteria are everywhere, including on you
+right now. There are more bacteria on your
+
+body right now than there are people living in America.
+
+There are 40 million bacteria in one gram
+of soil and 5 nonillion bacteria on Earth.
+
+It's been found that one out of every 10 bank
+cards, and one out of every 7 bills, has fecal
+
+bacteria on it.
+
+Here's something fun. Go down to the comment
+section and type the letter "V." If you used
+
+a mobile phone to do that, congratulations,
+you just touched 6,281 bacteria. If you're
+
+using a desktop keyboard, you're a little
+safer. You probably only touched about 180.
+
+Cellphones are actually one of the most bacteria-ridden
+things we frequently encounter.
+
+If you want to estimate about how many bacteria
+are specifically on your phone, based on how
+
+clean you are, The Oatmeal has a really great
+quiz. You can find that in the description.
+
+But honestly what amazes me the most isn't
+how dirty our world is, or how much bacteria
+
+there is; instead, it's the fact that despite
+those numbers, we don't get sick more often.
+
+Our immune system is amazing, but it relies
+on the same principles of adhesion that bacteria do.
+
+The forces that cause food dropped on the
+floor to pick up germs are the same forces
+
+that we need to fight them. They're same forces
+that bring us closer together, whether we
+
+like it or not.
+
+So, keep adhering.
+
+And as always,
+
+thanks for watching.
+

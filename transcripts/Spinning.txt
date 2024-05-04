@@ -1,0 +1,722 @@
+hey Vsauce Michael here do you want my
+
+head delivered to your door in a box
+
+well too bad I only have one head and I
+
+already called dibs on it plus my neck
+
+is like pure muscle this head ain't
+
+never coming off the next best thing is
+
+what actually comes in the curiosity box
+
+by Vsauce it is chock full of science
+
+gear designed by us it's pretty amazing
+
+and a portion of all proceeds go to
+
+Alzheimer's research so a subscription
+
+isn't just good for your brain it's good
+
+for all of our brains now if you
+
+subscribe right now there's still time
+
+to get this box the latest one it is
+
+full of brain food including the topic
+
+of this video a gyroscope if you hold a
+
+gyroscope in the palm of your hand
+
+upright like this it will fall over
+
+that's not very surprising you see the
+
+trick is to take the included string and
+
+thread it through a hole and then spin
+
+the disc around to the string wraps
+
+around and around and around and around
+
+once it's sufficiently wound up hold the
+
+outside and give the string a firm pull
+
+ah yeah now the gyroscope appears to
+
+defy gravity the axis that spins around
+
+is like glued in place almost cosmically
+
+if you could get this to spin long
+
+enough you could actually watch as that
+
+access did move but not because it
+
+actually moved because you and earth
+
+moved around it that's actually where it
+
+gets its name gyro scope you can use it
+
+to scope watch the gyro gyration
+
+rotation of the earth as léon foucault
+
+did in 1852 when the device got its name
+
+but how does it work
+
+why are spinning things so stable also
+
+watch this if I give it a good spin and
+
+then hang it from its own string
+
+sideways
+
+it will remain parallel to the ground
+
+but process around to get to the bottom
+
+of what's up or whether as the cool kids
+
+are saying nowadays begin by imagining
+
+yourself swinging a ball around your
+
+head on a rope even though the ball is
+
+following a curved path its velocity is
+
+at any given instant straight tangent to
+
+its path you can demonstrate this to
+
+yourself by letting go the ball will
+
+shoot out at the velocity it had at the
+
+moment you let go it doesn't curve away
+
+or fly directly away while rotating the
+
+rope keeps the ball always at the same
+
+distance from the center which means
+
+continuously changing the direction of
+
+the balls velocity now that requires
+
+force and in this case that force is
+
+delivered by tension in the rope the
+
+same intermolecular forces that attract
+
+neighboring rope molecules to each other
+
+and are the reason the rope doesn't just
+
+disintegrate also resists the balls
+
+momentum acting on it such that its
+
+velocity changes every next instant so
+
+as to always follow a circular path this
+
+Center seeking force that acts on the
+
+ball is called a centripetal force it
+
+can be provided by a rope an entire disk
+
+of material something invisible like
+
+gravity or from the other side by a wall
+
+or banked track side note notice that
+
+there is no force acting on the ball
+
+that goes directly outward away from the
+
+center what we often hear called a
+
+centrifugal or centrifugal force you
+
+know the force you seem to feel when you
+
+lock hands with someone and you both
+
+spin around and you feel pulled straight
+
+back
+
+or when a car urine turns quickly and
+
+you're suddenly thrown away from the
+
+center the thing is this seemingly
+
+outward directed force isn't a force at
+
+all it's actually just an object's
+
+inertia the path the object would take
+
+if no other forces acted on it being
+
+blocked by a force a centripetal force
+
+across sufficiently short timescales an
+
+inertial path can seem like it's
+
+opposite a centripetal force but if
+
+allowed to follow its inertial path for
+
+a while the difference becomes more
+
+clear here is a ball in orbit if the
+
+centripetal force is removed it will
+
+continue along on a path tangent to its
+
+previous circular one the outline
+
+represents where the ball would be if it
+
+hadn't have been released now at first
+
+the separation between the two appears
+
+to occur directly away from the center
+
+straight out but if allowed to continue
+
+a more interesting path emerges from the
+
+perspective of the outline which is
+
+still moving counterclockwise the solid
+
+ball appears to be receding and dragging
+
+behind clockwise this is due to the
+
+Coriolis effect which we will talk about
+
+soon but first let's push some stuff
+
+around it could really be anything but I
+
+would love to use this ball it's very
+
+cool it has fiber optic properties it
+
+would be awesome to get these into
+
+curiosity boxes down the line I will see
+
+what I can do anyway if I push the ball
+
+it will move in the direction of my
+
+force pretty simple but if the ball is
+
+moving before I touch it its velocity
+
+doesn't just disappear instead both
+
+combine and the ball moves according to
+
+their sum the lower its initial momentum
+
+the greater this angle now let's go back
+
+to circular motion imagine a satellite
+
+orbiting Earth its velocity is as we
+
+showed before at all times tangent to
+
+its circular path a centripetal force
+
+from gravity continuously swings its
+
+velocity around so that every 90 degrees
+
+it starts pointing
+
+more and more in the opposite direction
+
+it used to be just like with the ball a
+
+downwards force won't send it straight
+
+down instead the vectors combine
+
+resulting in a new path like this 90
+
+degrees ahead it reaches the maximum
+
+distance it will travel in the direction
+
+of our force before going back the key
+
+point here is that a downwards force at
+
+this location didn't move the orbit like
+
+this it moved the orbit like this
+
+tilting it 90 degrees ahead of where we
+
+acted now imagine the satellite as a
+
+small piece of our gyroscope pushing
+
+down here will cause the piece to assume
+
+a path that would take it like this but
+
+of course since the disk is solid in all
+
+of its pieces quite rigidly push and
+
+pull each other the gyroscope itself
+
+tilts like this or if the gyro pivots
+
+around a point below its center like
+
+this if the gyro wasn't spinning pushing
+
+it down here would have just caused this
+
+to happen but when something is spinning
+
+its component parts have other vectors
+
+you need to consider
+
+I learned a fun demonstration of this
+
+from a great video by Matthias Wandel
+
+this is a cardboard disc
+
+I cut it out myself I can balance it on
+
+the end of a pen just like this and if I
+
+blow on the side nearest me it tilts to
+
+me not very surprising but if the disc
+
+is spinning and I blow in the same place
+
+it tilts to the right and if I blow on
+
+the side nearest you instead of tilting
+
+to you well it tilts to the left if
+
+instead of applying my force in one
+
+location the whole time I instead apply
+
+the force wherever the tilt is greatest
+
+down well
+
+the tilt will glide around and around
+
+watch
+
+[Music]
+
+I've run out of air but the point is
+
+this is exactly what is going on when a
+
+gyroscope here on earth is spun up and
+
+tilted the tilt glides around this is
+
+called precession what's happening is
+
+actually very similar to my breath
+
+moving around except instead of my
+
+breath it's gravity no matter how
+
+perfectly upright a gyroscope is it will
+
+not stay that way forever
+
+any deviation no matter how slight will
+
+allow gravity to form a torque a torque
+
+occurs whenever a force rotates an
+
+object around a pivot point if the disk
+
+is spinning the effect of that torque
+
+will move 90 degrees ahead in the
+
+rotation like so but now the torque is
+
+operating this way so its effect will
+
+have to be felt 90 degrees ahead and so
+
+on and well what do you know the
+
+gyroscope processes now if it wasn't for
+
+friction and air resistance and other
+
+forces meddling with this disk it would
+
+just process at the same angle forever
+
+but of course well we live in a world
+
+with friction and air resistance and all
+
+that good stuff so the disk spins down
+
+in the same way that a slower moving
+
+ball is deflected with a steeper angle
+
+as the disk slows down each piece of it
+
+is given a steeper and steeper orbit
+
+around the gyroscope tilts further and
+
+further down until it hits the ground
+
+and eventually slows to a stop take a
+
+look at this bicycle wheel it's like our
+
+gyroscope but bigger I have a string
+
+tied to its handle right here so when
+
+lifted like this a torque is applied by
+
+gravity like so it's equivalent to a
+
+force up here in this direction
+
+and a force on the wheel down here in
+
+this direction if I let go those two
+
+forces will do their work okay pretty
+
+predictable if I give this wheel
+
+spinning there will be other vectors at
+
+play a piece of the wheel moving say
+
+counterclockwise or along with the rest
+
+of the wheel down here will have a
+
+velocity tangent to its circular path
+
+but also a torque pushing it this way
+
+that will cause its orbit like in our
+
+gyroscope to move like this this force
+
+will have its maximum impact 90 degrees
+
+ahead in the rotation so the wheel will
+
+turn like this but well there's still a
+
+torque here pushing the bottom of the
+
+wheel this way moving that 90 degrees
+
+ahead we see that the wheel will just
+
+keep turning and in fact that's what it
+
+will do if I can get it up to a fast
+
+enough speed then tada an even bigger
+
+spinning object is the earth and we are
+
+all on it strapped in by friction and
+
+gravity for the ride a ride with some
+
+surprising consequences a helicopter
+
+can't just lift up off the ground remain
+
+motionless and allow the earth to rotate
+
+under it
+
+doesn't work that way this is because
+
+the helicopter the ground it used to be
+
+on and the air all around it are all
+
+also traveling with the Earth's spin but
+
+if you had a magic paper airplane that
+
+could be thrown really far and you
+
+decided to throw it directly north to
+
+your friend Earth's spin would come into
+
+play no matter how dead-on your aim was
+
+every time you would find that the plane
+
+drifts a bit east as if pushed by some
+
+mysterious force and likewise your
+
+friend to the north would find that
+
+their plane thrown south directly at you
+
+would always drift a bit west this is
+
+called the Coriolis effect you are both
+
+on earth and you're both always north
+
+and south of each
+
+but in a day your friend nearer the pole
+
+travels a shorter total distance around
+
+it's less distance in the same time your
+
+friend is moving slower than you your
+
+plane meanwhile is spinning at your
+
+faster velocity and it continues to have
+
+this velocity after you throw it as it
+
+moves towards the pole it finds itself
+
+amongst slower and slower things so it
+
+pulls ahead of them and drifts east in
+
+the direction of Earth's spin your
+
+friends playing meanwhile finds itself
+
+amongst faster and faster moving things
+
+that it falls behind there's a vertical
+
+version of the Coriolis effect as well
+
+an object suspended very high right up
+
+above you will actually fall a bit to
+
+the east
+
+if dropped and anything you throw
+
+straight up at it will curve away to the
+
+west of it the higher up object whose
+
+circular path around is bigger covers
+
+more distance in the same time than you
+
+these velocities don't just disappear
+
+when things are dropped or thrown up so
+
+you both miss your marks it's also why
+
+the directly outward pointing force you
+
+feel when spinning is fictitious your
+
+inertial tendency to move in a straight
+
+line takes you further from the path
+
+you're on to where things have to have
+
+higher velocities to rotate at the same
+
+rate if you fly out long enough you'll
+
+notice yourself falling behind your
+
+original rotation pace not with it
+
+always directly out finally lose weight
+
+fast but not mass with this one weird
+
+trick discovered by a Hungarian nobleman
+
+and physicist people who think the earth
+
+is flat hate him it's called the bush
+
+effect in the early 1900's Baron Roland
+
+von Hood Bush was looking at gravity
+
+measurements taken on ships at sea and
+
+noticed that readings were lower when
+
+ships were travelling east and higher
+
+when they were traveling west further
+
+investigations found that yes in fact
+
+when traveling on foot in a car on a
+
+bike in a plane doesn't matter you weigh
+
+less when traveling
+
+and more when traveling west in fact an
+
+airplane flying east at the equator
+
+experiences an apparent weight reduction
+
+of about 0.9 percent so if you want to
+
+quickly lose a bit over a pound about
+
+half a kilo get on that plane what
+
+causes this effect well when you're
+
+spinning with the earth you have a
+
+linear velocity but gravity a
+
+centripetal force is always resisting
+
+this if gravity was turned off and the
+
+earth remained whole you'd be flung off
+
+on a tangent that rose above your usual
+
+path for this reason your inertial
+
+tendency to take this tangent path is a
+
+sort of lift it's not enough to take you
+
+off the surface earth doesn't spin fast
+
+enough for that to happen but just as I
+
+can lift something that's on a scale and
+
+make it weigh less without completely
+
+removing it from the scale so to does
+
+your inertial path lift you just a bit
+
+traveling east adds to the velocity
+
+Earth's spin gives you and provides more
+
+of this kind of lift in a direction away
+
+from the surface making you lighter
+
+conversely traveling west decreases your
+
+velocity in that direction lowering its
+
+lifting effect on your weight I will be
+
+thinking about this and maybe even
+
+weighing myself very precisely while I'm
+
+traveling the country with brain candy
+
+live you got your tickets already right
+
+don't wait it is very very exciting and
+
+I cannot wait to get a chance to see you
+
+all in person and be more interactive
+
+with this kind of stuff and do so on a
+
+much bigger louder personal scale also
+
+subscribe to the curiosity box for more
+
+mind dynamite it's fantastic and it
+
+helps a very very good cause I so fully
+
+stand behind it I'm very proud of it and
+
+you know what go subscribe to dong while
+
+you're at it my latest video there is
+
+all about some of my favourite free
+
+physics simulators on the Internet
+
+you are all great I appreciate your time
+
+and as always thanks for watching
+
+[Music]
+

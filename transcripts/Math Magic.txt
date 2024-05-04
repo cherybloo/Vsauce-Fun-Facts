@@ -1,0 +1,774 @@
+hey Vsauce Michael here if you rearrange
+
+the letters in William Shakespeare
+
+you can spell here was I like a song in
+
+the King James Bible in psalm 46 the
+
+46th word is shake and the 46th word
+
+from the bottom is sphere William
+
+Shakespeare was 46 years old when the
+
+King James Bible was completed is this
+
+just a coincidence yes it is
+
+given enough searching enough words
+
+enough data you can eventually find and
+
+should indeed expect all kinds of neat
+
+coincidences it's just probability
+
+here's another good example think of a
+
+card any card value and suit okay got it
+
+mentally focus on that card deliver it
+
+to my brain using ESP whoa I got it
+
+here it is amazing right now think of
+
+another card are you ready okay it's
+
+some well it's this one right one more
+
+time
+
+think of a card really think about it
+
+and there it is impressed
+
+probably not but approximately seven of
+
+you might be easy there are only 52
+
+cards if each card is equally likely to
+
+be thought of I had a one in 52 chance
+
+of guessing your card and about a 1 in
+
+every 140,000 chance of doing so three
+
+times in a row if say a million people
+
+watched this video and play along after
+
+three tries you could expect about seven
+
+people to be left who had their imagined
+
+card pulled by mean each time
+
+except not more than seven actually
+
+you see there's even more magic
+
+happening here and by magic
+
+I mean math when asked to arbitrarily
+
+think of a card studies have shown that
+
+people tend to think of certain cards
+
+more often than others these are the
+
+results from a study of a few hundred
+
+people hearts are named a bit more often
+
+than the other suits the three cards I
+
+drew are the top three most often
+
+thought of but would it be more amazing
+
+if it actually was magic yes and no
+
+obviously magic as a performance is
+
+important it reminds us that being
+
+stupefied and curious and humbled is fun
+
+without a visceral reaction to the
+
+unknown would we care to learn or study
+
+or investigate but yet explanations
+
+don't dull mystery they empower the
+
+mystified explanations aren't ends
+
+they're in trances the start of an
+
+ability to use reassemble and reimagine
+
+new things out of what you now know
+
+here's a cool fact if you divide a deck
+
+of cards exactly in half there will
+
+always be the same number of red cards
+
+in one half as there are black cards in
+
+the other no matter how mixed up the
+
+cards were before you began
+
+it's not magic though it's just that
+
+think of it this way half of the cards
+
+in a deck are red so all the red cards
+
+could fit in one deck half this means
+
+that the number of cards in a half that
+
+aren't red that is our black cards are
+
+necessarily equal in number to the Reds
+
+that must be in the other half knowing
+
+this you can devise an even neater trick
+
+like the really cool trick Matt Parker
+
+just showed off on his channel which you
+
+should subscribe to or like this one
+
+take an easier to count number of cards
+
+like say 10 and then place another 10
+
+cards on top but face up have a friend
+
+shuffle the whole mess however they wish
+
+cuts
+
+messy cuts riffle smooshing they just
+
+can't cause any card to flip over then
+
+ask them to hand you the pack and behind
+
+your back even while blindfolded show
+
+them that you can separate the deck into
+
+two halves with the same number of
+
+face-up cards every time over and over
+
+again all you have to do is count out
+
+ten cards the number of face-up cards in
+
+one hand will equal the number of
+
+facedown cards in the other flip one of
+
+the packs over and all of its facedown
+
+cards will turn into face-up ones tada
+
+the face-up counts are now equal here's
+
+another trick that shows off some neat
+
+mathematical properties to help me with
+
+this trick I've brought in Vanessa from
+
+the YouTube channel braincraft it's an
+
+awesome Channel please go check it out
+
+but first check out this trick are you
+
+ready I'm ready
+
+we've got ten cards on the table five
+
+diamonds and five clubs ace to five of
+
+each go ahead and put the clubs on top
+
+of the diamonds face up face up yep
+
+alright now I am going to mix these
+
+cards up alright and you were gonna use
+
+your ESP abilities to get the cards
+
+paired up at the end you ready okay I
+
+want to mix these up take some off the
+
+top moving to the bottom taking parts
+
+from the bottom and just like I don't
+
+okay I'm gonna I'm gonna cut these as
+
+well let me know where you want to cut
+
+them okay yeah there okay we'll cut the
+
+cards there and I'm gonna take half of
+
+what's here five cards and deal them
+
+down one two three four five I'm gonna
+
+set the other five right there now we
+
+have two piles and it is your turn to
+
+start swapping we got poor swaps you can
+
+make and a swap involves taking the top
+
+card and moving it to the bottom okay
+
+alright now you can divvy up these four
+
+swaps however you want you can do four
+
+here you can do 2 & 2 1 & 3 whatever you
+
+want okay I'll do three here
+
+yeah interesting yeah right you do it
+
+I'll do it one two three and then one
+
+swap here good yes now we're left with
+
+these two cards on top I'm gonna take
+
+them off and set them right here now
+
+three swaps all three okay it's your
+
+choice
+
+one two three and the top two cards I
+
+will peel off and we'll set aside all
+
+right now two swaps two here mm-hmm all
+
+right one two once again the cards that
+
+are on top get peeled off and set aside
+
+one swap one here okay so I'll take
+
+these away and we're left with two cards
+
+will they be the same will they be a
+
+match let's find out okay
+
+whoa don't say okay yet because things
+
+aren't okay if something magic just
+
+happened we've got all of these cards we
+
+set aside and yet they're all matches
+
+both aces right there what are these
+
+both fives you also matched up the
+
+threes and of course the fours you're
+
+welcome
+
+thank you very much but not you Vanessa
+
+you mathematics every time no matter how
+
+your friend decided to swap matching
+
+pairs will be together how well it's all
+
+about cycles if you have some cards in a
+
+particular order and you cut them
+
+somewhere doesn't matter waiter you will
+
+only change the positions of the
+
+individual cards but not the sequence
+
+the next card down will always be the
+
+next card in order with the whole thing
+
+wrapping back around it helps to think
+
+of the order not as a tower but as a
+
+clock now when the trick we just did
+
+each cards match is always just five
+
+cards away in the sequence
+
+because five happens to also be the
+
+number of cards in half the pack
+
+dividing the pack in half leaves pairs
+
+lined up no matter how we've cut the
+
+deck in the trick however we added a bit
+
+of extra confusion by dealing the top
+
+half down onto the table one two three
+
+four five this has the effect of
+
+reversing its order now instead of
+
+having the same position in each package
+
+pairs have mirrored positions the number
+
+of cards below any given card in the
+
+bottom pack is the number above it in
+
+the top pack this balance means that
+
+swapping all the cards above a target in
+
+the bottom pack leaves it on top and
+
+swapping the number of cards below it
+
+from the other pack leaves its match on
+
+the other top of course the number of
+
+cards above and below a target card in
+
+the bottom pack is just the number of
+
+all the other cards in that half which
+
+is the total amount in each pack minus
+
+one that's why with five cards in each
+
+pack we started with four swaps then
+
+after each pack had shrunk to four we
+
+did three swaps as long as the total
+
+number of swaps adds up to the pack
+
+total minus 1
+
+we'll have matching pairs on top you can
+
+extend these facts about cyclical
+
+sequences to other tricks of your own
+
+imagining this is one of my favorite
+
+tricks it comes from Peter Magowan on
+
+the stem maths magic channel trick time
+
+once again I'm joined by Vanessa from
+
+brain craft and ace through five of
+
+diamonds and ace through five of clubs
+
+Vanessa could you please take the ACE
+
+through five of diamonds and put them on
+
+top of the clubs but flip them over so
+
+they're facedown okay so we now have a
+
+kind of messy little deck here where all
+
+the black cards are face up and the Reds
+
+are face down we're gonna mix these up a
+
+lot we can even riffle shuffle this
+
+riffle shuffle right kind of divide it
+
+in half like this and then well it's
+
+hard to do with a few cards and they do
+
+a little you know yeah thank you
+
+where would you like me to cut these
+
+right there okay cool now there's
+
+another way you can kind of mix up a
+
+deal cards it's called the down over
+
+deal goes like this one card goes down
+
+the next goes over one goes down one
+
+goes over down over down over down over
+
+until you're done okay but now it's your
+
+turn all right I'm gonna go two at a
+
+time and you're gonna tell me whether
+
+these first two cards should be dealt
+
+down or should be turned over okay
+
+down down what about these down down
+
+over down over all right now let's go
+
+four at a time
+
+okay one two three four should these go
+
+down or over over what about these four
+
+down death and the final two now we can
+
+do this as long as as often as you want
+
+I can keep doing this we can do - we can
+
+do four at a time how do you feel
+
+let's do it once more and do two at a
+
+time two time okay
+
+down down down
+
+down you're getting faster buff down
+
+okay all right now I'm going to make two
+
+little piles like a little book all
+
+right one okay
+
+now Vanessa should I close this book
+
+like this or like this all right there
+
+we go now you had completely free choice
+
+here mm-hmm you made a lot of different
+
+decisions somewhat arbitrarily but yet
+
+like oil and water
+
+the black and the red cards have
+
+separated and only the Reds have face-up
+
+I knew this would happen but it's not
+
+because of magic it's because of math
+
+here's how it works the red cards all
+
+start out facedown the black cards
+
+face-up no amount of cutting or rippling
+
+will change the fact that Reds are
+
+facedown and blacks are face-up but when
+
+you down over Deal you cause every other
+
+card to have its original facing
+
+direction reversed down over down over
+
+down over down over down over this
+
+alternating sequence is maintained
+
+through any number of cuts because it's
+
+cyclical this is the key to the trick
+
+because when we alternatively deal cards
+
+into book halves one pile will contain
+
+cards reversed by the down over deal the
+
+other cards not reversed
+
+depending on how you close the book
+
+either all reversed carts are
+
+unrehearsed or all unrehearsed cards are
+
+reversed
+
+either way the original division by
+
+color comes back the swaps missed things
+
+up by introducing an illusion of control
+
+but in reality the swaps are what are
+
+known as a hummer deal a swap flips the
+
+facing direction of the cards you flip
+
+but simultaneously moves them to the
+
+correct category preserving the sequence
+
+as long as you swap an even number of
+
+cards the facing direction of all of
+
+them is reversed but the positions they
+
+wind up in are still correct
+
+according to the sequence finally let's
+
+end with something popular that also
+
+sounds cool on the surface until you go
+
+deeper understand it better and it winds
+
+up being well even cooler the number of
+
+different ways 52 cards can be arranged
+
+there's obviously a lot the top card
+
+could be any card
+
+so there's 52 different possibilities
+
+any remaining cards can follow so there
+
+are 51 possibilities for the next card
+
+54 the third spot 49 for the fourth and
+
+so on multiplying all of these numbers
+
+together gives us how many unique ways
+
+fifty-two cards can be arranged 52
+
+factorial is a gigantic amount so large
+
+in fact every time you shuffle a deck of
+
+cards
+
+well smoosh it for a few minutes or
+
+riffle at seven or more times
+
+chances are you have put those playing
+
+cards into an order that they have never
+
+been in in the entire history of cards
+
+or humans or the universe seriously this
+
+is because 52 factorial is eight point
+
+zero six five eight times ten to the
+
+67th in comparison the observable
+
+universe is only about 10 to the 18th
+
+seconds old even if you had been
+
+properly shuffling a deck every single
+
+second since the universe began 13.7
+
+billion years ago you still to this day
+
+wouldn't have even come close to
+
+assembling every arrangement possible
+
+but even that doesn't paint the whole
+
+picture of just how big 52 factorial is
+
+scotch appeal wrote what in my opinion
+
+are some of the most mind-boggling
+
+visualizations of the size of 52
+
+factorial imagine setting a timer to
+
+count down 52 factorial seconds while
+
+the timer runs stand on the equator and
+
+wait one billion years
+
+after a billion years have passed take a
+
+single step forward and then wait
+
+another billion years before taking a
+
+second step and so on
+
+once you have walked all the way around
+
+the earth take a single drop of water
+
+out of the Pacific Ocean that's five
+
+hundredths of a milliliter and set it
+
+aside now continue walking at a rate of
+
+one step every billion years removing
+
+one drop after every journey around the
+
+entire Earth and by the time the Pacific
+
+Ocean is completely empty
+
+put a single sheet of paper on the
+
+ground refill the ocean and keep going
+
+until the stack of paper reaches the Sun
+
+at that point how many seconds will be
+
+left on the timer will it be zero a few
+
+hundred a few billion no there will
+
+still be eight times ten to the sixty
+
+seven seconds left you have barely made
+
+a dent if you start all over again and
+
+do that whole thing a thousand more
+
+times you will only be 1/3 of the way
+
+done
+
+luckily Scott has a great idea for how
+
+to pass the rest of the time if you're
+
+bored of paper and water and walking
+
+instead he says deal yourself five cards
+
+every billion years when you finally
+
+deal yourself a royal flush buy a
+
+lottery ticket if the ticket wins the
+
+lottery throw a single grain of sand
+
+into the Grand Canyon as soon as the
+
+Grand Canyon is completely full of sand
+
+remove one ounce of rock that's about 28
+
+grams from Mount Everest
+
+by the time Mount Everest is leveled
+
+take a look at the clock this is what
+
+will be left
+
+do the whole Royal Flush lottery ticket
+
+Grand Canyon Mount Everest thing 256
+
+more times and then and only then will
+
+your timer have reached zero that is how
+
+big 52 factorial is it's pretty big but
+
+now think about this the number of
+
+possible people the number of different
+
+humans there could be is well even
+
+larger what that means is that even
+
+though you will probably die most people
+
+including possibly the smartest or
+
+funniest or most annoying possible
+
+person won't even get to die like you do
+
+they won't even get to be born so I'm
+
+glad you were and as always thanks for
+
+watching
+

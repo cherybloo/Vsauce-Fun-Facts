@@ -1,0 +1,632 @@
+Hey, Vsauce. Michael here. Now, one of my favorite
+treats of the holiday season is
+
+Gabriel's cake. It's a super solid
+based on Gabriel's Horn that you can
+
+make right at home, as long as your home
+is infinitely large. Okay, all right. Now, the
+
+first thing you want to do is bake a
+cake. I prepared this cake earlier. It's a
+
+real beautiful cake. It's a little large,
+but I bet you I could eat that whole
+
+thing in a day if I tried. Am I right?
+Okay, now the second step is cut the cake in
+
+half.
+
+Notice that while I cut this cake in half
+
+you don't add or create any new cake but
+the surface area of the cake has
+
+increased. It used to be completely
+covered and now we've got two regions on
+
+the inside that aren't covered. The next
+step is to cut this half, one of the halves,
+
+in half.
+
+Here we go. Again, the volume of cake on
+the table is the same as it was in the
+
+beginning but the surface area is going
+up. As you may be able to guess, the next
+
+step is going to be to cut one of these
+quarters of the original cake in half.
+
+It's getting pretty thin, but all you have to
+do is keep this up - cutting halves in half
+
+and half and half and half forever and
+once you've done that, well, you're almost
+
+there. When you finish cutting, stack the
+halves on top of one another in order,
+
+like this, to create a beautiful tiered
+dessert. Because you have an infinite
+
+number of thinner and thinner slices
+when you're done stacking them the cake's
+
+vertical height will be endless.
+Such a cake has an interesting
+
+mathematical property. Its volume, the
+amount of cake it contains, is clearly no
+
+different than the amount you started
+with, but its surface area is infinite. It's
+
+a cake you can eat but not frost.
+You would need an infinite amount of frosting
+
+to cover the whole thing with a uniform
+coat. An object with finite volume but
+
+infinite surface area doesn't need to
+be endlessly tall, by the way. There are
+
+bounded super solids, like this cube,
+with an infinite number of smaller and
+
+smaller circular holes.
+Of course, building these objects in the real world
+
+comes with some obvious difficulties.
+One is the fact that the amount of steps
+
+required to complete the construction of
+Gabriel's cake or any other super solid
+
+is literally infinitely many.
+And infinity isn't a number that, you know,
+
+you eventually get to.
+It means unending. There will always be a next step,
+
+another piece to slice in half again.
+By definition, an infinite sequence of tasks
+
+has no last task. So you could never
+finish making a super solid.
+
+Or could you?
+
+Enter the Supertask.
+
+What if instead of taking the same
+amount of time to complete each step we
+
+accelerated as we worked and did each
+step in half the time as the last? For
+
+example, let's say you wanna make
+Gabriel's cake in just two minutes.
+
+That's easy. First, cut the original
+cake in half and then wait a minute
+
+before making the second cut. Wait half a minute before making the third, a quarter of a minute
+
+before the 4th and so on.
+Always waiting for half of what's left to pass
+
+before cutting again. Since you can keep
+dividing in half forever, there will
+
+always be another step. Infinite actions
+within a finite amount of time is a
+
+supertask. The strange thing, of course,
+is that while supertasking no matter
+
+how many steps you've already completed
+there will always be an infinite amount
+
+of steps ahead. But yet, when time's up,
+you will have finished all of them. What
+
+we've just described is similar to Zeno's
+famous paradox of the dichotomy in which
+
+the Greek hero Achilles runs a short race
+that he can clearly finish,
+
+I mean, people finish races all the time,
+but how exactly it's finished
+
+is a mystery. Because first Achilles must
+cover half of the race's distance and
+
+then half of what's left and half again
+and again and again. Since there will
+
+always be another half way point to
+reach, the number of subdivisions
+
+infinite, there is no final destination,
+after which Achilles' next stop is the
+
+finish line.
+
+But yet Achilles obviously can finish.
+He somehow reaches them all despite the
+
+fact that during his journey he always
+has an infinite number of steps left to
+
+reach. Think about it this way.
+What if at each half way step along the way
+
+Achilles is required to hold up a flag.
+At even steps a blue flag and at odd
+
+steps a red flag. Blue, red, blue, red,
+blue, red, the flags will alternate faster
+
+and faster. But when Achilles finishes
+the race, which flag will he be holding
+
+up? To be holding up either flag would
+seem to suggest that a largest number
+
+not only exists, but is either even or
+odd. Now, to this it is often suggested
+
+that the real problem here is that Achilles
+isn't actually doing infinitely
+
+many things.
+He's just taking a few strides or whatever.
+
+A true supertask requires doing
+infinitely many distinct actions. Fair
+
+enough. But even if Achilles ran the
+race in a staccato fashion, stopping at each
+
+half way point for half as long as he waited
+to the last one, the scenario would still
+
+be sensical and logical and would
+complete in a finite amount of time. It
+
+has even been shown how a staccato
+runner could move to avoid discontinuous
+
+velocities and accelerations.
+The point is, fine,
+
+infinite distinct actions are at least
+logically possible to do in a finite
+
+amount of time, but only logically.
+Only as a mathematical abstraction.
+
+Supertasks are obviously just products of our
+imagination. Because in the real world
+
+there must be some smallest amount of
+space and/or time that cannot be
+
+meaningfully divided in half again.
+Once you're within one of these distances of
+
+the finish line,
+
+the only possible next position you can have is the
+
+finish line. That certainly seems fair.
+After all, it's believed that in reality
+
+there is a smallest meaningful distance - the Planck length. Any interactions
+
+between or observations of particles
+more accurate than this span make no
+
+sense within physics as we understand it
+today. And the time it would take to
+
+travel a Planck length at the fastest
+speed possible, the speed of light, is the
+
+Planck time. So these seem to be the
+briefest pieces of space and time any
+
+known force in the universe could act
+across. Whether that force is gravity or a
+
+force from Achilles' leg muscles.
+But does that resolve the crisis or is it
+
+just a way of avoiding the problem
+altogether by saying "it doesn't matter,
+
+because it won't be on the test?"
+As John Earman has complained, it seems to
+
+me unattractive to make the truth of
+mathematical statements depend on the
+
+contingencies of space-time structure.
+Maybe Zeno's dichotomy tells us less
+
+about motion and time and space and truth
+than it does about our impressive
+
+abilities to confuse ourselves.
+And that's what makes supertasks important.
+
+They're a contact point in uneasy
+handshake of sorts between the universe we live
+
+in and the brains inside us.
+Let's play around with some. They're not all the
+
+same. Some converge, like Zeno's dichotomy,
+others converge but in ways you may not
+
+expect and still others refuse to
+cooperate in any way. They diverge.
+
+A great example of a supertask whose
+behavior diverges is Thomson's lamp, a
+
+famous supertask devised by James F. Thomson.
+
+Imagine a lamp that can be turned on and
+off as quickly as you desire. What would
+
+happen if you turned such a lamp on and
+off Zenoianly? Well, let's find out. Just set a
+
+timer and turn the lamp on. Then wait
+one minute and turn it off. After half a
+
+minute turn it back on and then off
+again after a quarter of a minute, on
+
+again after an eighth of a minute and so on.
+
+Waiting half as long to flip the switch
+each time as you previously did. Now, as the
+
+number of switching grows without bound,
+the total time elapsed approaches just
+
+two minutes. The lamp will be turned on
+and off an infinite number of times in
+
+just two minutes.
+So after two minutes, will the lamp be on or off?
+
+Well, by the definition of infinity,
+there is no last step. There is never a
+
+switching not followed by another.
+So the lamp can't be on, because whenever it's
+
+turned on, it is immediately turned off
+in the next step and it can't be off
+
+because whenever it's turned off it's
+turned on right afterwards. What's the
+
+answer? It's easy to say something about
+a supertask when its partial sums
+
+converge, but when they just oscillate back
+and forth forever... Hmmmm...
+
+Zeno objects do this. Imagine building a meter
+high cube. As with all supertasks, you
+
+construct at an accelerated pace.
+First, you put down a green half metre tall slab,
+
+then a quarter metre tall slab that's
+orange, then a green eight metre slab,
+
+then an orange 16th meter slab and so on,
+until there are infinitely many layers
+
+of alternating color. Now, when you look at the cube from above, what color will
+
+you see?
+
+Orange, green? Well, it can't be orange
+because every orange layer is covered by
+
+a green one. And it can't be green
+because every green layer is blocked by
+
+an orange one above it. What if we had a
+machine display each digit of Pi
+
+in order at a supertask pace? After its
+finite runtime, what would be on the
+
+screen?
+The last digit of Pi?
+
+Well, that's impossible, right? But how could it be anything else? A supertask allows us
+
+to exhaust an infinite sequence.
+
+Paul Benacerraf delivered what is often considered the
+best response to these confusions. Is
+
+Thomson's lamp on or off?
+
+Is the cube orange or green? The answer
+is we don't know, because these questions
+
+are incomplete. Thomson's lamp could be
+on or off or broken. The cube could
+
+appear orange or green or something else.
+But the supertasks, as stated, don't let
+
+us figure out which. I may as well ask
+you if a lamp hidden in a locked room
+
+is on or off. It's definitely one or the other,
+but I haven't given you enough information
+
+to do anything but guess. Supertasks like
+these describe an endless sequence of
+
+tasks and then ask us about the end.
+But we can't determine an outcome because,
+
+although there may be an end to their
+duration, there is no end,
+
+no final member of their actions.
+They must be reworded or coupled with extra
+
+assumptions in order to be solved.
+For example, if we assume that the switch
+
+used on Thomson's lamp can only be all
+the way on or all the way off, we can't
+
+determine where it is after the supertask.
+But if the switch is, say, a
+
+bouncing ball that completes the circuit
+turning the lamp on each time it bounces
+
+on a metal plate, an outcome can be
+determined. If the physics here are ideal
+
+and the ball bounces half as high and
+half the time as it did on
+
+the previous balance, its sequence of
+bounce heights will turn the lamp on and
+
+off an infinite number of times in a
+finite amount of time. Although this
+
+bouncing ball has no penultimate state,
+no second-to-last bounce, it does have an
+
+ultimate state, a final one,
+
+resting on the plate. The circuit will be
+complete and the lamp will be on. You can
+
+also describe a switch on Thomson's lamp that leaves it off.
+
+Sometimes, the
+
+next state after infinitely many isn't
+paradoxical because of lack of
+
+information, but because of a surprising,
+or non-intuitive, discontinuity that
+
+occurs there. The Ross–Littlewood paradox
+is one of the greatest examples. Imagine
+
+a giant urn that can hold an unlimited
+number of balls. Now, imagine that you
+
+have an unlimited supply of balls, each
+with a unique natural number written on
+
+it. All natural numbers, in fact, since
+there's no end to how many balls you
+
+have. Now, working at an accelerated Zenoian pace you move the balls to the urn
+
+10 at a time,
+
+but in a weird way. At step one, you place
+balls number 1 to 10 in the urn, but
+
+remove number 1. At step two, a minute
+later, you place balls 11 to 20 in the
+
+urn and remove ball number 2. At step three,
+you place balls 21 to 30 in the urn
+
+and remove ball 3, and so on.
+
+Upon the completion of the supertask
+how many balls will be in the urn? At
+
+first the answer seems obvious. At each
+step you are adding 10 balls and
+
+subtracting 1, so a net of nine balls
+is added each time.
+
+9 + 9 + 9 + 9 forever, the series grows without end.
+
+Infinite nine's means infinite balls at
+the end. But here's the problem. At each
+
+step, the ball with that step's number
+written on it is removed. Ball 1 is
+
+removed at step one, ball 2 was removed
+at step two, ball 12-googol is removed at
+
+step twelve-googol. Since there are an
+endless number of steps for any ball
+
+number, there is a step number at which
+it is removed. So although the urn's ball
+
+population grows without bound during
+the task, after the supertask the
+
+number drops to 0.
+
+It gets weirder. Here's a second, seemingly identical
+method. Instead of beginning with balls
+
+1 to 10 and then removing 1, begin with
+balls 1 to 9. Then write
+
+zero after the "1" on ball 1. For step two, add balls 11 to 19 and draw a zero on ball 2, making it
+
+say 20. For every finite step, both methods
+results in identical earned contents, but
+
+after infinitely many steps, the first
+leaves us with no balls and the second
+
+leaves us with infinitely many balls
+written on which are all the natural
+
+numbers, each followed by an infinite
+string of zeros. Both are discontinuous
+
+at infinity, but dang, in very different ways.
+The bigger question now becomes, "so
+
+what? Who cares?" You will never have an
+infinite number of balls and you will
+
+never have a large enough to urn to
+hold all of them. You will never build a
+
+lamp that can turn on and off
+
+arbitrarily fast. We cannot investigate
+time or space past a certain smallness,
+
+except when pretending, so what are supertasks, but recreational fictions,
+
+entertaining riddles? We can ask more
+questions than we can answer, so what?
+
+Well, here's what.
+
+Neanderthals. Neanderthals and humans, us,
+Homo sapiens, lived together in Europe
+
+for at least five thousand years.
+Neanderthals were strong and clever, they
+
+may have even intentionally buried their
+dead, but for hundreds of thousands of
+
+years, Neanderthals barely
+
+went anywhere. They pretty much just explored
+and spread until they reached water or
+
+some other obstacle and then stopped.
+Homo sapiens, on the other hand, didn't do
+
+that. They did things that make no sense
+crossing terrain and water without
+
+knowing what lay ahead. Svante Pääbo has
+worked on the Neanderthal genome at the
+
+Max Planck Institute for Evolutionary Anthropology
+and he points out that
+
+technology alone didn't allow humans to go to
+Madagascar, to Australia. Neanderthals
+
+built boats too. Instead, he says, there's
+"some madness there. How many people
+
+must have sailed out and vanished on the
+Pacific before you found Easter Island? I
+
+mean, it's ridiculous. And why do you do
+that? Is it for the glory? For immortality?
+
+For curiosity? And now we go to Mars. We
+never stop." It's ridiculous, foolish, maybe?
+
+But it was the Neanderthals who went
+extinct, not the humans. Maybe it's only a
+
+fool who will perilously journey out to
+what might not be there. And maybe it's
+
+only a fool who will ask about supertasks,
+about infinity. But if you want to
+
+solve problems, you don't just solve the
+ones that are there, you find more and
+
+make more and go after the impossible
+ones; fostering a love and obsession with
+
+problems
+
+is how you solve problems.
+
+Antoine de Saint-Exupéry wasn't a
+mathematician, but his advice
+
+fits nicely here. If you want to build a
+ship, don't drum up people to collect
+
+wood and don't assign them tasks and work,
+but rather teach them to long for the
+
+endless immensity of the sea.
+
+And as always,
+
+thanks for watching.
+
+Supertasks are cool, but super gifts are
+even cooler. That's why I'm excited to
+
+announce this year's Vsauce holiday
+box. This thing comes loaded with
+
+exclusive Vsauce stuff and science gear,
+plus all Vsauce proceeds go directly to
+
+Alzheimer's research. I'm really proud of
+this box. You can pick one up at
+
+geekfuel.com/Vsauce,
+link down in the description.
+
+There's a limited amount available, so
+don't hesitate.
+
+And as always,
+
+thanks for watching.
+

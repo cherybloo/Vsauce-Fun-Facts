@@ -1,0 +1,1689 @@
+ ♪
+
+"I think, therefore, I am."
+
+But am I?
+
+I think. Ha.
+
+A single microscopic brain cell
+cannot think,
+
+is not conscious,
+
+but if you bring in
+a few more brain cells,
+
+and a few more,
+and connect them all,
+
+at a certain point,
+the group itself will 
+
+be able to think
+
+and experience emotions
+
+and have opinions
+and a personality
+
+and know that it exists.
+
+How can such astonishing things
+
+be made from
+such simple ingredients?
+
+Well, answering that question
+means learning not only who
+we are,
+
+but, more importantly,
+ how we are.
+
+Today, using what
+neuroscientists know so far,
+
+I am going to make my hometown
+
+function like a brain!
+
+( all cheering, applauding )
+
+ ♪
+
+A single brain cell is tiny,
+
+both in size and abilities.
+
+But when enough are together,
+they can do amazing things
+
+like be aware of themselves.
+
+When the collective power
+of a group working together
+
+is greater than the sum
+of their individual parts,
+
+that is called "emergence."
+
+In a similar fashion,
+we as individuals
+
+are connected to
+the people around us.
+
+Those connections
+form communities that,
+when functioning properly,
+
+can work together
+to accomplish amazing feats.
+
+A great example is
+"wisdom of the crowds."
+
+Even if not a single person
+in a crowd
+
+knows the right answer
+to a question,
+
+collectively, they could all
+somehow know the right answer.
+
+In 1987, economist
+Jack Treynor
+
+conducted
+the "Bean Jar" experiment.
+
+He asked 56 students
+to guess the number
+of jellybeans in a jar.
+
+Now, as you can probably guess,
+
+not a single one of them
+guessed the right answer.
+
+But amazingly, when he took
+the average of their guesses,
+
+what he got was a number within
+just 3% of the real answer.
+
+Now, some people
+guessed way too high,
+
+but others guessed
+way too low,
+
+so all together,
+their errors balanced out,
+
+and from a whole bunch
+of wrong guesses,
+
+the true answer emerged.
+
+What else can a crowd do?
+
+If I got a bunch
+of humans together
+
+and had each one of them
+act like a brain cell,
+
+turning on or off in response
+to the actions of other people,
+
+could I make a neural network
+
+like the one in our brain?
+
+And if I had enough people,
+
+could intelligence, emotions,
+
+a mind, emerge?
+
+ If I recruited
+ every single person
+
+ in the country of China
+
+ and arranged them like neurons,
+
+ would the result not only be
+ a simple brain,
+
+ but something that can think
+ and feel
+
+ and be aware of
+ its own existence?
+
+Well, this is the China Brain
+thought experiment,
+
+first proposed by Lawrence Davis
+and, later, Ned Block.
+
+It's never been done before
+and, well, unfortunately,
+
+I don't have access
+to everyone in China.
+
+I made some calls,
+and like a lot of them are busy.
+
+But the first step is to see
+what a crowd in real life
+
+could even do.
+
+This hasn't been done
+successfully before,
+
+but I want to blow
+a neural network
+
+up to the scale of a crowd.
+
+And what better crowd to use
+than one made of the people
+
+whose emergent properties
+made me who I am today?
+
+That's right, I am going home
+to Stilwell, Kansas.
+
+ ♪
+
+ ♪
+
+( birds chirping )
+
+Michael:
+ For help designing the brain
+
+ we would make out of people,
+
+ I recruited Chris Eliasmith,
+
+ director of the Center
+ for Theoretical Neuroscience
+
+ at the University of Waterloo.
+
+So Chris,
+we're headed south,
+
+going down to
+the heart of Stilwell,
+
+- where I grew up.
+- Nice.
+
+We're going to do something
+a little bit weird. Um.
+
+I want to create a brain.
+
+- Right.
+- OK? But with
+  a crowd of people.
+
+It sounds like a challenge,
+for sure.
+
+I looked into it,
+
+and I found that the roundworm
+has a brain
+
+that's made up of only
+300-some-odd neurons.
+
+- That's right.
+- We can get 300 people,
+
+and where better to get
+these people to make a brain
+
+than my hometown of Stilwell?
+
+This was the community
+that, in many ways,
+made me who I am.
+
+Michael:
+ This is all downtown Stilwell.
+
+ Some of my earliest memories
+ are from here.
+
+This used to be,
+and maybe still is,
+a feed store,
+
+and they would have sno-cones
+during the summer.
+
+It was the most awesome,
+delicious thing ever.
+
+But as you can see,
+
+ a lot of corn
+ is grown in Kansas,
+
+ but around here, the main thing
+ that I saw being grown
+
+- was just sod.
+- Oh, really?
+
+Yeah, There's a famous sod farm
+around here
+
+whose slogan was
+"High on grass."
+
+- ( Chris laughs )
+- It was pretty...pretty edgy
+ for the time.
+
+OK, so back to the brain
+that we're gonna make.
+
+You know, building brains is
+in my job description.
+
+I wrote a book called
+ How to Build a Brain.
+
+Michael:
+ Chris is known for
+ is neural network,
+
+ the Semantic Pointer
+ Architecture Unified Network,
+
+ or SPAUN, which is one of
+ the world's most complex
+
+ computer simulations
+ of the brain.
+
+ It uses 6.6 million
+ simulated neurons
+
+ to perform functions
+ like counting, reasoning,
+
+ and image recognition.
+
+ SPAUN is cutting-edge,
+
+ but neural networks
+ are nothing new.
+
+ The first was made
+ by Dr. Frank Rosenblatt
+
+ of Cornell University in 1957.
+
+ His network, called
+ the Perceptron,
+
+ was designed for
+ image recognition,
+
+ and he hoped it would become
+ capable of learning,
+
+ just like a brain.
+
+ But the project was only
+ partially successful,
+
+ and after some controversy,
+ fell by the wayside.
+
+ It was only when researchers
+ in the 1980s
+
+ came back upon
+ Dr. Rosenblatt's work,
+
+ and as computing power
+ increased,
+
+ that the field of artificial
+ neural networks
+
+ came back to the mainstream.
+
+ Today, it is alive and well.
+
+ SPAUN, and even neural networks
+ used in self-driving cars,
+
+ are expanding the possibilities
+ of computer learning.
+
+If I want to make
+a brain out of people,
+where do I start?
+
+That's a good question.
+
+I think the first thing
+we want to do is figure out
+
+what we want our brain to do.
+
+I would recommend
+something like vision.
+
+Vision. Let's make
+this brain see.
+
+Michael:
+ Before we can design
+ the intricacies
+
+ of the brain we're making,
+
+ let's look at how
+ visual processing works.
+
+ Let's say we look at a cat.
+
+ Light information
+ from every point on the cat
+
+ lands on the retina.
+
+ This information gets sent
+ to our visual cortex.
+
+ The visual cortex 
+ is structured in layers--
+
+ V1 through V6.
+
+ Each of these layers
+ are made up of neurons
+
+ activated by specific features,
+
+ like lines, angles, and shapes.
+
+ The features that are detected
+
+ are sent to
+ the infratemporal cortex
+
+ which puts all the pieces
+ of the image together,
+
+ and we get our Eureka! moment
+
+ where we recognize
+ the object we're looking at,
+
+ what it means what feelings
+ we have towards it.
+
+I love cats.
+
+But what should we have
+our brain recognize?
+
+We don't want
+really high resolution images
+
+or images that depend
+on too much detail,
+
+- Ok.
+- so things like letters
+and digits.
+
+Let's say we use digits. Ok?
+
+- Ok.
+- I want to be the one
+who draws a digit,
+
+and then you will be
+on the output side.
+
+You should be able
+to determine what I've drawn;
+
+not because I showed it
+to someone and they
+telephoned it back to you,
+
+but because
+they processed it
+intelligently.
+
+That's what we need
+to figure out,
+
+how we're gonna
+show an input to our people.
+
+So we should take
+some small number of them
+
+and put them at the front,
+as the retina,
+
+and really just show them each
+a little bit of the image.
+
+So if, for instance,
+we're able to put like
+25 people in that kind
+of front row,
+
+the "input" layer,
+then whatever image we show
+
+should be made up
+of 25 pixels.
+
+- Exactly. Right.
+- Twenty-five pieces.
+
+I'm gonna draw
+25 people.
+
+1, 2, 3, 4, 5,
+
+6, 7, 8, 9, 10,
+
+11, 12, 13, 14, 15,
+
+16, 17, 18, 19, 20,
+
+21, 22, 23, 24, 25.
+
+See? I can count.
+
+These are our retina cells,
+
+and each one is
+an individual person
+
+that's literally standing,
+like, in a field.
+
+What do they then do next?
+
+They merely need to indicate
+whether or not
+
+their cell is on or off.
+
+- All right.
+- So, they should start firing.
+
+They should start spiking
+like a neuron.
+
+What could they do
+to indicate
+
+that they're firing or not?
+
+They could jump up and down,
+
+they could wave a flag...
+
+OK, I like that.
+
+When Chris and I use words
+like "firing" and "spiking,"
+
+we're talking about
+how brain cells, neurons,
+
+talk to one another
+
+by sending an electric message
+from one cell...
+
+to another.
+
+It's called
+an "action potential,"
+
+and it travels down the axon
+of the cell.
+
+When the ionic flow
+into a brain cell
+
+reaches a certain threshold,
+
+the cell will fire an electronic
+message down its axon.
+
+So a neuron
+can either be on or off.
+
+It's either firing
+or it's not firing.
+
+What we need to find
+is a way for a person
+
+to be either on or off--
+
+raising a flag or their hand
+should do the trick.
+
+ To illustrate our visual input,
+
+ I will be drawing a number
+ from 0 to 9
+
+ onto a grid divided
+ into 25 squares, or pixels.
+
+ Now each person, or neuron,
+ will receive one pixel.
+
+ If a neuron receives
+ a pixel with writing on it,
+
+ it will fire.
+
+ The V1 layer identifies
+ pixels in the retinal layer
+
+ that form particular lines
+ in the number,
+
+ and the V2 layer identifies
+ particular combinations
+
+ of lines from V1
+ that form angles.
+
+- What does V3 do?
+- V3 is more sensitive to color.
+
+We're only working with
+black and white in this case.
+
+So you're saying we won't even
+need to have a V3 in our brain?
+
+We're skipping V3 altogether.
+
+All right, sorry, V3.
+
+- So we're gonna go
+ straight to V4?
+- Yeah.
+
+Michael:
+ V4 neurons will fire
+
+ when their assigned
+ combinations of angles
+
+ have been detected.
+
+ At this point
+ the basic shape of a number
+
+ is beginning to take form.
+
+And so actually the next one
+is called IT.
+
+- Ooh!
+- And that stands for
+ infratemporal cortex.
+
+Michael:
+ Now don't worry.
+
+ We haven't forgotten V5 and V6.
+
+ They exist, they're responsible
+
+ for higher-level image
+ processing in our brain.
+
+ But for our demonstration,
+ we don't need them.
+
+ We do, however, need
+ the infratemporal cortex,
+
+ which is the final layer needed
+ for visual processing
+
+ in the brain we're designing.
+
+ Our IT will consist
+ of ten neurons
+
+ representing the numbers
+ 0 through 9.
+
+ They will be looking at neurons
+ in V4,
+
+ and will only fire when their
+ corresponding neurons fire.
+
+ For example, if one
+ or multiple V4 neurons
+
+ representing the shapes
+ of an 8 fire,
+
+ the IT neuron
+ representing the 8
+ will also fire.
+
+ Voila! We just recognized
+ a number.
+
+So what happens after
+the infratemporal layer?
+
+So after that,
+I think that's where I'll be.
+
+It's gonna be me making a
+decision about what digit
+I think was actually shown at
+the end.
+
+So I think we're gonna need
+a couple hundred people,
+
+so one question is,
+where do you put
+that many people?
+
+I would love to use
+my high school football field.
+
+The question is,
+is it gonna work?
+
+- I am hopeful right now.
+- We got our work cut out for
+us.
+
+Michael: Knowing how
+ we want to structure
+
+ our neural network,
+ it was now time for us
+
+ to head to my high school
+ football field
+
+ where our "brain"
+ will take form.
+
+ I spent a lot of time here
+
+ impressing the world
+ with my body's prowess--
+
+ at the clarinet.
+
+OK, so Chris,
+I brought you here
+
+because we need to talk about
+
+the actual logistics of getting
+all these people together.
+
+So here's the plan
+as I see it.
+
+Everyone is going to be
+wearing a shirt
+
+that is a different color,
+based on what layer they're in.
+
+We're also gonna give
+everyone one of those, um,
+
+like, "I'm running
+in a marathon" kind of...
+
+- The big bibs?
+- Bibs. Thank you. Yes.
+
+I knew that too. You see,
+
+I'm always checking, because
+Chris is one of those nerds
+
+who doesn't know
+what us sportos
+talk about.
+
+Anyway, the bibs
+will give every person
+an individual number,
+
+so if something goes wrong,
+
+we can target
+that one brain cell
+
+and say, "Are you damaged?
+What do you need?"
+
+Take out the problem.
+
+OK, we're here
+on this 40 yard line.
+
+I will be here.
+This is gonna be
+the input layer.
+
+The retinal cells will be
+all in front of me,
+all 25 of them.
+
+You are gonna be
+way down in the end zone
+on the output side.
+
+And I'm gonna be
+using the scoreboard.
+
+-Ok.
+- So when you
+make your prediction,
+
+based on what you think
+the brain has figured out,
+
+we'll put that on
+the Visitor's side
+
+and I'll reveal the Home number
+as what I really wrote.
+
+- Sounds good.
+- So literally from here
+ to that end zone
+
+is the amount of space
+we're going to need
+
+for these hundreds of people
+
+to also have
+the right eye lines.
+
+Just have to make sure that
+communication lines are open,
+
+meaning that it's easy to see
+whoever you have to
+pay attention to.
+
+Michael:
+ Our human brain will have
+ a couple hundred people
+
+ spread out in five layers
+
+ across half a football field.
+
+ Every single participant
+ will be assigned
+
+ to only react
+ to certain neurons
+
+ in the layer ahead of them.
+
+ And it's complicated,
+ so their positions on the field
+
+ had to be carefully chosen
+ so that every neuron
+
+ has a clear line of sight
+
+ to the neurons
+ they are connected to.
+
+In a way...
+
+something will be born
+on this field tomorrow.
+
+( laughs )
+
+- We shall find out.
+- We'll find out!
+
+All right.
+
+( crowd chattering )
+
+Michael:
+ So what does it take
+ to turn Stilwell into a brain?
+
+ Well, seven tents, 550 chairs,
+
+ twenty gallons of coffee,
+ three hundred flags,
+
+ t-shirt and hats,
+
+ our drone operator Jeff,
+
+ this cute little Gator,
+
+ two hundred cinnamon rolls,
+
+ and of course,
+ our medic, Brian.
+
+ Now all that's left
+ is to pull this all off.
+
+ A community is something
+ that is bigger
+
+ that the sum
+ of all of its parts,
+
+and so is a brain.
+
+Now, today, I'm feeling
+pretty excited about
+
+the neural network
+we're gonna build out of people,
+
+because there's a zero percent
+chance of rain,
+
+but a 100% chance of brain.
+
+OK, we better get started.
+
+ The gates are open,
+ and our neurons are filing in.
+
+ First, they're all given
+ color-coded t-shirts
+
+ associated with the layer of
+ the brain they will represent.
+
+Just want go in the center?
+
+Michael:
+ And then they will
+ take to the field
+
+ to get in position.
+
+Michael:
+You all in the orange shirts
+are the retina.
+
+Your job is to say,
+"Is there writing on my square?"
+
+or "Not." If your square
+has any writing
+
+or black marks on it,
+raise your flag--
+oh, and stand up.
+
+ Now I'm sure all you
+ mega-brainiacs out there
+
+ remember every detail about
+ how this brain
+
+ is going to recognize numbers.
+
+ But just in case you don't,
+ here's a refresher.
+
+ I will draw a number
+ on a 25-pixel grid,
+
+ break the squares up,
+ and hand them out
+
+ to every person
+ in the retina layer.
+
+ The retinal neurons
+ will only fire if they
+ have writing on their pixel.
+
+The people in the yellow shirts,
+
+you guys are V1.
+
+ Each V1 neuron will be watching
+
+ three retinal neurons
+ in front of them
+
+ and fire only if all three
+
+ of their assigned retinal
+ neurons fire,
+
+ revealing lines
+ that make up the number.
+
+You guys are V2.
+
+You're a bit more advanced.
+
+You're looking for combinations
+of features
+
+that make, for instance, angles.
+
+ The V2 neurons will be watching
+ the V1 layer,
+
+ and fire only if
+ their assigned V1 neurons fire,
+
+ revealing angles.
+
+ V4 neurons will be
+ looking at V2 neurons.
+
+ Their firing reveals
+ combinations of angles
+
+ that begin to form the number.
+
+Finally, the purple shirts.
+
+You all are
+infratemporal cortex.
+
+Extremely important role,
+
+not more important
+than the others, though.
+
+ Part of the IT's function
+ is to inhibit
+
+ incorrect results it receives
+ from the V4 layer.
+
+ For example, if V4 neurons
+ are indicating
+
+ both a 6 and an 8,
+
+ an 8 will outrank a 6
+ because an 8 has more features.
+
+ Chris will determine the number
+ by interpreting the results
+ from the IT layer.
+
+ Got it? Good. Because
+ it's happening now.
+
+Michael (over loudspeaker):
+All right!
+
+It is time for me
+to draw my first numeral.
+
+Stand by.
+
+There it is.
+
+Now it's time to distribute
+these pixels
+
+to the photoreceptors
+in the retina.
+
+25, 24...
+
+19...
+
+13...
+
+All right.
+
+I have distributed
+
+the input to the retina layer.
+
+Is everyone ready?
+
+( all cheering, applauding )
+
+Three, two,
+one, think!
+
+ And they're off.
+ The retina layer has fired,
+
+ passing off signals to V1.
+
+ V2 sees V1 firing,
+ and also fires,
+
+ cuing V4 and IT.
+
+ There's a lot of flags
+ on the play, folks.
+
+Look at all this processing.
+
+Good work, stay up,
+
+I'm now walking back to Chris
+
+where he will tell me
+what you guys have processed.
+
+All right, Chris,
+it actually happened
+
+way faster than I thought.
+
+It took me forever
+to get over here.
+
+They were already done
+"thinking."
+
+It was really interesting
+to watch.
+
+We had a little bit of noise
+in the system, for sure,
+
+because we actually kind of
+have two answers at the end.
+
+So I'm going to be doing
+something that brains do,
+
+which is kind of
+make a guess sometimes
+based on the best evidence.
+
+Michael:
+All right, Chris.
+
+What numeral
+do you think I drew?
+
+Chris:
+I think you drew a 3.
+
+Let's get that up
+on the Visitor's scoreboard.
+
+The numeral I truly drew...
+
+was a 3!
+
+( all cheering, applauding )
+
+Chris:
+Nice work.
+
+There was some noise
+in the system.
+
+I think we can perfect this
+a little bit,
+
+because it wasn't
+a confident 3,
+
+but Chris did still
+get it right.
+
+And by "Chris,"
+I mean all of you.
+
+Michael:
+ We gave each of our IT neurons
+ a clear tube and plastic balls
+
+ to make their job easier.
+
+ Every time they see one of the
+ neurons they're watching fire,
+
+ they put a ball in their tube.
+
+ If a neuron
+ they're inhibited by
+
+ has more balls than they do,
+
+ they stop firing.
+
+Michael:
+Our model had a mistake.
+
+You should have been
+inhibited by 254,
+
+meaning that if 254 is firing,
+
+and puts a ball in the tube,
+
+- you just sit down.
+- OK.
+
+But we didn't have 254
+written down into your code.
+
+I'm gonna do that right now.
+
+ With that kink worked out,
+
+ it was time to try again.
+
+Take that one.
+Thank you.
+24...
+
+Michael:
+Three, two, one...
+
+go!
+
+Michael:
+Ooh. There's not much happening
+
+in V2 and V4.
+
+Or IT, for that matter.
+
+Looks like our brain died.
+
+Michael:
+ Something definitely
+ went wrong.
+
+ The processing stopped in V2.
+
+So, I think our brain broke.
+
+Not a single person in V4
+
+or the infratemporal cortex
+
+has been activated.
+
+Chris: Seems like something
+very strange happened
+
+when the light
+went through the lens
+and got to the retina.
+
+OK, but what you really mean to
+say is that I handed the pixels
+out to the wrong neurons.
+
+- It's lookin' that way.
+- Wow, who would have thought
+
+that the worst-working
+part of the machine
+
+would be the actual people
+who get to be people
+
+- and not brain cells?
+- I know, right?
+
+OK, I think
+I'm gonna do an 8 this time.
+
+And I'm gonna put it
+kind of up in this corner,
+
+or along that side.
+
+This is pretty weird,
+it's not centered,
+
+it's not filling up
+the whole space.
+
+Let's see if our brain
+can recognize it.
+
+ Each pixel of our image
+ needs to go
+
+ to a particular retinal neuron.
+
+ To make sure I didn't
+ mess it up again,
+
+ we put numbers
+ on the back of each one.
+
+Is everyone ready?
+
+- ( all cheer )
+- OK.
+
+Three, two, one, go!
+
+Michael:
+Oh, yeah.
+
+Whoa!
+That was fast.
+
+Michael:
+ Blink, and you'll miss it,
+ so let's take a break,
+
+ because this is the Mind Field
+ Play of the Game.
+
+ The 8 I drew contained
+ 13 pixels,
+
+ and bam! the 13 retinal cells
+ connected to those locations
+ are firing.
+
+ Now, that's what I call
+ a sensation.
+
+ V1 reads the formation
+ perfectly.
+
+ They don't even know it,
+ but each one firing
+
+ means a horizontal, vertical,
+
+ or diagonal line
+ has been caught.
+
+ Now look at neuron 40's speed.
+
+ It's sensitive only to
+ a horizontal line
+
+ low and to the right,
+ which my 8 had.
+
+ If retinal cells 23, 24, and 25
+ all fire together,
+
+ such a line has been sensed,
+ and watch this--boom!
+
+ Champion reflexes there,
+ folks.
+
+ If the V1 neurons
+ a V2 player is watching, fire,
+
+ they stand, and that means
+ that the lines V1 caught
+
+ made some corner angle.
+
+ Standing V4 neurons are shapes
+ made by those corners,
+
+ but it all comes down to IT.
+
+ A bunch of them fire.
+
+ Lots of numbers contain
+ the shapes I drew,
+
+ but there can only be
+ one MVP,
+
+ and, dang,
+ look at this teamwork!
+
+ 3 is inhibited by 8,
+
+ 0 is inhibited by 8.
+
+ If 8 is getting
+ this much activity,
+
+ sit down
+ and let that neuron score!
+
+ This, my friends, is what
+ we in the cognition sports biz
+
+ call...a gr8 play.
+
+Chris (over loudspeaker:
+The purple people neurons
+
+make me think that
+you wrote an 8.
+
+An 8? Let's put an 8
+up on the scoreboard.
+
+And as it turns out,
+the numeral that I did write...
+
+was an 8!
+
+( all cheering, applauding )
+
+- Nice job!
+- That was good.
+
+Michael:
+ This was our first
+ definitive success.
+
+ Now it's time to really
+ put the system to the test.
+
+So I'm gonna draw a 1,
+
+but then I'm gonna add
+a line down here
+
+and I'm gonna do
+a dot right there.
+
+And we're gonna see if
+that noise trips up our brain.
+
+Three, two, one, go!
+
+My guess is a 1.
+
+The number that I drew was,
+in fact, a 1.
+
+( cheers, applause )
+
+7...and I'm gonna put
+a line through it.
+
+Go!
+
+Oh, yeah.
+
+Man, these people are good.
+
+Chris:
+The brain thinks
+it's just saw a 7.
+
+I wrote a 7.
+
+- ( cheers, applause )
+- Nice work.
+
+Nice work.
+
+Michael:
+ With two successful
+ results in a row,
+
+ for the last test
+ I want to see what will happen
+
+ if I really
+ mess with our brain.
+
+I'm not even going to draw
+a number;
+
+instead, I'm going to
+fill in every single cell.
+
+This means that
+every single neuron
+in the retina will fire,
+
+will stand up and wave.
+Let's see what happens.
+
+My prediction, of course,
+it's gonna look like an 8,
+
+because an 8 is a numeral that
+fills in a lot of the cells.
+
+Are you all ready?
+
+- ( all cheer )
+- Good.
+
+- Chris, are you ready?
+- Ready!
+
+Michael:
+All right, I'm ready.
+
+Three, two, one, go!
+
+Chris:
+What?!
+
+( laughing )
+
+- ( all cheering )
+- Michael: Look at that.
+
+- Michael: Holy cow!
+- ( Chris laughs )
+
+It looks to me like you
+essentially opened up the eye
+
+and shone a laser
+right into it.
+
+Right, yeah.
+So what I did is,
+I didn't even draw a numeral.
+
+I just scribbled
+all over the whole thing,
+I filled in every single cell.
+
+- So what does the brain
+ think that I drew?
+- The 8.
+
+I had no idea the inhibition
+would work that well.
+
+We were able to single
+all of that mess
+
+down into just one guess,
+
+and it really was
+the smartest guess.
+
+Right, it was the one with
+the most features in it.
+
+Michael:
+Congratulations to
+the entire infratemporal cortex,
+
+V4, V2, V1, retina.
+
+You guys have been amazing.
+Great work.
+
+( cheers, applause )
+
+Today, I was a neuron.
+
+My favorite part
+about the brain
+
+was that it actually worked.
+
+My favorite part
+was just the whole experience,
+
+doing science,
+meeting cool people.
+
+It's just a really good
+simulation of how
+the brain works,
+
+and it was just really cool
+to take some information
+from that.
+
+Michael:
+And as always,
+
+thanks for...being a brain.
+
+( all cheer )
+
+Michael:
+ Our small-town brain
+
+ did work as predicted.
+
+Made up of only 
+a couple hundred neurons,
+
+each one with no idea
+what number I was drawing,
+
+it was nonetheless able
+to process the image
+
+and determine
+the correct answer.
+
+We created a living,
+breathing model
+
+of a part of the human brain.
+
+And our demonstration
+was a new way
+
+to illustrate and share
+
+how the human brain
+processes visual information.
+
+We were able to watch it
+process...think...
+
+in real time,
+and that's amazing.
+
+Its success shows what we can
+achieve by working together,
+
+and we only used
+a small fraction
+
+of the number of neurons found
+in an actual human brain.
+
+So imagine how powerful
+
+the connections of
+not a few hundred,
+
+but a hundred billion 
+human neurons could be.
+
+Now, interestingly,
+
+a hundred billion people
+is about how many humans
+
+have ever existed
+in the history of Earth.
+
+There are only a few billion
+alive right now,
+
+so I guess that means
+get procreating...please.
+
+I want to make a bigger
+superhuman mind.
+
+No. I'd like to thank
+every neuron
+
+from my hometown of Stilwell,
+
+and the entire community
+that supported us.
+
+Because without them
+all working together,
+
+none of this
+would have been possible.
+
+And as always...
+
+thanks for watching.
+
+ ♪
+
+- ( no audible dialogue )
+- ♪
+

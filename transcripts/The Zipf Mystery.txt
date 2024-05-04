@@ -1,0 +1,641 @@
+Hey, Vsauce. Michael here. About 6 percent of
+everything you say and read and write is
+
+the
+
+"the" - is the most used word in the
+English language. About one out of every
+
+16 words we encounter on a daily basis
+is "the." The top 20 most common English
+
+words in order are "the," "of," "and," "to," "a," "in," "is," "I," "that," "it," "for," "you,"
+
+"was," "with," "on," "as," "have," "but," "be," "they."
+That's a fun fact. A piece of trivia but it's
+
+also more. You see, whether the most
+commonly used words are ranked across an
+
+entire language, or in just one book or
+article, almost every time a bizarre
+
+pattern emerges. The second most used
+word will appear about half as often as
+
+the most used. The third one third as
+often. The fourth one fourth as often. The
+
+fifth one fifth as often. The sixth one sixth
+as often, and so on all the way down.
+
+Seriously. For some reason, the amount of
+times a word is used is just
+
+proportional to one over its rank. Word
+frequency and ranking on a log log graph
+
+follow a nice straight line. A power-law.
+This phenomenon is called Zipf's Law and
+
+it doesn't only apply to English. It also
+applies to other languages, like, well,
+
+all of them.
+
+Even ancient languages we haven't been
+able to translate yet.
+
+And here's the thing. We have no idea why.
+It's surprising that something as
+
+complex as reality should be conveyed by
+something as creative as language in
+
+such a predictable way. How predictable?
+Well, watch this. According to WordCount.org,
+
+which ranks words as found in the
+British National Corpus, "sauce" is the
+
+5,555th most common English word.
+Now, here is a list of how many times
+
+every word on Wikipedia and in the
+entire Gutenberg Corpus of tens of
+
+thousands of public domain books shows
+up. The most used word, 'the,' shows up about
+
+181 million times. Knowing these two
+things, we can estimate that the word
+
+"sauce" should appear about thirty
+thousand times on Wikipedia and
+
+Gutenberg combined.
+And it pretty much does.
+
+What gives? The world is chaotic. Things are
+distributed in myriad of ways, not just
+
+power laws. And language is personal,
+
+intentional, idiosyncratic. What about the
+world and ourselves could cause such
+
+complex activities and behaviors to
+follow such a basic rule? We literally
+
+don't know. More than a century of
+research has yet to close the case.
+
+Moreover, Zipf's law doesn't just
+mysteriously describe word use. It's
+
+also found in city populations, solar
+flare intensities, protein sequences and
+
+immune receptors, the amount of traffic
+websites get, earthquake magnitudes, the
+
+number of times academic papers are
+cited, last names, the firing patterns of
+
+neural networks, ingredients used in
+cookbooks, the number of phone calls
+
+people received, the diameter of Moon
+craters, the number of people that die
+
+in wars, the popularity of opening chess
+moves, even the rate at which we forget.
+
+There are plenty of theories about why
+language is 'zipf-y,' but no firm conclusions
+
+and this video doesn't contain a
+definite explanation either. Sorry, I know
+
+that's a bummer, since we appear to like
+knowing more than mystery. But that said,
+
+we also ask more than we answer. So
+let's dive into Zipf's ramifications, some
+
+related patterns, some possible
+explanations and the depth of the
+
+mystery itself.
+Zipf's law was popularized by George Zipf,
+
+a linguist at Harvard University. It is a
+discrete form of the continuous Pareto
+
+distribution from which we get the
+Pareto Principle. Because so many
+
+real-world processes behave this way,
+the Pareto Principle tells us that, as a rule
+
+of thumb, it's worth assuming that 20% of
+the causes are responsible for 80% of
+
+the outcome,
+
+like in language, where the most
+frequently used 18 percent of words
+
+account for over 80% of word occurrences.
+In 1896, Vilfredo Pareto showed that
+
+approximately 80% of the land in Italy
+was owned by just twenty percent of the
+
+population. It is said that he later
+noticed in his garden 20 percent of his
+
+pea pods contained eighty percent of the
+peas. He and other researchers looked at
+
+other datasets and found that this 80-20
+imbalance comes up a lot in the world.
+
+The richest 20% of humans have 82.7% of
+the world's income. In the US, 20% of
+
+patients use eighty percent of health
+care resources. In 2002, Microsoft
+
+reported that 80% of the errors and
+crashes in Windows and Office are caused
+
+by 20% of the bugs detected. A common
+rule of thumb in the business world
+
+states that 20% of your customers are
+responsible for 80% of your profits and
+
+eighty percent of the complaints you
+receive will come from 20% of your
+
+customers. A book titled "The 80/20 Principle"
+even says that in a home or
+
+office,
+
+20% of the carpet receives 80 percent of
+the wear. Oh, and as Woody Allen famously
+
+said, "eighty percent of success is just
+showing up." The Pareto Principle is
+
+everywhere, which is good.
+
+By focusing on just 20 percent of what's
+wrong, you can often expect to solve
+
+eighty percent of the problems. A variety
+of different unrelated factors cause
+
+this to be true from case to case, but if
+we can get to the bottom of what causes
+
+some of them,
+
+maybe we'll find that one or more of
+those mechanisms is responsible for
+
+Zipf's law in language. George Zipf
+himself thought languages' interesting rank
+
+frequency distribution was a consequence
+of the Principle of Least Effort. The
+
+tendency for life and things to follow
+the path of least resistance. Zipf believed
+
+it drove much of human behavior and
+hypothesized that as language developed
+
+in our species, speakers naturally
+preferred drawing from as few words as
+
+possible to get their thoughts out there.
+It was easier. But in order to understand
+
+what was being said,
+
+listeners preferred larger vocabularies
+that gave more specificity, so that they
+
+had to do less work. The compromise
+between listening and speaking, Zipf felt,
+
+led to the current state of language.
+A few words are used often and many many
+
+many words are used rarely.
+
+Recent papers have suggested that having
+a few short, often used, predictable words
+
+helps dissipate information load density
+on listeners, spacing out important vocab
+
+so that the information rate is more
+constant. This makes sense and much has
+
+been learned by applying the least
+effort principle to other behaviors, but
+
+later researchers argued that for
+language, the explanation was even more
+
+simple. Just a few years after Zipf's
+seminal paper, Benoit Mandelbrot showed
+
+that there may be nothing mysterious
+about Zipf's law at all, because even if you
+
+just randomly type on a keyboard you
+will produce words distributed according
+
+to Zipf's law. It's a pretty cool point and
+this is why it happens. There are
+
+exponentially more different long words
+than short words. For instance, the English
+
+alphabet can be used to make 26 one
+letter words, but 26 squared 2 letter
+
+words. Also, in random typing, whenever the
+space bar is pressed a word terminates.
+
+Since there's always a certain chance that
+the space bar will be pressed, longer
+
+stretches of time before it happens
+
+are exponentially less likely than
+shorter ones. The combination of these
+
+exponentials is pretty 'Zipf-y.'
+For example, if all 26 letters and the
+
+spacebar are equally likely to be typed,
+after a letter is typed and a word has
+
+begun, the probability that the next
+input will be a space, thus creating a
+
+one letter word, is just one in 27.
+And sure enough, if you randomly generate
+
+characters or hire a proverbial typing
+monkey, about one out of every 27 or 3.7
+
+percent of the stuff between spaces,
+will be single letters. Two letter words
+
+appear when after beginning a word any
+character but the space bar is hit - a 26
+
+in 27 chance and then the space bar.
+
+A three-letter word is the probability
+of a letter, another letter and then a
+
+space. If we divide by the number of
+unique words of each length there can be,
+
+we get the frequency of occurrence
+expected for any particular word given
+
+its length. For example, the letter V will
+make up about 0.142 percent of
+
+random typing. The word "Vsauce"
+0.0000000993 percent. Longer words are
+
+less likely, but watch this. Let's spread
+these frequencies out according to the
+
+ranks they'd take up on a most often
+used list. There are 26 possible one
+
+letter words, so each of the top 26
+ranked words are expected to occur
+
+about this often. The next 676 ranks will be taken up
+
+by two letter words that show up about
+this often. If we extend each frequency
+
+according to how many members it has,
+we get Zipf. Subsequent researchers have
+
+detailed how changing up the initial
+conditions can smooth the steps out. Our
+
+mysterious distribution has been created
+out of nothing but the inevitabilities
+
+of math.
+
+So maybe there is no mystery. Maybe words
+are just the result of humans randomly
+
+segmenting the observable world and the
+mental world into labels and Zipf's law
+
+describes what naturally happens when
+you do that. Case closed. and as always
+
+And as always,
+
+thanks for... wait a minute!
+
+Actual language is very different from
+random typing. Communication is
+
+deterministic to a certain extent.
+Utterances and topics arrive based on
+
+what was said before. And the vocabulary
+we have to work with certainly isn't the
+
+result of purely random naming.
+For example, the monkey typing model can't
+
+explain why even the names of the
+elements, the planets and the days of the
+
+week are used in language according to
+Zipf's law. Sets like these are constrained
+
+by the natural world and they're not the
+result of us randomly segmenting the
+
+world into labels. Furthermore, when given
+a list of novel words, words they've
+
+never heard or used before, like when
+prompted to write a story about alien
+
+creatures with strange names, people will
+naturally tend to use the name of one
+
+alien twice as often as another, three
+times as often as another... Zipf's law appears to
+
+be built into our brains. Perhaps there
+is something about the way thoughts and
+
+topics of discussion ebb and flow that
+contributes to Zipf's law.
+
+Another way 'Zipf-ian' distributions
+occur is via processes that change
+
+according to how they've previously
+operated. These are called preferential
+
+attachment processes.
+They occur when something - money, views,
+
+attention, variation, friends, jobs,
+anything really is given out according
+
+to how much is already possessed.
+To go back to the carpet example, if most
+
+people walk from the living room to the
+kitchen across a certain path, furniture
+
+will be placed elsewhere, making that
+path even more popular. The more views
+
+a video or image or post has,
+the more likely it is to get recommended
+
+automatically or make the news for
+having so many views, both of which give
+
+it more views.
+
+It's like a snowball rolling down a
+snowy hill. The more snow it accumulates, the
+
+bigger its surface area becomes for
+collecting more and the faster it grows.
+
+There doesn't have to be a deliberate
+choice driving a preferential attachment
+
+process. It can happen naturally. Try this.
+Take a bunch of paper clips and grab any
+
+two at random.
+
+Link them together and then throw them
+back in the pile. Now, repeat over and
+
+over again. If you grab paper clips that
+are already part of a chain, link 'em anyway.
+
+More often than not after a while
+you will have a distribution that looks
+
+'Zipf-ian.' A small number of chains
+contain a disproportionate amount of the
+
+total paperclip count. This is simply
+because the longer a chain gets, the
+
+greater proportion of the whole it
+contains, which gives it a better chance
+
+of being picked up in the future and
+consequently made even longer. The rich
+
+get richer, the big get bigger,
+the popular get popular-er. It's just math.
+
+Perhaps languages' Zipf mystery is, if not
+caused by it, at least strengthened by
+
+preferential attachment. Once a word is
+used, it's more likely to be used again soon.
+
+Critical points may play a role as well.
+
+Writing and conversation often stick to a
+topic until a critical point is reached
+
+and the subject is changed and
+the vocabulary shifts. Processes like these
+
+are known to result in power laws. So, in
+the end, it seems tenable that all these
+
+mechanisms might collude to make Zipf's
+law the most natural way for language to
+
+be. Perhaps some of our vocabulary and
+grammar was developed randomly, according
+
+to Mandelbrot's theory. And the natural
+way conversation and discussion follow
+
+preferential attachment and criticality,
+coupled with the principle of least
+
+effort when speaking and listening are
+all responsible for the relationship
+
+between word rank and frequency.
+
+It's a shame that the answer isn't
+simpler, but it's fascinating because of
+
+the consequences it has on what
+communication is made of. Roughly
+
+speaking, and this is mind blowing, nearly
+half of any book, conversation or article
+
+will be nothing but the same 50 to 100
+words. And nearly the other half will be
+
+words that appear in that selection only
+once. That's not so surprising when you
+
+consider the fact that one word accounts
+for 6 percent of what we say. The top 25
+
+most used words make up about a third of
+everything we say and the top 100 about
+
+half. Seriously. I mean, whether it's all the
+words in "Wet Hot American Summer," or all
+
+the words in Plato's "Complete Works" or
+in the complete works of Edgar Allan Poe
+
+or the Bible itself, only about 100 words
+are used for nearly half of everything
+
+written or said. In Alice's Adventures in
+Wonderland 44% and in Tom Sawyer 49.8%
+
+of the unique words used appear only
+once in the book. A word that is used
+
+only once in a given selection of words
+is called a 'hapax legomenon.'
+
+Hapax legomena are vitally important to
+understanding languages. If a word has
+
+only been found once in the entire known
+collection of an ancient language, it can
+
+be very difficult to figure out what it
+means. Now, there is no corpus of
+
+everything ever said or written in
+English, but there are very very large
+
+collections and it's fun to find hapax legomena in them.
+For instance, and this
+
+probably won't be the case after I
+mention it, but the word "quizzaciously"
+
+is in the Oxford English Dictionary, but
+appears nowhere on Wikipedia or in the
+
+Gutenberg corpus or in the British
+National Corpus or the American National
+
+Corpus, but it does appear when searched in
+just one result on Google. Fittingly, in a
+
+book titled "ElderSpeak" that lists it
+as a 'rare word.' Quizzaciously, by the way,
+
+means "in a mocking manner," as in
+"The paradist rattled off quizzaciously,
+
+'Hey, Vsauce. Michael here. But who is Michael
+and how much does here
+
+weigh?'" It's a little sad that quizzaciously
+has been used so infrequently. It's a
+
+fun word, but that's the way things go in
+a 'Zipf-ian' system. Some things get all the
+
+love, some get little. Most of what you
+experience on a day-to-day basis is
+
+forgotten, forgettable. The Dictionary of Obscure Sorrows, as it often does, has a
+
+word for this - Olēka - the awareness of how
+few days are memorable.
+
+I've been alive for almost 11,000 days
+but I couldn't tell you something about
+
+each one of them. I mean, not even close.
+
+Most of what we do and see and think and
+say and hear and feel is forgotten
+
+at a rate quite similar to Zipf's law,
+which makes sense. If a number of factors
+
+naturally selected for thinking and
+talking about the world with tools in
+
+a 'Zipf-ian' way, it makes sense we'd
+remember it that way too. Some things
+
+really well, most things hardly at all.
+But it bums me out sometimes because it
+
+means that so much is forgotten,
+even things that at the time you thought you
+
+could never forget. My locker number -
+
+senior year - its combination, the jokes
+I liked when I saw a comedian on stage,
+
+the names of people I saw every day 10
+years ago. So many memories are gone. When
+
+I look at all the books I've read and
+realize that I can't remember every
+
+detail from them, it's a little
+disappointing. I mean, why even bother if
+
+the Pareto Principle dictates that my
+'Zipf-ian' mind will consciously remember
+
+pretty much only the titles and a few
+basic reactions years later
+
+Ralph Waldo Emerson makes me feel better.
+He once said, "I cannot remember the books
+
+I've read any more than the meals I have
+eaten. Even so, they have made me."
+
+And as always,
+
+thanks for watching.
+
