@@ -3,19 +3,35 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from youtube_transcript_api import YouTubeTranscriptApi as yta
+
 import time
 import sys
 import json
+import os
 
 def main():
     if len(sys.argv) == 2:
         channelId = f"https://www.youtube.com/@{sys.argv[1]}/videos"
         if get_videos_links(channelId) == "SUCCESS":
-            print("YUHUUU")
-        else:
-            print("Please try again!")
+            with open("videos.json","r") as videos:
+                datas = json.load(videos)
+                for data in datas:
+                    try:
+                        create_transcript(data['title'],data['vidId'])
+                    except:
+                        pass
     else:
         print("Please use the correct input")
+
+def create_transcript(title,videoId):
+    transcript_full = yta.get_transcript(videoId)
+    if not os.path.exists('transcripts'):
+        os.makedirs('transcripts')
+    else:
+        with open(f"transcripts/{title}.txt","w") as title:
+            for transcript in transcript_full:
+                title.write(transcript["text"] + "\n\n")
 
 def get_videos_links(channelId):
     url = channelId
@@ -53,8 +69,9 @@ def get_videos_links(channelId):
     except:
         pass
 
-    with open("bruh.json","w") as trace:
+    with open("videos.json","w") as trace:
         json.dump(videoLinks,trace)
+    driver.quit()
     return ("SUCCESS")
 
 
