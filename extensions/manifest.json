@@ -1,12 +1,19 @@
 {
     "name": "vsauce",
     "version": "1.0",
-    "manifest_version": 2,
+    "manifest_version": 3,
 
     "description": "Our World Is Awesome",
     "permissions": [
-        "storage"
+        "activeTab"
     ],
+    "host_permissions":[
+        "https://raw.githubusercontent.com/cherybloo/Vsauce-Fun-Facts/main/funfact.json"
+    ],
+
+    "background":{
+        "scripts":["funfact.js"]
+    },
 
     "content_scripts": [
         {
@@ -34,23 +41,5 @@
             ],
         "js": ["funfact.js"]
         }
-    ],
-
-    "browser_action": {
-        "default_icon": {
-            "16": "vsauce-16.png",
-            "32": "vsauce-32.png",
-            "48": "vsauce-48.png",
-            "64": "vsauce-64.png",
-            "128": "vsauce-128.png"
-        },
-        "default_title": "vsauce"
-    },
-
-    "options_ui": {
-        "page": "options.html",
-        "open_in_tab": true,
-        "browser_style": false,
-        "chrome_style": false
-    }
+    ]
 }
