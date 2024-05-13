@@ -32,8 +32,8 @@
 # Files Explained
 ## 1. bulletpoints.py
 This python script is to convert all the youtube transcripts from the `transcripts folder` into a useful bullet point that then could be converted into a JSON file for the web extension. I utilized the power of [Vertex AI](https://cloud.google.com/generative-ai-studio?hl=en) to generate all of the bullet points and saved the responses into a txt file.
-### Library used:
-- 
+#### External ibrary used:
+- google-cloud-aiplatform
 
 ## 2. convert.py
 This is a simple script to convert the clean txt file into JSON file.
@@ -41,7 +41,7 @@ This is a simple script to convert the clean txt file into JSON file.
 
 ## 3. transcripts.py
 This particular script combines all my skills in web scraping, saving files into a different folder, and also cleaning up some responses
-### Library used:
+#### External libraries used:
 - selenium
 - webdriver-manager
 - youtube-transcript-api
