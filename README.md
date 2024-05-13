@@ -24,4 +24,7 @@
 2. Follow the instructions below based on your web browswer
    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Brave_logo.svg" height="50"> | <img src="https://brave.com/static-assets/images/firefox-logo.svg" height="50"/>|
    |---|---|
-   | 1 | 2 |
+   | 1. Go to `Settings` > `Extensions` > `Load unpacked` | 1. Type `about:debugging` on the search bar |
+   |2. Locate to where the git repository saved | 2. Click on `This Firefox` > `Load Temporary Add-on...`|
+   |3. Select the `extensions` folder| 3. Locate to where the git repository saved > `extensions` folder|
+   ||4. Select the `manifest.json` file|
