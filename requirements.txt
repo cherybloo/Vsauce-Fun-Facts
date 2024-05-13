@@ -1,3 +1,4 @@
 selenium
 webdriver-manager
 youtube-transcript-api
+google-cloud-aiplatform
