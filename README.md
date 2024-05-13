@@ -22,3 +22,6 @@
    git clone https://github.com/cherybloo/Vsauce-Fun-Facts.git
    ```
 2. Follow the instructions below based on your web browswer
+   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Brave_logo.svg" height="50"> | <img src="https://brave.com/static-assets/images/firefox-logo.svg" height="50"/>|
+   |---|---|
+   | 1 | 2 |
